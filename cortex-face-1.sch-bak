@@ -65,13 +65,24 @@ Wire Wire Line
 	3750 3400 4100 3400
 $Comp
 L Device:R_Small R?
+U 1 1 5DF03241
+P 1400 2300
+F 0 "R?" V 1204 2300 50  0000 C CNN
+F 1 "22" V 1295 2300 50  0000 C CNN
+F 2 "" H 1400 2300 50  0001 C CNN
+F 3 "~" H 1400 2300 50  0001 C CNN
+	1    1400 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R?
 U 1 1 5DF0424D
-P 1250 2400
-F 0 "R?" V 1054 2400 50  0000 C CNN
-F 1 "22" V 1145 2400 50  0000 C CNN
-F 2 "" H 1250 2400 50  0001 C CNN
-F 3 "~" H 1250 2400 50  0001 C CNN
-	1    1250 2400
+P 1100 2400
+F 0 "R?" V 904 2400 50  0000 C CNN
+F 1 "22" V 995 2400 50  0000 C CNN
+F 2 "" H 1100 2400 50  0001 C CNN
+F 3 "~" H 1100 2400 50  0001 C CNN
+	1    1100 2400
 	0    1    1    0   
 $EndComp
 $Comp
@@ -265,6 +276,14 @@ F 3 "~" H 1100 1800 50  0001 C CNN
 	1    1100 1800
 	0    1    1    0   
 $EndComp
+Wire Wire Line
+	2000 2400 1200 2400
+Wire Wire Line
+	2000 2300 1500 2300
+Wire Wire Line
+	1300 2300 800  2300
+Wire Wire Line
+	1000 2400 800  2400
 $Comp
 L power:GND #PWR?
 U 1 1 5DF4D637
@@ -307,84 +326,4 @@ Wire Wire Line
 	1600 1600 1600 1850
 Wire Wire Line
 	1000 1800 1000 1950
-$Comp
-L Switch:SW_Push SW?
-U 1 1 5DF56B3E
-P 1700 1300
-F 0 "SW?" H 1700 1585 50  0000 C CNN
-F 1 "SW_Push" H 1700 1494 50  0000 C CNN
-F 2 "" H 1700 1500 50  0001 C CNN
-F 3 "~" H 1700 1500 50  0001 C CNN
-	1    1700 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR?
-U 1 1 5DF57557
-P 1350 1200
-F 0 "#PWR?" H 1350 950 50  0001 C CNN
-F 1 "GND" H 1355 1027 50  0000 C CNN
-F 2 "" H 1350 1200 50  0001 C CNN
-F 3 "" H 1350 1200 50  0001 C CNN
-	1    1350 1200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2000 1300 1950 1300
-Wire Wire Line
-	1500 1300 1500 1200
-Wire Wire Line
-	1500 1200 1350 1200
-$Comp
-L Device:R_Small R?
-U 1 1 5DF5A270
-P 1950 950
-F 0 "R?" H 2009 996 50  0000 L CNN
-F 1 "10k" H 2009 905 50  0000 L CNN
-F 2 "" H 1950 950 50  0001 C CNN
-F 3 "~" H 1950 950 50  0001 C CNN
-	1    1950 950 
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1950 1300 1950 1050
-Connection ~ 1950 1300
-Wire Wire Line
-	1950 1300 1900 1300
-Wire Wire Line
-	1950 850  1950 800 
-$Comp
-L power:+5V #PWR?
-U 1 1 5DF5C393
-P 1950 800
-F 0 "#PWR?" H 1950 650 50  0001 C CNN
-F 1 "+5V" H 1965 973 50  0000 C CNN
-F 2 "" H 1950 800 50  0001 C CNN
-F 3 "" H 1950 800 50  0001 C CNN
-	1    1950 800 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R_Small R?
-U 1 1 5DF03241
-P 1550 2300
-F 0 "R?" V 1354 2300 50  0000 C CNN
-F 1 "22" V 1445 2300 50  0000 C CNN
-F 2 "" H 1550 2300 50  0001 C CNN
-F 3 "~" H 1550 2300 50  0001 C CNN
-	1    1550 2300
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	1350 2400 2000 2400
-Wire Wire Line
-	1650 2300 2000 2300
-Wire Wire Line
-	1450 2300 800  2300
-Wire Wire Line
-	1150 2400 800  2400
-Text GLabel 800  2300 0    50   Input ~ 0
-D+
-Text GLabel 800  2400 0    50   Input ~ 0
-D-
 $EndSCHEMATC
