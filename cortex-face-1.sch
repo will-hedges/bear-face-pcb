@@ -14,58 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L power:GND #PWR0101
-U 1 1 5E172281
-P 1000 6050
-F 0 "#PWR0101" H 1000 5800 50  0001 C CNN
-F 1 "GND" H 1005 5877 50  0000 C CNN
-F 2 "" H 1000 6050 50  0001 C CNN
-F 3 "" H 1000 6050 50  0001 C CNN
-	1    1000 6050
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0103
-U 1 1 5E21C565
-P 4150 5950
-F 0 "#PWR0103" H 4150 5700 50  0001 C CNN
-F 1 "GND" H 4155 5777 50  0000 C CNN
-F 2 "" H 4150 5950 50  0001 C CNN
-F 3 "" H 4150 5950 50  0001 C CNN
-	1    4150 5950
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR?
-U 1 1 5E307ED8
-P 4000 6150
-F 0 "#PWR?" H 4000 6000 50  0001 C CNN
-F 1 "+5V" H 4015 6323 50  0000 C CNN
-F 2 "" H 4000 6150 50  0001 C CNN
-F 3 "" H 4000 6150 50  0001 C CNN
-	1    4000 6150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1000 6050 1700 6050
-$Comp
-L power:GND #PWR?
-U 1 1 5DFB9F5F
-P 1150 6150
-F 0 "#PWR?" H 1150 5900 50  0001 C CNN
-F 1 "GND" H 1155 5977 50  0000 C CNN
-F 2 "" H 1150 6150 50  0001 C CNN
-F 3 "" H 1150 6150 50  0001 C CNN
-	1    1150 6150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1150 6150 1700 6150
-Wire Wire Line
-	3100 5950 4150 5950
-Wire Wire Line
-	3100 6150 4000 6150
-$Comp
 L Switch:SW_Push SW?
 U 1 1 5DFE33D6
 P 1700 5000
@@ -89,19 +37,6 @@ F 3 "" H 2000 5000 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2000 5000 1900 5000
-$Comp
-L promicro:ProMicro U1
-U 1 1 5E16F462
-P 2400 6600
-F 0 "U1" H 2400 7637 60  0000 C CNN
-F 1 "ProMicro" H 2400 7531 60  0000 C CNN
-F 2 "" H 2500 5550 60  0000 C CNN
-F 3 "" H 2500 5550 60  0000 C CNN
-	1    2400 6600
-	1    0    0    -1  
-$EndComp
-Text GLabel 3100 6050 2    50   Input ~ 0
-RESET
 Text GLabel 1500 5000 0    50   Input ~ 0
 RESET
 $Comp
@@ -146,7 +81,6 @@ Wire Wire Line
 	1750 3950 2000 3950
 Text Label 1800 3950 0    50   ~ 0
 GND
-NoConn ~ 3100 5850
 Text GLabel 11050 850  1    50   Input ~ 0
 COL9
 Connection ~ 11050 1250
@@ -2656,4 +2590,100 @@ Wire Wire Line
 	10550 850  10550 1250
 Wire Wire Line
 	11050 850  11050 1250
+$Comp
+L keebio:Elite-C U?
+U 1 1 5DFC593F
+P 2500 6150
+F 0 "U?" H 2500 6987 60  0000 C CNN
+F 1 "Elite-C" H 2500 6881 60  0000 C CNN
+F 2 "" V 3550 3650 60  0001 C CNN
+F 3 "" V 3550 3650 60  0001 C CNN
+	1    2500 6150
+	1    0    0    -1  
+$EndComp
+NoConn ~ 3200 5600
+Text GLabel 3200 5900 2    50   Input ~ 0
+ROW0
+$Comp
+L power:GND #PWR?
+U 1 1 5DFDE84B
+P 1000 5800
+F 0 "#PWR?" H 1000 5550 50  0001 C CNN
+F 1 "GND" H 1005 5627 50  0000 C CNN
+F 2 "" H 1000 5800 50  0001 C CNN
+F 3 "" H 1000 5800 50  0001 C CNN
+	1    1000 5800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 5800 1000 5800
+$Comp
+L power:GND #PWR?
+U 1 1 5DFF615E
+P 1200 5900
+F 0 "#PWR?" H 1200 5650 50  0001 C CNN
+F 1 "GND" H 1205 5727 50  0000 C CNN
+F 2 "" H 1200 5900 50  0001 C CNN
+F 3 "" H 1200 5900 50  0001 C CNN
+	1    1200 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 5900 1800 5900
+Text GLabel 3200 6100 2    50   Input ~ 0
+ROW2
+Text GLabel 3200 6200 2    50   Input ~ 0
+ROW3
+Text GLabel 3200 6300 2    50   Input ~ 0
+ROW4
+Text GLabel 3200 6400 2    50   Input ~ 0
+ROW5
+Text GLabel 3200 6500 2    50   Input ~ 0
+ROW6
+Text GLabel 3200 5800 2    50   Input ~ 0
+RESET
+Text GLabel 3200 6600 2    50   Input ~ 0
+ROW7
+Text GLabel 3200 6700 2    50   Input ~ 0
+ROW8
+$Comp
+L power:GND #PWR?
+U 1 1 5E0176F9
+P 4000 5700
+F 0 "#PWR?" H 4000 5450 50  0001 C CNN
+F 1 "GND" H 4005 5527 50  0000 C CNN
+F 2 "" H 4000 5700 50  0001 C CNN
+F 3 "" H 4000 5700 50  0001 C CNN
+	1    4000 5700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 5700 3200 5700
+Text GLabel 3200 6000 2    50   Input ~ 0
+ROW1
+Text GLabel 1800 5600 0    50   Input ~ 0
+COL0
+Text GLabel 1800 5700 0    50   Input ~ 0
+COL1
+Text GLabel 1800 6000 0    50   Input ~ 0
+COL2
+Text GLabel 1800 6100 0    50   Input ~ 0
+COL3
+Text GLabel 1800 6200 0    50   Input ~ 0
+COL4
+Text GLabel 1800 6300 0    50   Input ~ 0
+COL5
+Text GLabel 1800 6400 0    50   Input ~ 0
+COL6
+Text GLabel 1800 6500 0    50   Input ~ 0
+COL7
+Text GLabel 1800 6600 0    50   Input ~ 0
+COL8
+Text GLabel 1800 6700 0    50   Input ~ 0
+COL9
+NoConn ~ 2300 7100
+NoConn ~ 2400 7100
+NoConn ~ 2500 7100
+NoConn ~ 2600 7100
+NoConn ~ 2700 7100
 $EndSCHEMATC

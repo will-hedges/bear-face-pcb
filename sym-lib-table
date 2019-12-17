@@ -3,4 +3,5 @@
   (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
   (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/teensy_library/teensy.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri ${KIPRJMOD}/keebio-components/keebio.lib)(options "")(descr ""))
 )
