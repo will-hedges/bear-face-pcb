@@ -7,3 +7,6 @@
 [submodule "ProMicroKiCad"]
 	path = ProMicroKiCad
 	url = https://github.com/Biacco42/ProMicroKiCad
+[submodule "teensy_library"]
+	path = teensy_library
+	url = https://github.com/XenGi/teensy_library
