@@ -16,3 +16,6 @@
 [submodule "keebio-components"]
 	path = keebio-components
 	url = https://github.com/keebio/keebio-components
+[submodule "keebs.pretty"]
+	path = keebs.pretty
+	url = https://github.com/covah901/keebs.pretty
