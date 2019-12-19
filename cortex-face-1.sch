@@ -2371,8 +2371,6 @@ F 3 "" V 3550 3650 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 3200 5600
-Text GLabel 3200 5900 2    50   Input ~ 0
-ROW0
 $Comp
 L power:GND #PWR0102
 U 1 1 5DFDE84B
@@ -2399,22 +2397,8 @@ F 3 "" H 1200 5900 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1200 5900 1800 5900
-Text GLabel 3200 6100 2    50   Input ~ 0
-ROW2
-Text GLabel 3200 6200 2    50   Input ~ 0
-ROW3
-Text GLabel 3200 6300 2    50   Input ~ 0
-ROW4
-Text GLabel 3200 6400 2    50   Input ~ 0
-ROW5
-Text GLabel 3200 6500 2    50   Input ~ 0
-ROW6
 Text GLabel 3200 5800 2    50   Input ~ 0
 RESET
-Text GLabel 3200 6600 2    50   Input ~ 0
-ROW7
-Text GLabel 3200 6700 2    50   Input ~ 0
-ROW8
 $Comp
 L power:GND #PWR0104
 U 1 1 5E0176F9
@@ -2428,33 +2412,6 @@ F 3 "" H 4000 5700 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4000 5700 3200 5700
-Text GLabel 3200 6000 2    50   Input ~ 0
-ROW1
-Text GLabel 1800 5600 0    50   Input ~ 0
-COL0
-Text GLabel 1800 5700 0    50   Input ~ 0
-COL1
-Text GLabel 1800 6000 0    50   Input ~ 0
-COL2
-Text GLabel 1800 6100 0    50   Input ~ 0
-COL3
-Text GLabel 1800 6200 0    50   Input ~ 0
-COL4
-Text GLabel 1800 6300 0    50   Input ~ 0
-COL5
-Text GLabel 1800 6400 0    50   Input ~ 0
-COL6
-Text GLabel 1800 6500 0    50   Input ~ 0
-COL7
-Text GLabel 1800 6600 0    50   Input ~ 0
-COL8
-Text GLabel 1800 6700 0    50   Input ~ 0
-COL9
-NoConn ~ 2300 7100
-NoConn ~ 2400 7100
-NoConn ~ 2500 7100
-NoConn ~ 2600 7100
-NoConn ~ 2700 7100
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX_RALT1
 U 1 1 5E060A29
@@ -2686,4 +2643,17 @@ F 3 "~" V 6250 1550 50  0001 C CNN
 	1    6250 1550
 	0    -1   -1   0   
 $EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5DFD83F1
+P 3850 5900
+F 0 "#PWR?" H 3850 5750 50  0001 C CNN
+F 1 "+5V" H 3865 6073 50  0000 C CNN
+F 2 "" H 3850 5900 50  0001 C CNN
+F 3 "" H 3850 5900 50  0001 C CNN
+	1    3850 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3850 5900 3200 5900
 $EndSCHEMATC
