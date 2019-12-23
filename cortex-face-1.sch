@@ -2768,15 +2768,15 @@ F 3 "" V 3550 3650 60  0001 C CNN
 $EndComp
 Text GLabel 3200 6000 2    50   Input ~ 0
 COL0
-Text GLabel 3200 6700 2    50   Input ~ 0
+Text GLabel 3200 6500 2    50   Input ~ 0
 COL1
 Text GLabel 3200 6100 2    50   Input ~ 0
 COL2
-Text GLabel 3200 6500 2    50   Input ~ 0
+Text GLabel 3200 6300 2    50   Input ~ 0
 COL3
 Text GLabel 1800 6000 0    50   Input ~ 0
 COL4
-Text GLabel 2300 7100 3    50   Input ~ 0
+Text GLabel 1800 6700 0    50   Input ~ 0
 COL5
 Text GLabel 1800 6100 0    50   Input ~ 0
 COL6
@@ -2784,17 +2784,17 @@ Text GLabel 1800 6600 0    50   Input ~ 0
 COL7
 Text GLabel 1800 6500 0    50   Input ~ 0
 COL8
-Text GLabel 3200 6600 2    50   Input ~ 0
-COL9
-Text GLabel 2700 7100 3    50   Input ~ 0
-ROW0
 Text GLabel 3200 6400 2    50   Input ~ 0
+COL9
+Text GLabel 3200 6700 2    50   Input ~ 0
+ROW0
+Text GLabel 2700 7100 3    50   Input ~ 0
 ROW1
-Text GLabel 3200 6300 2    50   Input ~ 0
+Text GLabel 2600 7100 3    50   Input ~ 0
 ROW2
 Text GLabel 3200 6200 2    50   Input ~ 0
 ROW3
-Text GLabel 2600 7100 3    50   Input ~ 0
+Text GLabel 3200 6600 2    50   Input ~ 0
 ROW4
 Text GLabel 2500 7100 3    50   Input ~ 0
 ROW5
@@ -2807,5 +2807,5 @@ ROW8
 NoConn ~ 1800 5600
 NoConn ~ 1800 5700
 NoConn ~ 2400 7100
-NoConn ~ 1800 6700
+NoConn ~ 2300 7100
 $EndSCHEMATC
