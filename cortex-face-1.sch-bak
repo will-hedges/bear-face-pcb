@@ -45,7 +45,7 @@ U 1 1 5E0114F2
 P 1250 3850
 F 0 "USB1" V 1787 3817 60  0000 C CNN
 F 1 "Molex-0548190589" V 1681 3817 60  0000 C CNN
-F 2 "Keebio-Parts:USB-Mini-B_ LCSC-C46398" H 1250 3850 60  0001 C CNN
+F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 1250 3850 60  0001 C CNN
 F 3 "" H 1250 3850 60  0001 C CNN
 	1    1250 3850
 	0    -1   -1   0   
@@ -56,7 +56,7 @@ U 1 1 5DFA6A6C
 P 2200 3750
 F 0 "J1" H 2280 3742 50  0000 L CNN
 F 1 "Conn_01x04" H 2280 3651 50  0000 L CNN
-F 2 "Connector_Wire:SolderWirePad_1x04_P3.81mm_Drill1mm" H 2200 3750 50  0001 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x04_P3.175mm_Drill0.8mm" H 2200 3750 50  0001 C CNN
 F 3 "~" H 2200 3750 50  0001 C CNN
 	1    2200 3750
 	1    0    0    -1  
@@ -2788,15 +2788,15 @@ Text GLabel 3200 6400 2    50   Input ~ 0
 COL9
 Text GLabel 3200 6700 2    50   Input ~ 0
 ROW0
-Text GLabel 2600 7100 3    50   Input ~ 0
+Text GLabel 2700 7100 3    50   Input ~ 0
 ROW1
-Text GLabel 2500 7100 3    50   Input ~ 0
+Text GLabel 2600 7100 3    50   Input ~ 0
 ROW2
 Text GLabel 3200 6200 2    50   Input ~ 0
 ROW3
 Text GLabel 3200 6600 2    50   Input ~ 0
 ROW4
-Text GLabel 2400 7100 3    50   Input ~ 0
+Text GLabel 2500 7100 3    50   Input ~ 0
 ROW5
 Text GLabel 1800 6400 0    50   Input ~ 0
 ROW6
@@ -2806,6 +2806,6 @@ Text GLabel 1800 6300 0    50   Input ~ 0
 ROW8
 NoConn ~ 1800 5600
 NoConn ~ 1800 5700
+NoConn ~ 2400 7100
 NoConn ~ 2300 7100
-NoConn ~ 2700 7100
 $EndSCHEMATC
