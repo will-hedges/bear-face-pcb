@@ -2359,48 +2359,6 @@ Wire Wire Line
 	10550 850  10550 1250
 Wire Wire Line
 	11050 850  11050 1250
-NoConn ~ 3200 5600
-$Comp
-L power:GND #PWR0102
-U 1 1 5DFDE84B
-P 1000 5800
-F 0 "#PWR0102" H 1000 5550 50  0001 C CNN
-F 1 "GND" H 1005 5627 50  0000 C CNN
-F 2 "" H 1000 5800 50  0001 C CNN
-F 3 "" H 1000 5800 50  0001 C CNN
-	1    1000 5800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1800 5800 1000 5800
-$Comp
-L power:GND #PWR0103
-U 1 1 5DFF615E
-P 1200 5900
-F 0 "#PWR0103" H 1200 5650 50  0001 C CNN
-F 1 "GND" H 1205 5727 50  0000 C CNN
-F 2 "" H 1200 5900 50  0001 C CNN
-F 3 "" H 1200 5900 50  0001 C CNN
-	1    1200 5900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1200 5900 1800 5900
-Text GLabel 3200 5800 2    50   Input ~ 0
-RESET
-$Comp
-L power:GND #PWR0104
-U 1 1 5E0176F9
-P 4000 5700
-F 0 "#PWR0104" H 4000 5450 50  0001 C CNN
-F 1 "GND" H 4005 5527 50  0000 C CNN
-F 2 "" H 4000 5700 50  0001 C CNN
-F 3 "" H 4000 5700 50  0001 C CNN
-	1    4000 5700
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4000 5700 3200 5700
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX_RALT1
 U 1 1 5E060A29
@@ -2633,19 +2591,6 @@ F 3 "~" V 6250 1550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:+5V #PWR0105
-U 1 1 5DFD83F1
-P 3850 5900
-F 0 "#PWR0105" H 3850 5750 50  0001 C CNN
-F 1 "+5V" H 3865 6073 50  0000 C CNN
-F 2 "" H 3850 5900 50  0001 C CNN
-F 3 "" H 3850 5900 50  0001 C CNN
-	1    3850 5900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3850 5900 3200 5900
-$Comp
 L keebio:Hole H1
 U 1 1 5E003DA3
 P 1000 1500
@@ -2755,6 +2700,61 @@ F 3 "" H 3000 2000 60  0001 C CNN
 	1    3000 2000
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3850 5900 3200 5900
+$Comp
+L power:+5V #PWR0105
+U 1 1 5DFD83F1
+P 3850 5900
+F 0 "#PWR0105" H 3850 5750 50  0001 C CNN
+F 1 "+5V" H 3865 6073 50  0000 C CNN
+F 2 "" H 3850 5900 50  0001 C CNN
+F 3 "" H 3850 5900 50  0001 C CNN
+	1    3850 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 5700 3200 5700
+$Comp
+L power:GND #PWR0104
+U 1 1 5E0176F9
+P 4000 5700
+F 0 "#PWR0104" H 4000 5450 50  0001 C CNN
+F 1 "GND" H 4005 5527 50  0000 C CNN
+F 2 "" H 4000 5700 50  0001 C CNN
+F 3 "" H 4000 5700 50  0001 C CNN
+	1    4000 5700
+	1    0    0    -1  
+$EndComp
+NoConn ~ 3200 5600
+NoConn ~ 1800 5700
+NoConn ~ 1800 5600
+Wire Wire Line
+	1200 5900 1800 5900
+$Comp
+L power:GND #PWR0103
+U 1 1 5DFF615E
+P 1200 5900
+F 0 "#PWR0103" H 1200 5650 50  0001 C CNN
+F 1 "GND" H 1205 5727 50  0000 C CNN
+F 2 "" H 1200 5900 50  0001 C CNN
+F 3 "" H 1200 5900 50  0001 C CNN
+	1    1200 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 5800 1000 5800
+$Comp
+L power:GND #PWR0102
+U 1 1 5DFDE84B
+P 1000 5800
+F 0 "#PWR0102" H 1000 5550 50  0001 C CNN
+F 1 "GND" H 1005 5627 50  0000 C CNN
+F 2 "" H 1000 5800 50  0001 C CNN
+F 3 "" H 1000 5800 50  0001 C CNN
+	1    1000 5800
+	1    0    0    -1  
+$EndComp
 $Comp
 L keebio:Elite-C U1
 U 1 1 5DFC593F
@@ -2766,46 +2766,46 @@ F 3 "" V 3550 3650 60  0001 C CNN
 	1    2500 6150
 	1    0    0    -1  
 $EndComp
-Text GLabel 3200 6000 2    50   Input ~ 0
-COL0
-Text GLabel 3200 6500 2    50   Input ~ 0
-COL1
-Text GLabel 3200 6100 2    50   Input ~ 0
-COL2
 Text GLabel 3200 6300 2    50   Input ~ 0
-COL3
-Text GLabel 1800 6000 0    50   Input ~ 0
-COL4
-Text GLabel 1800 6700 0    50   Input ~ 0
-COL5
-Text GLabel 1800 6100 0    50   Input ~ 0
-COL6
-Text GLabel 1800 6600 0    50   Input ~ 0
-COL7
-Text GLabel 1800 6500 0    50   Input ~ 0
-COL8
-Text GLabel 3200 6400 2    50   Input ~ 0
-COL9
-Text GLabel 3200 6700 2    50   Input ~ 0
-ROW0
-Text GLabel 2700 7100 3    50   Input ~ 0
-ROW1
-Text GLabel 2600 7100 3    50   Input ~ 0
-ROW2
-Text GLabel 3200 6200 2    50   Input ~ 0
-ROW3
-Text GLabel 3200 6600 2    50   Input ~ 0
-ROW4
-Text GLabel 2500 7100 3    50   Input ~ 0
 ROW5
-Text GLabel 1800 6400 0    50   Input ~ 0
-ROW6
-Text GLabel 1800 6200 0    50   Input ~ 0
-ROW7
-Text GLabel 1800 6300 0    50   Input ~ 0
+Text GLabel 3200 6700 2    50   Input ~ 0
+ROW2
+Text GLabel 3200 6600 2    50   Input ~ 0
+ROW1
+Text GLabel 3200 6500 2    50   Input ~ 0
+ROW4
+Text GLabel 2600 7100 3    50   Input ~ 0
+ROW3
+Text GLabel 2700 7100 3    50   Input ~ 0
+ROW0
+Text GLabel 2400 7100 3    50   Input ~ 0
+COL9
+Text GLabel 3200 6100 2    50   Input ~ 0
+COL3
+Text GLabel 3200 6200 2    50   Input ~ 0
+COL2
+Text GLabel 2500 7100 3    50   Input ~ 0
+COL1
+Text GLabel 3200 6400 2    50   Input ~ 0
+COL0
+Text GLabel 1800 6500 0    50   Input ~ 0
 ROW8
-NoConn ~ 1800 5600
-NoConn ~ 1800 5700
-NoConn ~ 2400 7100
-NoConn ~ 2300 7100
+Text GLabel 1800 6700 0    50   Input ~ 0
+ROW7
+Text GLabel 1800 6600 0    50   Input ~ 0
+ROW6
+Text GLabel 1800 6300 0    50   Input ~ 0
+COL8
+Text GLabel 1800 6400 0    50   Input ~ 0
+COL7
+Text GLabel 1800 6200 0    50   Input ~ 0
+COL6
+Text GLabel 1800 6100 0    50   Input ~ 0
+COL5
+Text GLabel 2300 7100 3    50   Input ~ 0
+COL4
+Text GLabel 3200 5800 2    50   Input ~ 0
+RESET
+NoConn ~ 3200 6000
+NoConn ~ 1800 6000
 $EndSCHEMATC
