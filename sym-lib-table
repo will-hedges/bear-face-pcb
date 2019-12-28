@@ -4,4 +4,5 @@
   (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
   (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/teensy_library/teensy.lib)(options "")(descr ""))
   (lib (name keebio)(type Legacy)(uri ${KIPRJMOD}/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name bluepill_breakouts)(type Legacy)(uri ${KIPRJMOD}/kicad-library/library/bluepill_breakouts.lib)(options "")(descr ""))
 )
