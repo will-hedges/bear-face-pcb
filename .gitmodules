@@ -22,3 +22,6 @@
 [submodule "STM32_Pill_Boards"]
 	path = STM32_Pill_Boards
 	url = https://github.com/rogerclarkmelbourne/STM32_Pill_Boards
+[submodule "kicad-library"]
+	path = kicad-library
+	url = https://github.com/tomaskovacik/kicad-library
