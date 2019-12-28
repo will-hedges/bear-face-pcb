@@ -19,3 +19,6 @@
 [submodule "keebs.pretty"]
 	path = keebs.pretty
 	url = https://github.com/covah901/keebs.pretty
+[submodule "STM32_Pill_Boards"]
+	path = STM32_Pill_Boards
+	url = https://github.com/rogerclarkmelbourne/STM32_Pill_Boards
