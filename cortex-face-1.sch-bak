@@ -2591,32 +2591,10 @@ F 3 "~" V 6250 1550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keebio:Hole H1
-U 1 1 5E003DA3
-P 1000 1500
-F 0 "H1" H 1186 1553 60  0000 L CNN
-F 1 "Hole" H 1186 1447 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 1000 1500 60  0001 C CNN
-F 3 "" H 1000 1500 60  0001 C CNN
-	1    1000 1500
-	1    0    0    -1  
-$EndComp
-$Comp
 L keebio:Hole H3
-U 1 1 5E005995
-P 1500 1500
-F 0 "H3" H 1686 1553 60  0000 L CNN
-F 1 "Hole" H 1686 1447 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 1500 1500 60  0001 C CNN
-F 3 "" H 1500 1500 60  0001 C CNN
-	1    1500 1500
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H5
 U 1 1 5E007407
 P 2000 1500
-F 0 "H5" H 2186 1553 60  0000 L CNN
+F 0 "H3" H 2186 1553 60  0000 L CNN
 F 1 "Hole" H 2186 1447 60  0000 L CNN
 F 2 "MountingHole:MountingHole_6mm" H 2000 1500 60  0001 C CNN
 F 3 "" H 2000 1500 60  0001 C CNN
@@ -2624,10 +2602,10 @@ F 3 "" H 2000 1500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole H7
+L keebio:Hole H5
 U 1 1 5E00740D
 P 2500 1500
-F 0 "H7" H 2686 1553 60  0000 L CNN
+F 0 "H5" H 2686 1553 60  0000 L CNN
 F 1 "Hole" H 2686 1447 60  0000 L CNN
 F 2 "MountingHole:MountingHole_6mm" H 2500 1500 60  0001 C CNN
 F 3 "" H 2500 1500 60  0001 C CNN
@@ -2635,54 +2613,10 @@ F 3 "" H 2500 1500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole H9
-U 1 1 5E01E2A7
-P 3000 1500
-F 0 "H9" H 3186 1553 60  0000 L CNN
-F 1 "Hole" H 3186 1447 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 3000 1500 60  0001 C CNN
-F 3 "" H 3000 1500 60  0001 C CNN
-	1    3000 1500
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H2
-U 1 1 5E01E2AD
-P 1000 2000
-F 0 "H2" H 1186 2053 60  0000 L CNN
-F 1 "Hole" H 1186 1947 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 1000 2000 60  0001 C CNN
-F 3 "" H 1000 2000 60  0001 C CNN
-	1    1000 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H4
-U 1 1 5E04EBA7
-P 1500 2000
-F 0 "H4" H 1686 2053 60  0000 L CNN
-F 1 "Hole" H 1686 1947 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 1500 2000 60  0001 C CNN
-F 3 "" H 1500 2000 60  0001 C CNN
-	1    1500 2000
-	1    0    0    -1  
-$EndComp
-$Comp
 L keebio:Hole H6
-U 1 1 5E04EBAD
-P 2000 2000
-F 0 "H6" H 2186 2053 60  0000 L CNN
-F 1 "Hole" H 2186 1947 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 2000 2000 60  0001 C CNN
-F 3 "" H 2000 2000 60  0001 C CNN
-	1    2000 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H8
-U 1 1 5E04EBB3
+U 1 1 5E01E2A7
 P 2500 2000
-F 0 "H8" H 2686 2053 60  0000 L CNN
+F 0 "H6" H 2686 2053 60  0000 L CNN
 F 1 "Hole" H 2686 1947 60  0000 L CNN
 F 2 "MountingHole:MountingHole_6mm" H 2500 2000 60  0001 C CNN
 F 3 "" H 2500 2000 60  0001 C CNN
@@ -2690,14 +2624,47 @@ F 3 "" H 2500 2000 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole H10
+L keebio:Hole H1
+U 1 1 5E01E2AD
+P 1500 1500
+F 0 "H1" H 1686 1553 60  0000 L CNN
+F 1 "Hole" H 1686 1447 60  0000 L CNN
+F 2 "MountingHole:MountingHole_6mm" H 1500 1500 60  0001 C CNN
+F 3 "" H 1500 1500 60  0001 C CNN
+	1    1500 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H2
+U 1 1 5E04EBA7
+P 1500 2000
+F 0 "H2" H 1686 2053 60  0000 L CNN
+F 1 "Hole" H 1686 1947 60  0000 L CNN
+F 2 "MountingHole:MountingHole_6mm" H 1500 2000 60  0001 C CNN
+F 3 "" H 1500 2000 60  0001 C CNN
+	1    1500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H4
+U 1 1 5E04EBAD
+P 2000 2000
+F 0 "H4" H 2186 2053 60  0000 L CNN
+F 1 "Hole" H 2186 1947 60  0000 L CNN
+F 2 "MountingHole:MountingHole_6mm" H 2000 2000 60  0001 C CNN
+F 3 "" H 2000 2000 60  0001 C CNN
+	1    2000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H7
 U 1 1 5E04EBB9
-P 3000 2000
-F 0 "H10" H 3186 2053 60  0000 L CNN
-F 1 "Hole" H 3186 1947 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 3000 2000 60  0001 C CNN
-F 3 "" H 3000 2000 60  0001 C CNN
-	1    3000 2000
+P 3000 1500
+F 0 "H7" H 3186 1553 60  0000 L CNN
+F 1 "Hole" H 3186 1447 60  0000 L CNN
+F 2 "MountingHole:MountingHole_6mm" H 3000 1500 60  0001 C CNN
+F 3 "" H 3000 1500 60  0001 C CNN
+	1    3000 1500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2766,46 +2733,45 @@ F 3 "" V 3550 3650 60  0001 C CNN
 	1    2500 6150
 	1    0    0    -1  
 $EndComp
-Text GLabel 3200 6300 2    50   Input ~ 0
-ROW5
-Text GLabel 3200 6700 2    50   Input ~ 0
-ROW2
-Text GLabel 2700 7100 3    50   Input ~ 0
-ROW1
-Text GLabel 3200 6600 2    50   Input ~ 0
-ROW4
 Text GLabel 3200 6200 2    50   Input ~ 0
-ROW3
-Text GLabel 2600 7100 3    50   Input ~ 0
-ROW0
-Text GLabel 2400 7100 3    50   Input ~ 0
-COL9
-Text GLabel 3200 6100 2    50   Input ~ 0
-COL3
+ROW5
+Text GLabel 2700 7100 3    50   Input ~ 0
+ROW2
+Text GLabel 3200 6500 2    50   Input ~ 0
+ROW1
 Text GLabel 3200 6400 2    50   Input ~ 0
+ROW4
+Text GLabel 3200 6600 2    50   Input ~ 0
+ROW3
+Text GLabel 3200 6700 2    50   Input ~ 0
+ROW0
+Text GLabel 2300 7100 3    50   Input ~ 0
+COL9
+Text GLabel 3200 6000 2    50   Input ~ 0
+COL3
+Text GLabel 3200 6100 2    50   Input ~ 0
 COL2
 Text GLabel 2500 7100 3    50   Input ~ 0
 COL1
-Text GLabel 3200 6500 2    50   Input ~ 0
+Text GLabel 3200 6300 2    50   Input ~ 0
 COL0
-Text GLabel 1800 6500 0    50   Input ~ 0
-ROW8
-Text GLabel 1800 6700 0    50   Input ~ 0
-ROW7
-Text GLabel 1800 6600 0    50   Input ~ 0
-ROW6
-Text GLabel 1800 6300 0    50   Input ~ 0
-COL8
 Text GLabel 1800 6400 0    50   Input ~ 0
-COL7
+ROW8
+Text GLabel 1800 6600 0    50   Input ~ 0
+ROW7
+Text GLabel 1800 6500 0    50   Input ~ 0
+ROW6
 Text GLabel 1800 6200 0    50   Input ~ 0
-COL6
+COL8
+Text GLabel 1800 6300 0    50   Input ~ 0
+COL7
 Text GLabel 1800 6100 0    50   Input ~ 0
+COL6
+Text GLabel 1800 6000 0    50   Input ~ 0
 COL5
-Text GLabel 2300 7100 3    50   Input ~ 0
+Text GLabel 1800 6700 0    50   Input ~ 0
 COL4
 Text GLabel 3200 5800 2    50   Input ~ 0
 RESET
-NoConn ~ 3200 6000
-NoConn ~ 1800 6000
+NoConn ~ 2600 7100
 $EndSCHEMATC

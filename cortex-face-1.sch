@@ -2613,14 +2613,14 @@ F 3 "" H 2500 1500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole H7
+L keebio:Hole H6
 U 1 1 5E01E2A7
-P 3000 1500
-F 0 "H7" H 3186 1553 60  0000 L CNN
-F 1 "Hole" H 3186 1447 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 3000 1500 60  0001 C CNN
-F 3 "" H 3000 1500 60  0001 C CNN
-	1    3000 1500
+P 2500 2000
+F 0 "H6" H 2686 2053 60  0000 L CNN
+F 1 "Hole" H 2686 1947 60  0000 L CNN
+F 2 "MountingHole:MountingHole_6mm" H 2500 2000 60  0001 C CNN
+F 3 "" H 2500 2000 60  0001 C CNN
+	1    2500 2000
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2657,25 +2657,14 @@ F 3 "" H 2000 2000 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole H6
-U 1 1 5E04EBB3
-P 2500 2000
-F 0 "H6" H 2686 2053 60  0000 L CNN
-F 1 "Hole" H 2686 1947 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 2500 2000 60  0001 C CNN
-F 3 "" H 2500 2000 60  0001 C CNN
-	1    2500 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H8
+L keebio:Hole H7
 U 1 1 5E04EBB9
-P 3000 2000
-F 0 "H8" H 3186 2053 60  0000 L CNN
-F 1 "Hole" H 3186 1947 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 3000 2000 60  0001 C CNN
-F 3 "" H 3000 2000 60  0001 C CNN
-	1    3000 2000
+P 3000 1500
+F 0 "H7" H 3186 1553 60  0000 L CNN
+F 1 "Hole" H 3186 1447 60  0000 L CNN
+F 2 "MountingHole:MountingHole_6mm" H 3000 1500 60  0001 C CNN
+F 3 "" H 3000 1500 60  0001 C CNN
+	1    3000 1500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2744,46 +2733,45 @@ F 3 "" V 3550 3650 60  0001 C CNN
 	1    2500 6150
 	1    0    0    -1  
 $EndComp
-Text GLabel 3200 6300 2    50   Input ~ 0
-ROW5
-Text GLabel 3200 6700 2    50   Input ~ 0
-ROW2
-Text GLabel 3200 6600 2    50   Input ~ 0
-ROW1
-Text GLabel 3200 6500 2    50   Input ~ 0
-ROW4
-Text GLabel 2600 7100 3    50   Input ~ 0
-ROW3
-Text GLabel 2700 7100 3    50   Input ~ 0
-ROW0
-Text GLabel 2400 7100 3    50   Input ~ 0
-COL9
-Text GLabel 3200 6100 2    50   Input ~ 0
-COL3
 Text GLabel 3200 6200 2    50   Input ~ 0
+ROW5
+Text GLabel 2700 7100 3    50   Input ~ 0
+ROW2
+Text GLabel 3200 6500 2    50   Input ~ 0
+ROW1
+Text GLabel 3200 6400 2    50   Input ~ 0
+ROW4
+Text GLabel 3200 6600 2    50   Input ~ 0
+ROW3
+Text GLabel 3200 6700 2    50   Input ~ 0
+ROW0
+Text GLabel 1800 6700 0    50   Input ~ 0
+COL9
+Text GLabel 3200 6000 2    50   Input ~ 0
+COL3
+Text GLabel 3200 6100 2    50   Input ~ 0
 COL2
 Text GLabel 2500 7100 3    50   Input ~ 0
 COL1
-Text GLabel 3200 6400 2    50   Input ~ 0
+Text GLabel 3200 6300 2    50   Input ~ 0
 COL0
-Text GLabel 1800 6500 0    50   Input ~ 0
-ROW8
-Text GLabel 1800 6700 0    50   Input ~ 0
-ROW7
-Text GLabel 1800 6600 0    50   Input ~ 0
-ROW6
-Text GLabel 1800 6300 0    50   Input ~ 0
-COL8
 Text GLabel 1800 6400 0    50   Input ~ 0
-COL7
+ROW8
+Text GLabel 1800 6500 0    50   Input ~ 0
+ROW6
 Text GLabel 1800 6200 0    50   Input ~ 0
-COL6
+COL8
+Text GLabel 1800 6300 0    50   Input ~ 0
+COL7
 Text GLabel 1800 6100 0    50   Input ~ 0
+COL6
+Text GLabel 1800 6000 0    50   Input ~ 0
 COL5
-Text GLabel 2300 7100 3    50   Input ~ 0
-COL4
 Text GLabel 3200 5800 2    50   Input ~ 0
 RESET
-NoConn ~ 3200 6000
-NoConn ~ 1800 6000
+NoConn ~ 2600 7100
+Text GLabel 1800 6600 0    50   Input ~ 0
+ROW7
+Text GLabel 2300 7100 3    50   Input ~ 0
+COL4
 $EndSCHEMATC
