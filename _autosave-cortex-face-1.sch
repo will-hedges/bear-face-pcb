@@ -2613,14 +2613,14 @@ F 3 "" H 2500 1500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole H7
+L keebio:Hole H6
 U 1 1 5E01E2A7
-P 3000 1500
-F 0 "H7" H 3186 1553 60  0000 L CNN
-F 1 "Hole" H 3186 1447 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 3000 1500 60  0001 C CNN
-F 3 "" H 3000 1500 60  0001 C CNN
-	1    3000 1500
+P 2500 2000
+F 0 "H6" H 2686 2053 60  0000 L CNN
+F 1 "Hole" H 2686 1947 60  0000 L CNN
+F 2 "MountingHole:MountingHole_6mm" H 2500 2000 60  0001 C CNN
+F 3 "" H 2500 2000 60  0001 C CNN
+	1    2500 2000
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2657,25 +2657,14 @@ F 3 "" H 2000 2000 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole H6
-U 1 1 5E04EBB3
-P 2500 2000
-F 0 "H6" H 2686 2053 60  0000 L CNN
-F 1 "Hole" H 2686 1947 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 2500 2000 60  0001 C CNN
-F 3 "" H 2500 2000 60  0001 C CNN
-	1    2500 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H8
+L keebio:Hole H7
 U 1 1 5E04EBB9
-P 3000 2000
-F 0 "H8" H 3186 2053 60  0000 L CNN
-F 1 "Hole" H 3186 1947 60  0000 L CNN
-F 2 "MountingHole:MountingHole_6mm" H 3000 2000 60  0001 C CNN
-F 3 "" H 3000 2000 60  0001 C CNN
-	1    3000 2000
+P 3000 1500
+F 0 "H7" H 3186 1553 60  0000 L CNN
+F 1 "Hole" H 3186 1447 60  0000 L CNN
+F 2 "MountingHole:MountingHole_6mm" H 3000 1500 60  0001 C CNN
+F 3 "" H 3000 1500 60  0001 C CNN
+	1    3000 1500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
