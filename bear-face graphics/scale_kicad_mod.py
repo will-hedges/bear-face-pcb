@@ -46,4 +46,6 @@ def scale(kicad_mod, ratio):
 ###########################################################################
 ###########################################################################
 
-print scale(sys.stdin.read(), float(sys.argv[1]))
+old_mod = 
+
+print(scale(sys.stdin.read(), float(sys.argv[1])))
