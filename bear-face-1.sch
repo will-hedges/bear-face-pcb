@@ -2781,7 +2781,7 @@ U 1 1 5E160711
 P 3000 2000
 F 0 "H8" H 3186 2053 60  0000 L CNN
 F 1 "Hole" H 3186 1947 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.1mm" H 3000 2000 60  0001 C CNN
+F 2 "MountingHole:MountingHole_3mm" H 3000 2000 60  0001 C CNN
 F 3 "" H 3000 2000 60  0001 C CNN
 	1    3000 2000
 	1    0    0    -1  
