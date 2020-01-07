@@ -5385,8 +5385,8 @@
       (net 2 ROW0))
   )
 
-  (gr_text "Bear Face v1 by chemicalwill\n01/06/2020" (at 219.837 173.228) (layer F.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  (gr_text "Bear Face v1 by chemicalwill\n01/06/2020" (at 219.837 173.228) (layer B.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_line (start 59.563 83.439) (end 59.563 72.898) (layer Edge.Cuts) (width 0.12) (tstamp 5E0BC066))
   (gr_arc (start 59.563 86.487) (end 59.53125 89.535) (angle -180.5968095) (layer Edge.Cuts) (width 0.12) (tstamp 5E0BC05B))

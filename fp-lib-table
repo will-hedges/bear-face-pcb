@@ -4,4 +4,5 @@
   (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
   (lib (name BluePill_breakouts)(type KiCad)(uri ${KIPRJMOD}/kicad-library/BluePill_breakouts.pretty)(options "")(descr ""))
+  (lib (name "bear-face graphics")(type KiCad)(uri "${KIPRJMOD}/bear-face graphics")(options "")(descr ""))
 )
