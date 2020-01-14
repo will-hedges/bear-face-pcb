@@ -4,4 +4,5 @@
   (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
   (lib (name bear_face_silks)(type KiCad)(uri ${KIPRJMOD}/bear_face_silks)(options "")(descr ""))
+  (lib (name Bear-Face-1_parts)(type KiCad)(uri ${KIPRJMOD}/Bear-Face-1_parts.pretty)(options "")(descr ""))
 )
