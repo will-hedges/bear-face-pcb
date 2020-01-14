@@ -2839,7 +2839,7 @@ U 1 1 5DFE33D6
 P 1400 3800
 F 0 "SW1" H 1400 4085 50  0000 C CNN
 F 1 "SW_Push" H 1400 3994 50  0000 C CNN
-F 2 "random-keyboard-parts:PushButton_6x6mm_TH_Pretty" H 1400 4000 50  0001 C CNN
+F 2 "random-keyboard-parts:SKQG-1155865" H 1400 4000 50  0001 C CNN
 F 3 "~" H 1400 4000 50  0001 C CNN
 	1    1400 3800
 	1    0    0    -1  
