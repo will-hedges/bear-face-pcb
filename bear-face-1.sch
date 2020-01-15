@@ -2670,17 +2670,6 @@ Wire Wire Line
 	9600 4600 9600 3200
 Connection ~ 9600 3200
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U1
-U 1 1 5E20D2CA
-P 2400 5300
-F 0 "U1" H 2400 3411 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 2400 3320 50  0000 C CNN
-F 2 "Keebio-Parts:ATMEGA32U4-AU" H 2400 5300 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2400 5300 50  0001 C CNN
-	1    2400 5300
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR0104
 U 1 1 5E23CD09
 P 2300 3350
@@ -2692,13 +2681,7 @@ F 3 "" H 2300 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2500 3500 2400 3500
-Connection ~ 2400 3500
-Wire Wire Line
-	2400 3500 2300 3500
-Wire Wire Line
 	2300 3350 2300 3500
-Connection ~ 2300 3500
 $Comp
 L power:GND #PWR0105
 U 1 1 5E26A195
@@ -2710,11 +2693,6 @@ F 3 "" H 2000 7100 50  0001 C CNN
 	1    2000 7100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2000 7100 2300 7100
-Connection ~ 2300 7100
-Wire Wire Line
-	2300 7100 2400 7100
 $Comp
 L power:GND #PWR0106
 U 1 1 5E2B8FB1
@@ -3051,4 +3029,73 @@ F 3 "~" H 1350 2350 50  0001 C CNN
 	1    1200 2400
 	1    0    0    -1  
 $EndComp
+Text GLabel 3000 6700 2    50   Input ~ 0
+ROW5
+Text GLabel 3000 6400 2    50   Input ~ 0
+COL0
+Text GLabel 3000 6600 2    50   Input ~ 0
+COL1
+Text GLabel 3000 6500 2    50   Input ~ 0
+COL2
+Text GLabel 3000 6200 2    50   Input ~ 0
+COL3
+NoConn ~ 1800 4400
+Text GLabel 3000 3900 2    50   Input ~ 0
+ROW0
+Text GLabel 3000 6000 2    50   Input ~ 0
+ROW1
+Text GLabel 3000 3800 2    50   Input ~ 0
+ROW2
+Text GLabel 3000 4100 2    50   Input ~ 0
+ROW3
+Text GLabel 3000 4500 2    50   Input ~ 0
+COL5
+Text GLabel 3000 5100 2    50   Input ~ 0
+COL7
+Text GLabel 3000 5200 2    50   Input ~ 0
+COL8
+Text GLabel 3000 5300 2    50   Input ~ 0
+COL9
+Text GLabel 3000 5500 2    50   Input ~ 0
+COL10
+Text GLabel 3000 5400 2    50   Input ~ 0
+COL11
+Text GLabel 3000 5600 2    50   Input ~ 0
+COL12
+Text GLabel 3000 5700 2    50   Input ~ 0
+COL13
+Text GLabel 3000 4200 2    50   Input ~ 0
+COL14
+Connection ~ 2300 7100
+Wire Wire Line
+	2300 7100 2400 7100
+Wire Wire Line
+	2000 7100 2300 7100
+Connection ~ 2300 3500
+Connection ~ 2400 3500
+Wire Wire Line
+	2400 3500 2300 3500
+Wire Wire Line
+	2500 3500 2400 3500
+Text GLabel 3000 4000 2    50   Input ~ 0
+COL4
+Text GLabel 3000 5000 2    50   Input ~ 0
+COL6
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U1
+U 1 1 5E20D2CA
+P 2400 5300
+F 0 "U1" H 2400 3411 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 2400 3320 50  0000 C CNN
+F 2 "Keebio-Parts:ATMEGA32U4-AU" H 2400 5300 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2400 5300 50  0001 C CNN
+	1    2400 5300
+	1    0    0    -1  
+$EndComp
+Text GLabel 3000 6300 2    50   Input ~ 0
+ROW4
+NoConn ~ 3000 4300
+NoConn ~ 3000 4400
+NoConn ~ 3000 4700
+NoConn ~ 3000 4800
 $EndSCHEMATC
