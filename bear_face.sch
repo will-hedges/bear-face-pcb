@@ -2862,12 +2862,12 @@ Wire Wire Line
 $Comp
 L power:+5V #PWR0110
 U 1 1 5E4994F7
-P 1350 4600
-F 0 "#PWR0110" H 1350 4450 50  0001 C CNN
-F 1 "+5V" H 1365 4773 50  0000 C CNN
-F 2 "" H 1350 4600 50  0001 C CNN
-F 3 "" H 1350 4600 50  0001 C CNN
-	1    1350 4600
+P 1700 4600
+F 0 "#PWR0110" H 1700 4450 50  0001 C CNN
+F 1 "+5V" H 1715 4773 50  0000 C CNN
+F 2 "" H 1700 4600 50  0001 C CNN
+F 3 "" H 1700 4600 50  0001 C CNN
+	1    1700 4600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3012,12 +3012,6 @@ Wire Wire Line
 Connection ~ 1300 4200
 Wire Wire Line
 	750  4450 1100 4450
-Wire Wire Line
-	1350 4600 1800 4600
-Wire Wire Line
-	1300 4800 1800 4800
-Wire Wire Line
-	1000 4900 1800 4900
 $Comp
 L Connector:USB_B_Micro J1
 U 1 1 5E3DEFC6
@@ -3031,12 +3025,6 @@ F 3 "~" H 1350 2350 50  0001 C CNN
 $EndComp
 Text GLabel 3000 6700 2    50   Input ~ 0
 ROW5
-Text GLabel 3000 6400 2    50   Input ~ 0
-COL0
-Text GLabel 3000 6600 2    50   Input ~ 0
-COL1
-Text GLabel 3000 6500 2    50   Input ~ 0
-COL2
 Text GLabel 3000 6200 2    50   Input ~ 0
 COL3
 NoConn ~ 1800 4400
@@ -3098,4 +3086,26 @@ NoConn ~ 3000 4300
 NoConn ~ 3000 4400
 NoConn ~ 3000 4700
 NoConn ~ 3000 4800
+Text GLabel 1350 4800 1    50   Input ~ 0
+RD+
+Text GLabel 1050 4900 3    50   Input ~ 0
+RD-
+Wire Wire Line
+	1700 4600 1800 4600
+Connection ~ 1050 4900
+Connection ~ 1350 4800
+Wire Wire Line
+	1050 4900 1800 4900
+Wire Wire Line
+	1000 4900 1050 4900
+Wire Wire Line
+	1350 4800 1800 4800
+Wire Wire Line
+	1300 4800 1350 4800
+Text GLabel 3000 6500 2    50   Input ~ 0
+COL2
+Text GLabel 3000 6600 2    50   Input ~ 0
+COL1
+Text GLabel 3000 6400 2    50   Input ~ 0
+COL0
 $EndSCHEMATC
