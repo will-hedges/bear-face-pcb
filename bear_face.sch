@@ -3028,11 +3028,11 @@ ROW5
 Text GLabel 3000 6200 2    50   Input ~ 0
 COL3
 NoConn ~ 1800 4400
-Text GLabel 3000 3900 2    50   Input ~ 0
+Text GLabel 3000 3800 2    50   Input ~ 0
 ROW0
 Text GLabel 3000 6000 2    50   Input ~ 0
 ROW1
-Text GLabel 3000 3800 2    50   Input ~ 0
+Text GLabel 3000 3900 2    50   Input ~ 0
 ROW2
 Text GLabel 3000 4100 2    50   Input ~ 0
 ROW3
@@ -3082,30 +3082,24 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega
 $EndComp
 Text GLabel 3000 6300 2    50   Input ~ 0
 ROW4
-NoConn ~ 3000 4300
-NoConn ~ 3000 4400
-NoConn ~ 3000 4700
-NoConn ~ 3000 4800
 Text GLabel 1350 4800 1    50   Input ~ 0
 RD+
 Text GLabel 1050 4900 3    50   Input ~ 0
 RD-
 Wire Wire Line
 	1700 4600 1800 4600
-Connection ~ 1050 4900
-Connection ~ 1350 4800
-Wire Wire Line
-	1050 4900 1800 4900
-Wire Wire Line
-	1000 4900 1050 4900
-Wire Wire Line
-	1350 4800 1800 4800
-Wire Wire Line
-	1300 4800 1350 4800
 Text GLabel 3000 6500 2    50   Input ~ 0
 COL2
 Text GLabel 3000 6600 2    50   Input ~ 0
 COL1
 Text GLabel 3000 6400 2    50   Input ~ 0
 COL0
+Wire Wire Line
+	1000 4900 1800 4900
+Wire Wire Line
+	1300 4800 1800 4800
+NoConn ~ 3000 4300
+NoConn ~ 3000 4400
+NoConn ~ 3000 4700
+NoConn ~ 3000 4800
 $EndSCHEMATC
