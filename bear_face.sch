@@ -2654,7 +2654,7 @@ U 1 1 5E2BAE37
 P 1200 4800
 F 0 "R85" V 1004 4800 50  0000 C CNN
 F 1 "22" V 1095 4800 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 1200 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-THT" H 1200 4800 50  0001 C CNN
 F 3 "~" H 1200 4800 50  0001 C CNN
 	1    1200 4800
 	0    1    1    0   
@@ -2665,7 +2665,7 @@ U 1 1 5E2BDE9E
 P 900 4900
 F 0 "R86" V 704 4900 50  0000 C CNN
 F 1 "22" V 795 4900 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 900 4900 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-THT" H 900 4900 50  0001 C CNN
 F 3 "~" H 900 4900 50  0001 C CNN
 	1    900  4900
 	0    1    1    0   
@@ -2839,8 +2839,6 @@ $EndComp
 Wire Wire Line
 	750  3900 750  4300
 Connection ~ 750  4300
-Wire Wire Line
-	750  4300 750  4400
 $Comp
 L power:GND #PWR08
 U 1 1 5E616792
@@ -4514,48 +4512,13 @@ Text GLabel 10950 4250 2    50   Input ~ 0
 ROW4
 Text GLabel 10950 4950 2    50   Input ~ 0
 ROW5
-Wire Wire Line
-	950  4000 1300 4000
-Wire Wire Line
-	950  4200 1300 4200
-$Comp
-L Device:Crystal_GND24_Small Y1
-U 1 1 5EE4C65A
-P 1300 4100
-F 0 "Y1" V 1254 4244 50  0000 L CNN
-F 1 "16MHz" V 1345 4244 50  0000 L CNN
-F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 1300 4100 50  0001 C CNN
-F 3 "~" H 1300 4100 50  0001 C CNN
-	1    1300 4100
-	0    1    1    0   
-$EndComp
-Connection ~ 1300 4000
-Wire Wire Line
-	1300 4000 1800 4000
-Connection ~ 1300 4200
-Wire Wire Line
-	1300 4200 1800 4200
-Wire Wire Line
-	1200 4100 1200 4300
-Wire Wire Line
-	750  4400 1200 4400
-Connection ~ 750  4400
-Wire Wire Line
-	750  4400 750  4450
-Wire Wire Line
-	1400 4100 1400 4300
-Wire Wire Line
-	1400 4300 1200 4300
-Connection ~ 1200 4300
-Wire Wire Line
-	1200 4300 1200 4400
 Text GLabel 800  6350 0    50   Input ~ 0
 LEDPIN
 $Comp
-L Transistor_FET:2N7002 Q?
+L Transistor_FET:2N7002 Q1
 U 1 1 5E2E1EE1
 P 1350 6350
-F 0 "Q?" H 1554 6396 50  0000 L CNN
+F 0 "Q1" H 1554 6396 50  0000 L CNN
 F 1 "2N7002" H 1554 6305 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 1550 6275 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 1350 6350 50  0001 L CNN
@@ -4565,10 +4528,10 @@ $EndComp
 Text GLabel 1450 6150 1    50   Input ~ 0
 LEDOUT
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0101
 U 1 1 5E2E9481
 P 1450 6550
-F 0 "#PWR?" H 1450 6300 50  0001 C CNN
+F 0 "#PWR0101" H 1450 6300 50  0001 C CNN
 F 1 "GND" H 1455 6377 50  0000 C CNN
 F 2 "" H 1450 6550 50  0001 C CNN
 F 3 "" H 1450 6550 50  0001 C CNN
@@ -4578,12 +4541,12 @@ $EndComp
 Wire Wire Line
 	800  6350 950  6350
 $Comp
-L Device:R_Small R?
+L Device:R_Small R88
 U 1 1 5E33D046
 P 950 6450
-F 0 "R?" H 1009 6496 50  0000 L CNN
+F 0 "R88" H 1009 6496 50  0000 L CNN
 F 1 "4.7k" H 1009 6405 50  0000 L CNN
-F 2 "" H 950 6450 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-THT" H 950 6450 50  0001 C CNN
 F 3 "~" H 950 6450 50  0001 C CNN
 	1    950  6450
 	1    0    0    -1  
@@ -4592,14 +4555,51 @@ Connection ~ 950  6350
 Wire Wire Line
 	950  6350 1150 6350
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0102
 U 1 1 5E33ECD1
 P 950 6550
-F 0 "#PWR?" H 950 6300 50  0001 C CNN
+F 0 "#PWR0102" H 950 6300 50  0001 C CNN
 F 1 "GND" H 955 6377 50  0000 C CNN
 F 2 "" H 950 6550 50  0001 C CNN
 F 3 "" H 950 6550 50  0001 C CNN
 	1    950  6550
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	750  4300 750  4400
+Wire Wire Line
+	950  4000 1250 4000
+Wire Wire Line
+	950  4200 1250 4200
+$Comp
+L Device:Crystal_GND24_Small Y1
+U 1 1 5E291FCA
+P 1250 4100
+F 0 "Y1" V 1204 4244 50  0000 L CNN
+F 1 "16MHz" V 1295 4244 50  0000 L CNN
+F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 1250 4100 50  0001 C CNN
+F 3 "~" H 1250 4100 50  0001 C CNN
+	1    1250 4100
+	0    1    1    0   
+$EndComp
+Connection ~ 1250 4000
+Wire Wire Line
+	1250 4000 1800 4000
+Connection ~ 1250 4200
+Wire Wire Line
+	1250 4200 1800 4200
+Wire Wire Line
+	1150 4100 1150 4300
+Wire Wire Line
+	1150 4400 750  4400
+Connection ~ 750  4400
+Wire Wire Line
+	750  4400 750  4450
+Wire Wire Line
+	1350 4100 1350 4300
+Wire Wire Line
+	1350 4300 1150 4300
+Connection ~ 1150 4300
+Wire Wire Line
+	1150 4300 1150 4400
 $EndSCHEMATC
