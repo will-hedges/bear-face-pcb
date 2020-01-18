@@ -3014,56 +3014,6 @@ NoConn ~ 1500 2600
 NoConn ~ 1100 2800
 Text GLabel 3000 4300 2    50   Input ~ 0
 LEDPIN
-$Comp
-L Transistor_FET:2N7002 Q1
-U 1 1 5E2B0FD7
-P 1400 6350
-F 0 "Q1" H 1604 6396 50  0000 L CNN
-F 1 "2N7002" H 1604 6305 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 1600 6275 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 1400 6350 50  0001 L CNN
-	1    1400 6350
-	1    0    0    -1  
-$EndComp
-Text GLabel 800  6350 0    50   Input ~ 0
-LEDPIN
-$Comp
-L Device:R_Small R88
-U 1 1 5E2D6A00
-P 850 6450
-F 0 "R88" H 909 6496 50  0000 L CNN
-F 1 "4.7k" H 909 6405 50  0000 L CNN
-F 2 "Keebio-Parts:Resistor" H 850 6450 50  0001 C CNN
-F 3 "~" H 850 6450 50  0001 C CNN
-	1    850  6450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	850  6350 1200 6350
-$Comp
-L power:GND #PWR012
-U 1 1 5E2D8122
-P 850 6550
-F 0 "#PWR012" H 850 6300 50  0001 C CNN
-F 1 "GND" H 855 6377 50  0000 C CNN
-F 2 "" H 850 6550 50  0001 C CNN
-F 3 "" H 850 6550 50  0001 C CNN
-	1    850  6550
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR013
-U 1 1 5E2D97E0
-P 1500 6550
-F 0 "#PWR013" H 1500 6300 50  0001 C CNN
-F 1 "GND" H 1505 6377 50  0000 C CNN
-F 2 "" H 1500 6550 50  0001 C CNN
-F 3 "" H 1500 6550 50  0001 C CNN
-	1    1500 6550
-	1    0    0    -1  
-$EndComp
-Text GLabel 1500 6150 1    50   Input ~ 0
-LEDOUT
 Text GLabel 3350 1100 1    50   Input ~ 0
 LEDOUT
 $Comp
@@ -4026,9 +3976,6 @@ Wire Wire Line
 Connection ~ 3450 1100
 Wire Wire Line
 	3450 1100 3450 1800
-Wire Wire Line
-	800  6350 850  6350
-Connection ~ 850  6350
 Connection ~ 3850 3850
 Connection ~ 3850 3150
 Wire Wire Line
@@ -4602,4 +4549,57 @@ Wire Wire Line
 Connection ~ 1200 4300
 Wire Wire Line
 	1200 4300 1200 4400
+Text GLabel 800  6350 0    50   Input ~ 0
+LEDPIN
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 5E2E1EE1
+P 1350 6350
+F 0 "Q?" H 1554 6396 50  0000 L CNN
+F 1 "2N7002" H 1554 6305 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1550 6275 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 1350 6350 50  0001 L CNN
+	1    1350 6350
+	1    0    0    -1  
+$EndComp
+Text GLabel 1450 6150 1    50   Input ~ 0
+LEDOUT
+$Comp
+L power:GND #PWR?
+U 1 1 5E2E9481
+P 1450 6550
+F 0 "#PWR?" H 1450 6300 50  0001 C CNN
+F 1 "GND" H 1455 6377 50  0000 C CNN
+F 2 "" H 1450 6550 50  0001 C CNN
+F 3 "" H 1450 6550 50  0001 C CNN
+	1    1450 6550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	800  6350 950  6350
+$Comp
+L Device:R_Small R?
+U 1 1 5E33D046
+P 950 6450
+F 0 "R?" H 1009 6496 50  0000 L CNN
+F 1 "4.7k" H 1009 6405 50  0000 L CNN
+F 2 "" H 950 6450 50  0001 C CNN
+F 3 "~" H 950 6450 50  0001 C CNN
+	1    950  6450
+	1    0    0    -1  
+$EndComp
+Connection ~ 950  6350
+Wire Wire Line
+	950  6350 1150 6350
+$Comp
+L power:GND #PWR?
+U 1 1 5E33ECD1
+P 950 6550
+F 0 "#PWR?" H 950 6300 50  0001 C CNN
+F 1 "GND" H 955 6377 50  0000 C CNN
+F 2 "" H 950 6550 50  0001 C CNN
+F 3 "" H 950 6550 50  0001 C CNN
+	1    950  6550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
