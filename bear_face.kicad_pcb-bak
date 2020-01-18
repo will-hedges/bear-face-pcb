@@ -541,7 +541,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23364A)
-    (at 353.187 165.1635 180)
+    (at 353.187 164.8989 180)
     (path /5E473C2E)
     (fp_text reference R83 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -601,7 +601,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233633)
-    (at 334.137 165.1635 180)
+    (at 334.137 164.8989 180)
     (path /5E473C34)
     (fp_text reference R82 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -661,7 +661,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23361C)
-    (at 314.29325 165.1635 180)
+    (at 314.29325 164.8989 180)
     (path /5E473C28)
     (fp_text reference R81 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -721,7 +721,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233605)
-    (at 296.037 165.1635 180)
+    (at 296.037 164.8989 180)
     (path /5E473C1C)
     (fp_text reference R80 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -781,7 +781,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2335EE)
-    (at 276.987 165.1635 180)
+    (at 276.987 164.8989 180)
     (path /5E473C22)
     (fp_text reference R79 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -841,7 +841,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2335D7)
-    (at 257.937 165.1635 180)
+    (at 257.937 164.8989 180)
     (path /5E473C16)
     (fp_text reference R78 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -901,7 +901,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2335C0)
-    (at 188.88075 165.1635 180)
+    (at 188.88075 164.9044 180)
     (path /5E631F14)
     (fp_text reference R77 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -961,7 +961,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2335A9)
-    (at 117.44325 165.1635 180)
+    (at 117.44325 164.9044 180)
     (path /5E473BE6)
     (fp_text reference R76 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1021,7 +1021,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233592)
-    (at 93.63075 165.1635 180)
+    (at 93.63075 164.8989 180)
     (path /5E473BEC)
     (fp_text reference R75 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1081,7 +1081,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23357B)
-    (at 69.81825 165.1635 180)
+    (at 69.81825 164.8989 180)
     (path /5E473BE0)
     (fp_text reference R74 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1141,7 +1141,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233564)
-    (at 353.187 161.9885 180)
+    (at 353.187 162.2531 180)
     (path /5E44D75D)
     (fp_text reference R73 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1201,7 +1201,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23354D)
-    (at 334.137 161.9885 180)
+    (at 334.137 162.2531 180)
     (path /5E44D763)
     (fp_text reference R72 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1261,7 +1261,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233536)
-    (at 307.94325 161.9885 180)
+    (at 307.94325 162.2531 180)
     (path /5E44D757)
     (fp_text reference R71 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1321,7 +1321,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23351F)
-    (at 281.7495 161.9885 180)
+    (at 281.7495 162.2531 180)
     (path /5E44D751)
     (fp_text reference R70 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1381,7 +1381,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233508)
-    (at 262.6995 161.9885 180)
+    (at 262.6995 162.2531 180)
     (path /5E44D745)
     (fp_text reference R69 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1441,7 +1441,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2334F1)
-    (at 243.6495 161.9885 180)
+    (at 243.6495 162.2531 180)
     (path /5E44D739)
     (fp_text reference R68 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1501,7 +1501,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2334DA)
-    (at 224.5995 161.9885 180)
+    (at 224.5995 162.2531 180)
     (path /5E44D73F)
     (fp_text reference R67 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1561,7 +1561,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2334C3)
-    (at 205.232 161.9885 180)
+    (at 205.232 162.2531 180)
     (path /5E44D733)
     (fp_text reference R66 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1621,7 +1621,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2334AC)
-    (at 186.4995 146.1135 180)
+    (at 186.4995 145.8489 180)
     (path /5E44D727)
     (fp_text reference R65 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1681,7 +1681,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233495)
-    (at 167.4495 146.1135)
+    (at 167.4495 145.8489)
     (path /5E44D72D)
     (fp_text reference R64 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1741,7 +1741,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23347E)
-    (at 148.3995 146.1135 180)
+    (at 148.3995 145.8489 180)
     (path /5E44D721)
     (fp_text reference R63 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1801,7 +1801,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233467)
-    (at 129.3495 161.9885 180)
+    (at 129.3495 162.2531 180)
     (path /5E44D715)
     (fp_text reference R62 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1861,7 +1861,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233450)
-    (at 110.2995 161.9885 180)
+    (at 110.2995 162.2531 180)
     (path /5E44D71B)
     (fp_text reference R61 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1921,7 +1921,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233439)
-    (at 79.8195 161.9885 180)
+    (at 79.8195 162.2531 180)
     (path /5E44D70F)
     (fp_text reference R60 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1981,7 +1981,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233422)
-    (at 353.187 142.9385 180)
+    (at 353.187 143.2031 180)
     (path /5E4288E6)
     (fp_text reference R59 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2041,7 +2041,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23340B)
-    (at 322.23075 142.9385 180)
+    (at 322.23075 143.2031 180)
     (path /5E4288EC)
     (fp_text reference R58 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2101,7 +2101,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2333F4)
-    (at 291.2745 142.9385 180)
+    (at 291.2745 143.2031 180)
     (path /5E4288D4)
     (fp_text reference R57 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2161,7 +2161,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2333DD)
-    (at 272.2245 142.9385 180)
+    (at 272.2245 143.2031 180)
     (path /5E4288DA)
     (fp_text reference R56 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2221,7 +2221,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2333C6)
-    (at 253.1745 142.9385 180)
+    (at 253.1745 143.2031 180)
     (path /5E4288CE)
     (fp_text reference R55 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2281,7 +2281,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2333AF)
-    (at 234.1245 142.9385 180)
+    (at 234.1245 143.2031 180)
     (path /5E4288C2)
     (fp_text reference R54 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2341,7 +2341,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233398)
-    (at 215.0745 142.9385 180)
+    (at 215.0745 143.2031 180)
     (path /5E4288C8)
     (fp_text reference R53 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2401,7 +2401,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233381)
-    (at 196.0245 142.9385 180)
+    (at 196.0245 143.2031 180)
     (path /5E4288BC)
     (fp_text reference R52 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2461,7 +2461,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23336A)
-    (at 176.9745 142.9385 180)
+    (at 176.9745 143.2031 180)
     (path /5E4288B0)
     (fp_text reference R51 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2521,7 +2521,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233353)
-    (at 157.9245 142.9385 180)
+    (at 157.9245 143.2031 180)
     (path /5E4288B6)
     (fp_text reference R50 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2581,7 +2581,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23333C)
-    (at 138.8745 142.9385 180)
+    (at 138.8745 143.2031 180)
     (path /5E4288AA)
     (fp_text reference R49 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2641,7 +2641,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233325)
-    (at 119.8245 142.9385 180)
+    (at 119.8245 143.2031 180)
     (path /5E42889E)
     (fp_text reference R48 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2701,7 +2701,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23330E)
-    (at 100.7745 142.9385 180)
+    (at 100.7745 143.2031 180)
     (path /5E4288A4)
     (fp_text reference R47 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2761,7 +2761,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2332F7)
-    (at 74.58075 142.9385 180)
+    (at 74.58075 143.2031 180)
     (path /5E428898)
     (fp_text reference R46 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2821,7 +2821,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2332E0)
-    (at 353.187 123.8885 180)
+    (at 353.187 124.1531 180)
     (path /5E40828F)
     (fp_text reference R45 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2881,7 +2881,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2332C9)
-    (at 329.3745 123.8885 180)
+    (at 329.3745 124.1531 180)
     (path /5E408295)
     (fp_text reference R44 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -2941,7 +2941,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2332B2)
-    (at 305.562 123.8885 180)
+    (at 305.562 124.1531 180)
     (path /5E408289)
     (fp_text reference R43 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3001,7 +3001,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23329B)
-    (at 286.512 123.8885 180)
+    (at 286.512 124.1531 180)
     (path /5E40827D)
     (fp_text reference R42 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3061,7 +3061,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233284)
-    (at 267.462 123.8885 180)
+    (at 267.462 124.1531 180)
     (path /5E408283)
     (fp_text reference R41 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3121,7 +3121,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23326D)
-    (at 248.412 124.68225 180)
+    (at 248.412 124.156 180)
     (path /5E408277)
     (fp_text reference R40 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3181,7 +3181,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233256)
-    (at 229.362 123.8885 180)
+    (at 229.362 124.1531 180)
     (path /5E40826B)
     (fp_text reference R39 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3241,7 +3241,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23323F)
-    (at 210.312 123.8885 180)
+    (at 210.312 124.1531 180)
     (path /5E408271)
     (fp_text reference R38 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3301,7 +3301,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233228)
-    (at 191.262 123.8885 180)
+    (at 191.262 124.1531 180)
     (path /5E408265)
     (fp_text reference R37 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3361,7 +3361,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233211)
-    (at 172.212 123.8885 180)
+    (at 172.212 124.1531 180)
     (path /5E408259)
     (fp_text reference R36 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3421,7 +3421,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2331FA)
-    (at 153.162 123.8885 180)
+    (at 153.162 124.1531 180)
     (path /5E40825F)
     (fp_text reference R35 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3481,7 +3481,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2331E3)
-    (at 134.112 123.8885 180)
+    (at 134.112 124.1531 180)
     (path /5E408253)
     (fp_text reference R34 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3541,7 +3541,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2331CC)
-    (at 115.062 123.8885 180)
+    (at 115.062 124.1531 180)
     (path /5E408247)
     (fp_text reference R33 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3601,7 +3601,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2331B5)
-    (at 96.012 123.8885 180)
+    (at 96.012 124.1531 180)
     (path /5E40824D)
     (fp_text reference R32 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3661,7 +3661,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23319E)
-    (at 72.1995 123.8885 180)
+    (at 72.1995 124.1531 180)
     (path /5E408241)
     (fp_text reference R31 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3721,7 +3721,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233187)
-    (at 353.187 104.8385 180)
+    (at 353.187 105.1031 180)
     (path /5E3DFE68)
     (fp_text reference R30 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3781,7 +3781,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233170)
-    (at 324.612 104.8385 180)
+    (at 324.612 105.1031 180)
     (path /5E3DFE6E)
     (fp_text reference R29 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3841,7 +3841,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233159)
-    (at 296.037 104.8385 180)
+    (at 296.037 105.1031 180)
     (path /5E3DFE62)
     (fp_text reference R28 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3901,7 +3901,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233142)
-    (at 276.987 104.8385 180)
+    (at 276.987 105.1031 180)
     (path /5E3DFE56)
     (fp_text reference R27 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3961,7 +3961,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23312B)
-    (at 257.937 104.8385 180)
+    (at 257.937 105.1031 180)
     (path /5E3DFE5C)
     (fp_text reference R26 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4021,7 +4021,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233114)
-    (at 238.887 104.8385 180)
+    (at 238.887 105.1031 180)
     (path /5E3DFE50)
     (fp_text reference R25 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4081,7 +4081,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2330FD)
-    (at 219.837 104.8385 180)
+    (at 219.837 105.1031 180)
     (path /5E3DFE44)
     (fp_text reference R24 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4141,7 +4141,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2330E6)
-    (at 200.787 104.8385 180)
+    (at 200.787 105.1031 180)
     (path /5E3DFE4A)
     (fp_text reference R23 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4201,7 +4201,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2330CF)
-    (at 181.737 104.8385 180)
+    (at 181.737 105.1031 180)
     (path /5E3DFE3E)
     (fp_text reference R22 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4261,7 +4261,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2330B8)
-    (at 162.687 104.8385 180)
+    (at 162.687 105.1031 180)
     (path /5E3DFE32)
     (fp_text reference R21 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4321,7 +4321,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E2330A1)
-    (at 143.637 104.8385 180)
+    (at 143.637 105.1031 180)
     (path /5E3DFE38)
     (fp_text reference R20 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4381,7 +4381,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23308A)
-    (at 124.587 104.8385 180)
+    (at 124.587 105.1031 180)
     (path /5E3DFE2C)
     (fp_text reference R19 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4441,7 +4441,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233073)
-    (at 105.537 104.8385 180)
+    (at 105.537 105.1031 180)
     (path /5E3DFE20)
     (fp_text reference R18 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4501,7 +4501,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23305C)
-    (at 86.487 104.8385 180)
+    (at 86.487 105.1031 180)
     (path /5E3DFE26)
     (fp_text reference R17 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4561,7 +4561,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233045)
-    (at 67.437 104.8385 180)
+    (at 67.437 105.1031 180)
     (path /5E3DFE1A)
     (fp_text reference R16 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4621,7 +4621,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E23302E)
-    (at 348.4245 85.7885 180)
+    (at 348.4245 86.0531 180)
     (path /5E3B5F5A)
     (fp_text reference R15 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4681,7 +4681,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233017)
-    (at 324.612 85.7885 180)
+    (at 324.612 86.0531 180)
     (path /5E3B5F60)
     (fp_text reference R14 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4741,7 +4741,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E233000)
-    (at 305.562 85.7885 180)
+    (at 305.562 86.0531 180)
     (path /5E3B5F54)
     (fp_text reference R13 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4801,7 +4801,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232FE9)
-    (at 286.512 85.7885 180)
+    (at 286.512 86.0531 180)
     (path /5E3B5F48)
     (fp_text reference R12 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4861,7 +4861,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232FD2)
-    (at 267.462 85.7885 180)
+    (at 267.462 86.0531 180)
     (path /5E3B5F4E)
     (fp_text reference R11 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4921,7 +4921,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232FBB)
-    (at 248.412 85.7885 180)
+    (at 248.412 86.0531 180)
     (path /5E3B5F42)
     (fp_text reference R10 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -4981,7 +4981,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232FA4)
-    (at 229.362 85.7885 180)
+    (at 229.362 86.0531 180)
     (path /5E3B5F36)
     (fp_text reference R9 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -5101,7 +5101,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232F76)
-    (at 191.262 85.7885 180)
+    (at 191.262 86.0531 180)
     (path /5E3B5F30)
     (fp_text reference R7 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -5161,7 +5161,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232F5F)
-    (at 172.212 85.7885 180)
+    (at 172.212 86.0531 180)
     (path /5E3B5F24)
     (fp_text reference R6 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -5221,7 +5221,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232F48)
-    (at 153.162 85.7885 180)
+    (at 153.162 86.0536 180)
     (path /5E3B5F2A)
     (fp_text reference R5 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -5229,50 +5229,50 @@
     (fp_text value 470 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_line (start -2 -0.8) (end 2 -0.8) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2 -0.8) (end 2.2 -1) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2.2 -1) (end 2.6 -1) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2.6 -1) (end 2.8 -0.8) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2.8 -0.8) (end 3 0) (layer F.SilkS) (width 0.15))
-    (fp_line (start 3 0) (end 2.8 0.8) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2.8 0.8) (end 2.6 1) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2.6 1) (end 2.2 1) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2.2 1) (end 2 0.8) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2 0.8) (end -2 0.8) (layer F.SilkS) (width 0.15))
-    (fp_line (start -2 0.8) (end -2.2 1) (layer F.SilkS) (width 0.15))
-    (fp_line (start -2.2 1) (end -2.6 1) (layer F.SilkS) (width 0.15))
-    (fp_line (start -2.6 1) (end -2.8 0.8) (layer F.SilkS) (width 0.15))
-    (fp_line (start -2.8 0.8) (end -3 0) (layer F.SilkS) (width 0.15))
-    (fp_line (start -3 0) (end -2.8 -0.8) (layer F.SilkS) (width 0.15))
-    (fp_line (start -2.8 -0.8) (end -2.6 -1) (layer F.SilkS) (width 0.15))
-    (fp_line (start -2.6 -1) (end -2.2 -1) (layer F.SilkS) (width 0.15))
-    (fp_line (start -2.2 -1) (end -2 -0.8) (layer F.SilkS) (width 0.15))
-    (fp_line (start -4.2 0) (end -3 0) (layer F.SilkS) (width 0.15))
-    (fp_line (start 3 0) (end 4.2 0) (layer F.SilkS) (width 0.15))
-    (fp_line (start -4.2 0) (end -3 0) (layer Dwgs.User) (width 0.15))
-    (fp_line (start -3 0) (end -2.8 -0.8) (layer Dwgs.User) (width 0.15))
-    (fp_line (start -2.8 -0.8) (end -2.6 -1) (layer Dwgs.User) (width 0.15))
-    (fp_line (start -2.6 -1) (end -2.2 -1) (layer Dwgs.User) (width 0.15))
-    (fp_line (start -2.2 -1) (end -2 -0.8) (layer Dwgs.User) (width 0.15))
-    (fp_line (start -2 -0.8) (end 2 -0.8) (layer Dwgs.User) (width 0.15))
-    (fp_line (start 2 -0.8) (end 2.2 -1) (layer Dwgs.User) (width 0.15))
-    (fp_line (start 2.2 -1) (end 2.6 -1) (layer Dwgs.User) (width 0.15))
-    (fp_line (start 2.6 -1) (end 2.8 -0.8) (layer Dwgs.User) (width 0.15))
-    (fp_line (start 2.8 -0.8) (end 3 0) (layer Dwgs.User) (width 0.15))
-    (fp_line (start 3 0) (end 2.8 0.8) (layer Dwgs.User) (width 0.15))
-    (fp_line (start 2.8 0.8) (end 2.6 1) (layer Dwgs.User) (width 0.15))
-    (fp_line (start 2.6 1) (end 2.2 1) (layer Dwgs.User) (width 0.15))
-    (fp_line (start 2.2 1) (end 2 0.8) (layer Dwgs.User) (width 0.15))
-    (fp_line (start 2 0.8) (end -2 0.8) (layer Dwgs.User) (width 0.15))
-    (fp_line (start -2 0.8) (end -2.2 1) (layer Dwgs.User) (width 0.15))
-    (fp_line (start -2.2 1) (end -2.6 1) (layer Dwgs.User) (width 0.15))
-    (fp_line (start -2.6 1) (end -2.8 0.8) (layer Dwgs.User) (width 0.15))
-    (fp_line (start -2.8 0.8) (end -3 0) (layer Dwgs.User) (width 0.15))
     (fp_line (start 3 0) (end 4.2 0) (layer Dwgs.User) (width 0.15))
-    (pad 2 thru_hole circle (at 5.08 0 180) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
-      (net 204 LEDOUT))
+    (fp_line (start -2.8 0.8) (end -3 0) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -2.6 1) (end -2.8 0.8) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -2.2 1) (end -2.6 1) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -2 0.8) (end -2.2 1) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 2 0.8) (end -2 0.8) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 2.2 1) (end 2 0.8) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 2.6 1) (end 2.2 1) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 2.8 0.8) (end 2.6 1) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 3 0) (end 2.8 0.8) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 2.8 -0.8) (end 3 0) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 2.6 -1) (end 2.8 -0.8) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 2.2 -1) (end 2.6 -1) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 2 -0.8) (end 2.2 -1) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -2 -0.8) (end 2 -0.8) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -2.2 -1) (end -2 -0.8) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -2.6 -1) (end -2.2 -1) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -2.8 -0.8) (end -2.6 -1) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -3 0) (end -2.8 -0.8) (layer Dwgs.User) (width 0.15))
+    (fp_line (start -4.2 0) (end -3 0) (layer Dwgs.User) (width 0.15))
+    (fp_line (start 3 0) (end 4.2 0) (layer F.SilkS) (width 0.15))
+    (fp_line (start -4.2 0) (end -3 0) (layer F.SilkS) (width 0.15))
+    (fp_line (start -2.2 -1) (end -2 -0.8) (layer F.SilkS) (width 0.15))
+    (fp_line (start -2.6 -1) (end -2.2 -1) (layer F.SilkS) (width 0.15))
+    (fp_line (start -2.8 -0.8) (end -2.6 -1) (layer F.SilkS) (width 0.15))
+    (fp_line (start -3 0) (end -2.8 -0.8) (layer F.SilkS) (width 0.15))
+    (fp_line (start -2.8 0.8) (end -3 0) (layer F.SilkS) (width 0.15))
+    (fp_line (start -2.6 1) (end -2.8 0.8) (layer F.SilkS) (width 0.15))
+    (fp_line (start -2.2 1) (end -2.6 1) (layer F.SilkS) (width 0.15))
+    (fp_line (start -2 0.8) (end -2.2 1) (layer F.SilkS) (width 0.15))
+    (fp_line (start 2 0.8) (end -2 0.8) (layer F.SilkS) (width 0.15))
+    (fp_line (start 2.2 1) (end 2 0.8) (layer F.SilkS) (width 0.15))
+    (fp_line (start 2.6 1) (end 2.2 1) (layer F.SilkS) (width 0.15))
+    (fp_line (start 2.8 0.8) (end 2.6 1) (layer F.SilkS) (width 0.15))
+    (fp_line (start 3 0) (end 2.8 0.8) (layer F.SilkS) (width 0.15))
+    (fp_line (start 2.8 -0.8) (end 3 0) (layer F.SilkS) (width 0.15))
+    (fp_line (start 2.6 -1) (end 2.8 -0.8) (layer F.SilkS) (width 0.15))
+    (fp_line (start 2.2 -1) (end 2.6 -1) (layer F.SilkS) (width 0.15))
+    (fp_line (start 2 -0.8) (end 2.2 -1) (layer F.SilkS) (width 0.15))
+    (fp_line (start -2 -0.8) (end 2 -0.8) (layer F.SilkS) (width 0.15))
     (pad 1 thru_hole circle (at -5.08 0 180) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 125 "Net-(MX5-Pad4)"))
+    (pad 2 thru_hole circle (at 5.08 0 180) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+      (net 204 LEDOUT))
     (model Resistors_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.wrl
       (offset (xyz -5.079999923706055 0 0))
       (scale (xyz 0.525 0.525 0.525))
@@ -5281,7 +5281,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232F31)
-    (at 134.112 86.58225 180)
+    (at 134.112 86.0536 180)
     (path /5E3B5F1E)
     (fp_text reference R4 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -5341,7 +5341,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232F1A)
-    (at 115.062 85.7885 180)
+    (at 115.062 86.0536 180)
     (path /5E3B5F12)
     (fp_text reference R3 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -5401,7 +5401,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232F03)
-    (at 96.012 85.7885 180)
+    (at 96.012 86.0536 180)
     (path /5E3B5F18)
     (fp_text reference R2 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -5461,7 +5461,7 @@
   )
 
   (module bear_face_parts:Resistor-THT (layer F.Cu) (tedit 5E22BBDA) (tstamp 5E232EEC)
-    (at 72.1995 85.7885 180)
+    (at 72.1995 86.0536 180)
     (path /5E3B5F0C)
     (fp_text reference R1 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))

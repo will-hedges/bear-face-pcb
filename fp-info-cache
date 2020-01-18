@@ -1,4 +1,4 @@
-17362082437054534
+17349449145902836
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76790,26 +76790,12 @@ MXOnly-1.5U
 4
 4
 bear_face_parts
-MXOnly-1.5U-NoLED
-
-
-0
-2
-2
-bear_face_parts
 MXOnly-1.25U
 
 
 0
 4
 4
-bear_face_parts
-MXOnly-1.25U-NoLED
-
-
-0
-2
-2
 bear_face_parts
 MXOnly-1.75U
 
@@ -76818,13 +76804,6 @@ MXOnly-1.75U
 4
 4
 bear_face_parts
-MXOnly-1.75U-NoLED
-
-
-0
-2
-2
-bear_face_parts
 MXOnly-1U
 
 
@@ -76832,40 +76811,12 @@ MXOnly-1U
 4
 4
 bear_face_parts
-MXOnly-1U-NoLED
-
-
-0
-2
-2
-bear_face_parts
-MXOnly-2.25U-NoLED
-
-
-0
-2
-2
-bear_face_parts
 MXOnly-2.25U-NoStabs
 
 
 0
 4
 4
-bear_face_parts
-MXOnly-2.75U-NoLED
-
-
-0
-2
-2
-bear_face_parts
-MXOnly-2U-NoLED
-
-
-0
-2
-2
 bear_face_parts
 MXOnly-2U-NoStabs
 
@@ -76880,13 +76831,6 @@ MXOnly-6.25U-NoStabs
 0
 4
 4
-bear_face_parts
-MXOnly-6.25U-ReversedStabilizers-NoLED
-
-
-0
-2
-2
 bear_face_parts
 MountingHole_3mm
 Mounting Hole 3mm, no annular
