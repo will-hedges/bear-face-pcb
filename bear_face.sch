@@ -2654,7 +2654,7 @@ U 1 1 5E2BAE37
 P 1200 4800
 F 0 "R85" V 1004 4800 50  0000 C CNN
 F 1 "22" V 1095 4800 50  0000 C CNN
-F 2 "bear_face_parts:Resistor-THT" H 1200 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 1200 4800 50  0001 C CNN
 F 3 "~" H 1200 4800 50  0001 C CNN
 	1    1200 4800
 	0    1    1    0   
@@ -2665,7 +2665,7 @@ U 1 1 5E2BDE9E
 P 900 4900
 F 0 "R86" V 704 4900 50  0000 C CNN
 F 1 "22" V 795 4900 50  0000 C CNN
-F 2 "bear_face_parts:Resistor-THT" H 900 4900 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 900 4900 50  0001 C CNN
 F 3 "~" H 900 4900 50  0001 C CNN
 	1    900  4900
 	0    1    1    0   
@@ -3031,7 +3031,7 @@ U 1 1 5E3B5F0C
 P 3700 1300
 F 0 "R1" H 3759 1346 50  0000 L CNN
 F 1 "470" H 3759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 3700 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 1300 50  0001 C CNN
 F 3 "~" H 3700 1300 50  0001 C CNN
 	1    3700 1300
 	1    0    0    -1  
@@ -3042,7 +3042,7 @@ U 1 1 5E3B5F12
 P 4700 1300
 F 0 "R3" H 4759 1346 50  0000 L CNN
 F 1 "470" H 4759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4700 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 1300 50  0001 C CNN
 F 3 "~" H 4700 1300 50  0001 C CNN
 	1    4700 1300
 	1    0    0    -1  
@@ -3053,7 +3053,7 @@ U 1 1 5E3B5F18
 P 4200 1300
 F 0 "R2" H 4259 1346 50  0000 L CNN
 F 1 "470" H 4259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4200 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 1300 50  0001 C CNN
 F 3 "~" H 4200 1300 50  0001 C CNN
 	1    4200 1300
 	1    0    0    -1  
@@ -3064,7 +3064,7 @@ U 1 1 5E3B5F1E
 P 5200 1300
 F 0 "R4" H 5259 1346 50  0000 L CNN
 F 1 "470" H 5259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5200 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 1300 50  0001 C CNN
 F 3 "~" H 5200 1300 50  0001 C CNN
 	1    5200 1300
 	1    0    0    -1  
@@ -3075,7 +3075,7 @@ U 1 1 5E3B5F24
 P 6200 1300
 F 0 "R6" H 6259 1346 50  0000 L CNN
 F 1 "470" H 6259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6200 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 1300 50  0001 C CNN
 F 3 "~" H 6200 1300 50  0001 C CNN
 	1    6200 1300
 	1    0    0    -1  
@@ -3086,7 +3086,7 @@ U 1 1 5E3B5F2A
 P 5700 1300
 F 0 "R5" H 5759 1346 50  0000 L CNN
 F 1 "470" H 5759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5700 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 1300 50  0001 C CNN
 F 3 "~" H 5700 1300 50  0001 C CNN
 	1    5700 1300
 	1    0    0    -1  
@@ -3097,7 +3097,7 @@ U 1 1 5E3B5F30
 P 6700 1300
 F 0 "R7" H 6759 1346 50  0000 L CNN
 F 1 "470" H 6759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6700 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 1300 50  0001 C CNN
 F 3 "~" H 6700 1300 50  0001 C CNN
 	1    6700 1300
 	1    0    0    -1  
@@ -3108,7 +3108,7 @@ U 1 1 5E3B5F36
 P 7700 1300
 F 0 "R9" H 7759 1346 50  0000 L CNN
 F 1 "470" H 7759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7700 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 1300 50  0001 C CNN
 F 3 "~" H 7700 1300 50  0001 C CNN
 	1    7700 1300
 	1    0    0    -1  
@@ -3119,7 +3119,7 @@ U 1 1 5E3B5F3C
 P 7200 1300
 F 0 "R8" H 7259 1346 50  0000 L CNN
 F 1 "470" H 7259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7200 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 1300 50  0001 C CNN
 F 3 "~" H 7200 1300 50  0001 C CNN
 	1    7200 1300
 	1    0    0    -1  
@@ -3130,7 +3130,7 @@ U 1 1 5E3B5F42
 P 8200 1300
 F 0 "R10" H 8259 1346 50  0000 L CNN
 F 1 "470" H 8259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8200 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 1300 50  0001 C CNN
 F 3 "~" H 8200 1300 50  0001 C CNN
 	1    8200 1300
 	1    0    0    -1  
@@ -3141,7 +3141,7 @@ U 1 1 5E3B5F48
 P 9200 1300
 F 0 "R12" H 9259 1346 50  0000 L CNN
 F 1 "470" H 9259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9200 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 1300 50  0001 C CNN
 F 3 "~" H 9200 1300 50  0001 C CNN
 	1    9200 1300
 	1    0    0    -1  
@@ -3152,7 +3152,7 @@ U 1 1 5E3B5F4E
 P 8700 1300
 F 0 "R11" H 8759 1346 50  0000 L CNN
 F 1 "470" H 8759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8700 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 1300 50  0001 C CNN
 F 3 "~" H 8700 1300 50  0001 C CNN
 	1    8700 1300
 	1    0    0    -1  
@@ -3163,7 +3163,7 @@ U 1 1 5E3B5F54
 P 9700 1300
 F 0 "R13" H 9759 1346 50  0000 L CNN
 F 1 "470" H 9759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9700 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 1300 50  0001 C CNN
 F 3 "~" H 9700 1300 50  0001 C CNN
 	1    9700 1300
 	1    0    0    -1  
@@ -3174,7 +3174,7 @@ U 1 1 5E3B5F5A
 P 10700 1300
 F 0 "R15" H 10759 1346 50  0000 L CNN
 F 1 "470" H 10759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10700 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 1300 50  0001 C CNN
 F 3 "~" H 10700 1300 50  0001 C CNN
 	1    10700 1300
 	1    0    0    -1  
@@ -3185,7 +3185,7 @@ U 1 1 5E3B5F60
 P 10200 1300
 F 0 "R14" H 10259 1346 50  0000 L CNN
 F 1 "470" H 10259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10200 1300 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 1300 50  0001 C CNN
 F 3 "~" H 10200 1300 50  0001 C CNN
 	1    10200 1300
 	1    0    0    -1  
@@ -3196,7 +3196,7 @@ U 1 1 5E3DFE1A
 P 3700 2000
 F 0 "R16" H 3759 2046 50  0000 L CNN
 F 1 "470" H 3759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 3700 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 2000 50  0001 C CNN
 F 3 "~" H 3700 2000 50  0001 C CNN
 	1    3700 2000
 	1    0    0    -1  
@@ -3207,7 +3207,7 @@ U 1 1 5E3DFE20
 P 4700 2000
 F 0 "R18" H 4759 2046 50  0000 L CNN
 F 1 "470" H 4759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4700 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 2000 50  0001 C CNN
 F 3 "~" H 4700 2000 50  0001 C CNN
 	1    4700 2000
 	1    0    0    -1  
@@ -3218,7 +3218,7 @@ U 1 1 5E3DFE26
 P 4200 2000
 F 0 "R17" H 4259 2046 50  0000 L CNN
 F 1 "470" H 4259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4200 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 2000 50  0001 C CNN
 F 3 "~" H 4200 2000 50  0001 C CNN
 	1    4200 2000
 	1    0    0    -1  
@@ -3229,7 +3229,7 @@ U 1 1 5E3DFE2C
 P 5200 2000
 F 0 "R19" H 5259 2046 50  0000 L CNN
 F 1 "470" H 5259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5200 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 2000 50  0001 C CNN
 F 3 "~" H 5200 2000 50  0001 C CNN
 	1    5200 2000
 	1    0    0    -1  
@@ -3240,7 +3240,7 @@ U 1 1 5E3DFE32
 P 6200 2000
 F 0 "R21" H 6259 2046 50  0000 L CNN
 F 1 "470" H 6259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6200 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 2000 50  0001 C CNN
 F 3 "~" H 6200 2000 50  0001 C CNN
 	1    6200 2000
 	1    0    0    -1  
@@ -3251,7 +3251,7 @@ U 1 1 5E3DFE38
 P 5700 2000
 F 0 "R20" H 5759 2046 50  0000 L CNN
 F 1 "470" H 5759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5700 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 2000 50  0001 C CNN
 F 3 "~" H 5700 2000 50  0001 C CNN
 	1    5700 2000
 	1    0    0    -1  
@@ -3262,7 +3262,7 @@ U 1 1 5E3DFE3E
 P 6700 2000
 F 0 "R22" H 6759 2046 50  0000 L CNN
 F 1 "470" H 6759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6700 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 2000 50  0001 C CNN
 F 3 "~" H 6700 2000 50  0001 C CNN
 	1    6700 2000
 	1    0    0    -1  
@@ -3273,7 +3273,7 @@ U 1 1 5E3DFE44
 P 7700 2000
 F 0 "R24" H 7759 2046 50  0000 L CNN
 F 1 "470" H 7759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7700 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 2000 50  0001 C CNN
 F 3 "~" H 7700 2000 50  0001 C CNN
 	1    7700 2000
 	1    0    0    -1  
@@ -3284,7 +3284,7 @@ U 1 1 5E3DFE4A
 P 7200 2000
 F 0 "R23" H 7259 2046 50  0000 L CNN
 F 1 "470" H 7259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7200 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 2000 50  0001 C CNN
 F 3 "~" H 7200 2000 50  0001 C CNN
 	1    7200 2000
 	1    0    0    -1  
@@ -3295,7 +3295,7 @@ U 1 1 5E3DFE50
 P 8200 2000
 F 0 "R25" H 8259 2046 50  0000 L CNN
 F 1 "470" H 8259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8200 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 2000 50  0001 C CNN
 F 3 "~" H 8200 2000 50  0001 C CNN
 	1    8200 2000
 	1    0    0    -1  
@@ -3306,7 +3306,7 @@ U 1 1 5E3DFE56
 P 9200 2000
 F 0 "R27" H 9259 2046 50  0000 L CNN
 F 1 "470" H 9259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9200 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 2000 50  0001 C CNN
 F 3 "~" H 9200 2000 50  0001 C CNN
 	1    9200 2000
 	1    0    0    -1  
@@ -3317,7 +3317,7 @@ U 1 1 5E3DFE5C
 P 8700 2000
 F 0 "R26" H 8759 2046 50  0000 L CNN
 F 1 "470" H 8759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8700 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 2000 50  0001 C CNN
 F 3 "~" H 8700 2000 50  0001 C CNN
 	1    8700 2000
 	1    0    0    -1  
@@ -3328,7 +3328,7 @@ U 1 1 5E3DFE62
 P 9700 2000
 F 0 "R28" H 9759 2046 50  0000 L CNN
 F 1 "470" H 9759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9700 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 2000 50  0001 C CNN
 F 3 "~" H 9700 2000 50  0001 C CNN
 	1    9700 2000
 	1    0    0    -1  
@@ -3339,7 +3339,7 @@ U 1 1 5E3DFE68
 P 10700 2000
 F 0 "R30" H 10759 2046 50  0000 L CNN
 F 1 "470" H 10759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10700 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 2000 50  0001 C CNN
 F 3 "~" H 10700 2000 50  0001 C CNN
 	1    10700 2000
 	1    0    0    -1  
@@ -3350,7 +3350,7 @@ U 1 1 5E3DFE6E
 P 10200 2000
 F 0 "R29" H 10259 2046 50  0000 L CNN
 F 1 "470" H 10259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10200 2000 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 2000 50  0001 C CNN
 F 3 "~" H 10200 2000 50  0001 C CNN
 	1    10200 2000
 	1    0    0    -1  
@@ -3361,7 +3361,7 @@ U 1 1 5E408241
 P 3700 2700
 F 0 "R31" H 3759 2746 50  0000 L CNN
 F 1 "470" H 3759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 3700 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 2700 50  0001 C CNN
 F 3 "~" H 3700 2700 50  0001 C CNN
 	1    3700 2700
 	1    0    0    -1  
@@ -3372,7 +3372,7 @@ U 1 1 5E408247
 P 4700 2700
 F 0 "R33" H 4759 2746 50  0000 L CNN
 F 1 "470" H 4759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4700 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 2700 50  0001 C CNN
 F 3 "~" H 4700 2700 50  0001 C CNN
 	1    4700 2700
 	1    0    0    -1  
@@ -3383,7 +3383,7 @@ U 1 1 5E40824D
 P 4200 2700
 F 0 "R32" H 4259 2746 50  0000 L CNN
 F 1 "470" H 4259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4200 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 2700 50  0001 C CNN
 F 3 "~" H 4200 2700 50  0001 C CNN
 	1    4200 2700
 	1    0    0    -1  
@@ -3394,7 +3394,7 @@ U 1 1 5E408253
 P 5200 2700
 F 0 "R34" H 5259 2746 50  0000 L CNN
 F 1 "470" H 5259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5200 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 2700 50  0001 C CNN
 F 3 "~" H 5200 2700 50  0001 C CNN
 	1    5200 2700
 	1    0    0    -1  
@@ -3405,7 +3405,7 @@ U 1 1 5E408259
 P 6200 2700
 F 0 "R36" H 6259 2746 50  0000 L CNN
 F 1 "470" H 6259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6200 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 2700 50  0001 C CNN
 F 3 "~" H 6200 2700 50  0001 C CNN
 	1    6200 2700
 	1    0    0    -1  
@@ -3416,7 +3416,7 @@ U 1 1 5E40825F
 P 5700 2700
 F 0 "R35" H 5759 2746 50  0000 L CNN
 F 1 "470" H 5759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5700 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 2700 50  0001 C CNN
 F 3 "~" H 5700 2700 50  0001 C CNN
 	1    5700 2700
 	1    0    0    -1  
@@ -3427,7 +3427,7 @@ U 1 1 5E408265
 P 6700 2700
 F 0 "R37" H 6759 2746 50  0000 L CNN
 F 1 "470" H 6759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6700 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 2700 50  0001 C CNN
 F 3 "~" H 6700 2700 50  0001 C CNN
 	1    6700 2700
 	1    0    0    -1  
@@ -3438,7 +3438,7 @@ U 1 1 5E40826B
 P 7700 2700
 F 0 "R39" H 7759 2746 50  0000 L CNN
 F 1 "470" H 7759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7700 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 2700 50  0001 C CNN
 F 3 "~" H 7700 2700 50  0001 C CNN
 	1    7700 2700
 	1    0    0    -1  
@@ -3449,7 +3449,7 @@ U 1 1 5E408271
 P 7200 2700
 F 0 "R38" H 7259 2746 50  0000 L CNN
 F 1 "470" H 7259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7200 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 2700 50  0001 C CNN
 F 3 "~" H 7200 2700 50  0001 C CNN
 	1    7200 2700
 	1    0    0    -1  
@@ -3460,7 +3460,7 @@ U 1 1 5E408277
 P 8200 2700
 F 0 "R40" H 8259 2746 50  0000 L CNN
 F 1 "470" H 8259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8200 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 2700 50  0001 C CNN
 F 3 "~" H 8200 2700 50  0001 C CNN
 	1    8200 2700
 	1    0    0    -1  
@@ -3471,7 +3471,7 @@ U 1 1 5E40827D
 P 9200 2700
 F 0 "R42" H 9259 2746 50  0000 L CNN
 F 1 "470" H 9259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9200 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 2700 50  0001 C CNN
 F 3 "~" H 9200 2700 50  0001 C CNN
 	1    9200 2700
 	1    0    0    -1  
@@ -3482,7 +3482,7 @@ U 1 1 5E408283
 P 8700 2700
 F 0 "R41" H 8759 2746 50  0000 L CNN
 F 1 "470" H 8759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8700 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 2700 50  0001 C CNN
 F 3 "~" H 8700 2700 50  0001 C CNN
 	1    8700 2700
 	1    0    0    -1  
@@ -3493,7 +3493,7 @@ U 1 1 5E408289
 P 9700 2700
 F 0 "R43" H 9759 2746 50  0000 L CNN
 F 1 "470" H 9759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9700 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 2700 50  0001 C CNN
 F 3 "~" H 9700 2700 50  0001 C CNN
 	1    9700 2700
 	1    0    0    -1  
@@ -3504,7 +3504,7 @@ U 1 1 5E40828F
 P 10700 2700
 F 0 "R45" H 10759 2746 50  0000 L CNN
 F 1 "470" H 10759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10700 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 2700 50  0001 C CNN
 F 3 "~" H 10700 2700 50  0001 C CNN
 	1    10700 2700
 	1    0    0    -1  
@@ -3515,7 +3515,7 @@ U 1 1 5E408295
 P 10200 2700
 F 0 "R44" H 10259 2746 50  0000 L CNN
 F 1 "470" H 10259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10200 2700 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 2700 50  0001 C CNN
 F 3 "~" H 10200 2700 50  0001 C CNN
 	1    10200 2700
 	1    0    0    -1  
@@ -3526,7 +3526,7 @@ U 1 1 5E428898
 P 3700 3400
 F 0 "R46" H 3759 3446 50  0000 L CNN
 F 1 "470" H 3759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 3700 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 3400 50  0001 C CNN
 F 3 "~" H 3700 3400 50  0001 C CNN
 	1    3700 3400
 	1    0    0    -1  
@@ -3537,7 +3537,7 @@ U 1 1 5E42889E
 P 4700 3400
 F 0 "R48" H 4759 3446 50  0000 L CNN
 F 1 "470" H 4759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4700 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 3400 50  0001 C CNN
 F 3 "~" H 4700 3400 50  0001 C CNN
 	1    4700 3400
 	1    0    0    -1  
@@ -3548,7 +3548,7 @@ U 1 1 5E4288A4
 P 4200 3400
 F 0 "R47" H 4259 3446 50  0000 L CNN
 F 1 "470" H 4259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4200 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 3400 50  0001 C CNN
 F 3 "~" H 4200 3400 50  0001 C CNN
 	1    4200 3400
 	1    0    0    -1  
@@ -3559,7 +3559,7 @@ U 1 1 5E4288AA
 P 5200 3400
 F 0 "R49" H 5259 3446 50  0000 L CNN
 F 1 "470" H 5259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5200 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 3400 50  0001 C CNN
 F 3 "~" H 5200 3400 50  0001 C CNN
 	1    5200 3400
 	1    0    0    -1  
@@ -3570,7 +3570,7 @@ U 1 1 5E4288B0
 P 6200 3400
 F 0 "R51" H 6259 3446 50  0000 L CNN
 F 1 "470" H 6259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6200 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 3400 50  0001 C CNN
 F 3 "~" H 6200 3400 50  0001 C CNN
 	1    6200 3400
 	1    0    0    -1  
@@ -3581,7 +3581,7 @@ U 1 1 5E4288B6
 P 5700 3400
 F 0 "R50" H 5759 3446 50  0000 L CNN
 F 1 "470" H 5759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5700 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 3400 50  0001 C CNN
 F 3 "~" H 5700 3400 50  0001 C CNN
 	1    5700 3400
 	1    0    0    -1  
@@ -3592,7 +3592,7 @@ U 1 1 5E4288BC
 P 6700 3400
 F 0 "R52" H 6759 3446 50  0000 L CNN
 F 1 "470" H 6759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6700 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 3400 50  0001 C CNN
 F 3 "~" H 6700 3400 50  0001 C CNN
 	1    6700 3400
 	1    0    0    -1  
@@ -3603,7 +3603,7 @@ U 1 1 5E4288C2
 P 7700 3400
 F 0 "R54" H 7759 3446 50  0000 L CNN
 F 1 "470" H 7759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7700 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 3400 50  0001 C CNN
 F 3 "~" H 7700 3400 50  0001 C CNN
 	1    7700 3400
 	1    0    0    -1  
@@ -3614,7 +3614,7 @@ U 1 1 5E4288C8
 P 7200 3400
 F 0 "R53" H 7259 3446 50  0000 L CNN
 F 1 "470" H 7259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7200 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 3400 50  0001 C CNN
 F 3 "~" H 7200 3400 50  0001 C CNN
 	1    7200 3400
 	1    0    0    -1  
@@ -3625,7 +3625,7 @@ U 1 1 5E4288CE
 P 8200 3400
 F 0 "R55" H 8259 3446 50  0000 L CNN
 F 1 "470" H 8259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8200 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 3400 50  0001 C CNN
 F 3 "~" H 8200 3400 50  0001 C CNN
 	1    8200 3400
 	1    0    0    -1  
@@ -3636,7 +3636,7 @@ U 1 1 5E4288D4
 P 9200 3400
 F 0 "R57" H 9259 3446 50  0000 L CNN
 F 1 "470" H 9259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9200 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 3400 50  0001 C CNN
 F 3 "~" H 9200 3400 50  0001 C CNN
 	1    9200 3400
 	1    0    0    -1  
@@ -3647,7 +3647,7 @@ U 1 1 5E4288DA
 P 8700 3400
 F 0 "R56" H 8759 3446 50  0000 L CNN
 F 1 "470" H 8759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8700 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 3400 50  0001 C CNN
 F 3 "~" H 8700 3400 50  0001 C CNN
 	1    8700 3400
 	1    0    0    -1  
@@ -3658,7 +3658,7 @@ U 1 1 5E4288E6
 P 10700 3400
 F 0 "R59" H 10759 3446 50  0000 L CNN
 F 1 "470" H 10759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10700 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 3400 50  0001 C CNN
 F 3 "~" H 10700 3400 50  0001 C CNN
 	1    10700 3400
 	1    0    0    -1  
@@ -3669,7 +3669,7 @@ U 1 1 5E4288EC
 P 10200 3400
 F 0 "R58" H 10259 3446 50  0000 L CNN
 F 1 "470" H 10259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10200 3400 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 3400 50  0001 C CNN
 F 3 "~" H 10200 3400 50  0001 C CNN
 	1    10200 3400
 	1    0    0    -1  
@@ -3680,7 +3680,7 @@ U 1 1 5E44D70F
 P 3700 4100
 F 0 "R60" H 3759 4146 50  0000 L CNN
 F 1 "470" H 3759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 3700 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 4100 50  0001 C CNN
 F 3 "~" H 3700 4100 50  0001 C CNN
 	1    3700 4100
 	1    0    0    -1  
@@ -3691,7 +3691,7 @@ U 1 1 5E44D715
 P 4700 4100
 F 0 "R62" H 4759 4146 50  0000 L CNN
 F 1 "470" H 4759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4700 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 4100 50  0001 C CNN
 F 3 "~" H 4700 4100 50  0001 C CNN
 	1    4700 4100
 	1    0    0    -1  
@@ -3702,7 +3702,7 @@ U 1 1 5E44D71B
 P 4200 4100
 F 0 "R61" H 4259 4146 50  0000 L CNN
 F 1 "470" H 4259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4200 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 4100 50  0001 C CNN
 F 3 "~" H 4200 4100 50  0001 C CNN
 	1    4200 4100
 	1    0    0    -1  
@@ -3713,7 +3713,7 @@ U 1 1 5E44D721
 P 5200 4100
 F 0 "R63" H 5259 4146 50  0000 L CNN
 F 1 "470" H 5259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5200 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 4100 50  0001 C CNN
 F 3 "~" H 5200 4100 50  0001 C CNN
 	1    5200 4100
 	1    0    0    -1  
@@ -3724,7 +3724,7 @@ U 1 1 5E44D727
 P 6200 4100
 F 0 "R65" H 6259 4146 50  0000 L CNN
 F 1 "470" H 6259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6200 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 4100 50  0001 C CNN
 F 3 "~" H 6200 4100 50  0001 C CNN
 	1    6200 4100
 	1    0    0    -1  
@@ -3735,7 +3735,7 @@ U 1 1 5E44D72D
 P 5700 4100
 F 0 "R64" H 5759 4146 50  0000 L CNN
 F 1 "470" H 5759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 5700 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 4100 50  0001 C CNN
 F 3 "~" H 5700 4100 50  0001 C CNN
 	1    5700 4100
 	1    0    0    -1  
@@ -3746,7 +3746,7 @@ U 1 1 5E44D733
 P 6700 4100
 F 0 "R66" H 6759 4146 50  0000 L CNN
 F 1 "470" H 6759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6700 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 4100 50  0001 C CNN
 F 3 "~" H 6700 4100 50  0001 C CNN
 	1    6700 4100
 	1    0    0    -1  
@@ -3757,7 +3757,7 @@ U 1 1 5E44D739
 P 7700 4100
 F 0 "R68" H 7759 4146 50  0000 L CNN
 F 1 "470" H 7759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7700 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 4100 50  0001 C CNN
 F 3 "~" H 7700 4100 50  0001 C CNN
 	1    7700 4100
 	1    0    0    -1  
@@ -3768,7 +3768,7 @@ U 1 1 5E44D73F
 P 7200 4100
 F 0 "R67" H 7259 4146 50  0000 L CNN
 F 1 "470" H 7259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 7200 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 4100 50  0001 C CNN
 F 3 "~" H 7200 4100 50  0001 C CNN
 	1    7200 4100
 	1    0    0    -1  
@@ -3779,7 +3779,7 @@ U 1 1 5E44D745
 P 8200 4100
 F 0 "R69" H 8259 4146 50  0000 L CNN
 F 1 "470" H 8259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8200 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 4100 50  0001 C CNN
 F 3 "~" H 8200 4100 50  0001 C CNN
 	1    8200 4100
 	1    0    0    -1  
@@ -3790,7 +3790,7 @@ U 1 1 5E44D751
 P 8700 4100
 F 0 "R70" H 8759 4146 50  0000 L CNN
 F 1 "470" H 8759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8700 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 4100 50  0001 C CNN
 F 3 "~" H 8700 4100 50  0001 C CNN
 	1    8700 4100
 	1    0    0    -1  
@@ -3801,7 +3801,7 @@ U 1 1 5E44D757
 P 9700 4100
 F 0 "R71" H 9759 4146 50  0000 L CNN
 F 1 "470" H 9759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9700 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 4100 50  0001 C CNN
 F 3 "~" H 9700 4100 50  0001 C CNN
 	1    9700 4100
 	1    0    0    -1  
@@ -3812,7 +3812,7 @@ U 1 1 5E44D75D
 P 10700 4100
 F 0 "R73" H 10759 4146 50  0000 L CNN
 F 1 "470" H 10759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10700 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 4100 50  0001 C CNN
 F 3 "~" H 10700 4100 50  0001 C CNN
 	1    10700 4100
 	1    0    0    -1  
@@ -3823,7 +3823,7 @@ U 1 1 5E44D763
 P 10200 4100
 F 0 "R72" H 10259 4146 50  0000 L CNN
 F 1 "470" H 10259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10200 4100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 4100 50  0001 C CNN
 F 3 "~" H 10200 4100 50  0001 C CNN
 	1    10200 4100
 	1    0    0    -1  
@@ -3834,7 +3834,7 @@ U 1 1 5E473BE0
 P 3700 4800
 F 0 "R74" H 3759 4846 50  0000 L CNN
 F 1 "470" H 3759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 3700 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 4800 50  0001 C CNN
 F 3 "~" H 3700 4800 50  0001 C CNN
 	1    3700 4800
 	1    0    0    -1  
@@ -3845,7 +3845,7 @@ U 1 1 5E473BE6
 P 4700 4800
 F 0 "R76" H 4759 4846 50  0000 L CNN
 F 1 "470" H 4759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4700 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 4800 50  0001 C CNN
 F 3 "~" H 4700 4800 50  0001 C CNN
 	1    4700 4800
 	1    0    0    -1  
@@ -3856,7 +3856,7 @@ U 1 1 5E473BEC
 P 4200 4800
 F 0 "R75" H 4259 4846 50  0000 L CNN
 F 1 "470" H 4259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 4200 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 4800 50  0001 C CNN
 F 3 "~" H 4200 4800 50  0001 C CNN
 	1    4200 4800
 	1    0    0    -1  
@@ -3867,7 +3867,7 @@ U 1 1 5E473C16
 P 8200 4800
 F 0 "R78" H 8259 4846 50  0000 L CNN
 F 1 "470" H 8259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8200 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 4800 50  0001 C CNN
 F 3 "~" H 8200 4800 50  0001 C CNN
 	1    8200 4800
 	1    0    0    -1  
@@ -3878,7 +3878,7 @@ U 1 1 5E473C1C
 P 9200 4800
 F 0 "R80" H 9259 4846 50  0000 L CNN
 F 1 "470" H 9259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9200 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 4800 50  0001 C CNN
 F 3 "~" H 9200 4800 50  0001 C CNN
 	1    9200 4800
 	1    0    0    -1  
@@ -3889,7 +3889,7 @@ U 1 1 5E473C22
 P 8700 4800
 F 0 "R79" H 8759 4846 50  0000 L CNN
 F 1 "470" H 8759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 8700 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 4800 50  0001 C CNN
 F 3 "~" H 8700 4800 50  0001 C CNN
 	1    8700 4800
 	1    0    0    -1  
@@ -3900,7 +3900,7 @@ U 1 1 5E473C28
 P 9700 4800
 F 0 "R81" H 9759 4846 50  0000 L CNN
 F 1 "470" H 9759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 9700 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 4800 50  0001 C CNN
 F 3 "~" H 9700 4800 50  0001 C CNN
 	1    9700 4800
 	1    0    0    -1  
@@ -3911,7 +3911,7 @@ U 1 1 5E473C2E
 P 10700 4800
 F 0 "R83" H 10759 4846 50  0000 L CNN
 F 1 "470" H 10759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10700 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 4800 50  0001 C CNN
 F 3 "~" H 10700 4800 50  0001 C CNN
 	1    10700 4800
 	1    0    0    -1  
@@ -3922,7 +3922,7 @@ U 1 1 5E473C34
 P 10200 4800
 F 0 "R82" H 10259 4846 50  0000 L CNN
 F 1 "470" H 10259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 10200 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 4800 50  0001 C CNN
 F 3 "~" H 10200 4800 50  0001 C CNN
 	1    10200 4800
 	1    0    0    -1  
@@ -4006,7 +4006,7 @@ U 1 1 5E631F14
 P 6200 4800
 F 0 "R77" H 6259 4846 50  0000 L CNN
 F 1 "470" H 6259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 6200 4800 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 4800 50  0001 C CNN
 F 3 "~" H 6200 4800 50  0001 C CNN
 	1    6200 4800
 	1    0    0    -1  
@@ -4546,7 +4546,7 @@ U 1 1 5E33D046
 P 950 6450
 F 0 "R88" H 1009 6496 50  0000 L CNN
 F 1 "4.7k" H 1009 6405 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-THT" H 950 6450 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Compact-1-side" H 950 6450 50  0001 C CNN
 F 3 "~" H 950 6450 50  0001 C CNN
 	1    950  6450
 	1    0    0    -1  
