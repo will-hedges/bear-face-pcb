@@ -21,7 +21,7 @@ U 1 1 5E06CD54
 P 8550 4850
 F 0 "D79" V 8596 4782 50  0000 R CNN
 F 1 "D_Small" V 8505 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8550 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8550 4850 50  0001 C CNN
 F 3 "~" V 8550 4850 50  0001 C CNN
 	1    8550 4850
 	0    -1   -1   0   
@@ -45,7 +45,7 @@ U 1 1 5E06CD47
 P 9050 4850
 F 0 "D80" V 9096 4782 50  0000 R CNN
 F 1 "D_Small" V 9005 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9050 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9050 4850 50  0001 C CNN
 F 3 "~" V 9050 4850 50  0001 C CNN
 	1    9050 4850
 	0    -1   -1   0   
@@ -69,7 +69,7 @@ U 1 1 5E06CD3A
 P 9550 4850
 F 0 "D81" V 9596 4782 50  0000 R CNN
 F 1 "D_Small" V 9505 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9550 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9550 4850 50  0001 C CNN
 F 3 "~" V 9550 4850 50  0001 C CNN
 	1    9550 4850
 	0    -1   -1   0   
@@ -93,7 +93,7 @@ U 1 1 5E06CD2D
 P 10050 4850
 F 0 "D82" V 10096 4782 50  0000 R CNN
 F 1 "D_Small" V 10005 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10050 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10050 4850 50  0001 C CNN
 F 3 "~" V 10050 4850 50  0001 C CNN
 	1    10050 4850
 	0    -1   -1   0   
@@ -117,7 +117,7 @@ U 1 1 5E06CD20
 P 10550 4850
 F 0 "D83" V 10596 4782 50  0000 R CNN
 F 1 "D_Small" V 10505 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10550 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10550 4850 50  0001 C CNN
 F 3 "~" V 10550 4850 50  0001 C CNN
 	1    10550 4850
 	0    -1   -1   0   
@@ -141,7 +141,7 @@ U 1 1 5E06CD13
 P 10550 4150
 F 0 "D73" V 10596 4082 50  0000 R CNN
 F 1 "D_Small" V 10505 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10550 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10550 4150 50  0001 C CNN
 F 3 "~" V 10550 4150 50  0001 C CNN
 	1    10550 4150
 	0    -1   -1   0   
@@ -165,7 +165,7 @@ U 1 1 5E06CD06
 P 10050 4150
 F 0 "D72" V 10096 4082 50  0000 R CNN
 F 1 "D_Small" V 10005 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10050 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10050 4150 50  0001 C CNN
 F 3 "~" V 10050 4150 50  0001 C CNN
 	1    10050 4150
 	0    -1   -1   0   
@@ -189,7 +189,7 @@ U 1 1 5E06CCF9
 P 10550 3450
 F 0 "D59" V 10596 3382 50  0000 R CNN
 F 1 "D_Small" V 10505 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10550 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10550 3450 50  0001 C CNN
 F 3 "~" V 10550 3450 50  0001 C CNN
 	1    10550 3450
 	0    -1   -1   0   
@@ -213,7 +213,7 @@ U 1 1 5E060A2F
 P 8050 4850
 F 0 "D78" V 8096 4782 50  0000 R CNN
 F 1 "D_Small" V 8005 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8050 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8050 4850 50  0001 C CNN
 F 3 "~" V 8050 4850 50  0001 C CNN
 	1    8050 4850
 	0    -1   -1   0   
@@ -226,7 +226,7 @@ U 1 1 5E060A22
 P 8550 4150
 F 0 "D70" V 8596 4082 50  0000 R CNN
 F 1 "D_Small" V 8505 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8550 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8550 4150 50  0001 C CNN
 F 3 "~" V 8550 4150 50  0001 C CNN
 	1    8550 4150
 	0    -1   -1   0   
@@ -250,7 +250,7 @@ U 1 1 5E060A15
 P 9550 4150
 F 0 "D71" V 9596 4082 50  0000 R CNN
 F 1 "D_Small" V 9505 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9550 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9550 4150 50  0001 C CNN
 F 3 "~" V 9550 4150 50  0001 C CNN
 	1    9550 4150
 	0    -1   -1   0   
@@ -263,7 +263,7 @@ U 1 1 5E060A08
 P 10050 3450
 F 0 "D58" V 10096 3382 50  0000 R CNN
 F 1 "D_Small" V 10005 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10050 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10050 3450 50  0001 C CNN
 F 3 "~" V 10050 3450 50  0001 C CNN
 	1    10050 3450
 	0    -1   -1   0   
@@ -287,7 +287,7 @@ U 1 1 5E0609FB
 P 9550 2750
 F 0 "D43" V 9596 2682 50  0000 R CNN
 F 1 "D_Small" V 9505 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9550 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9550 2750 50  0001 C CNN
 F 3 "~" V 9550 2750 50  0001 C CNN
 	1    9550 2750
 	0    -1   -1   0   
@@ -311,7 +311,7 @@ U 1 1 5E0609EE
 P 10050 2750
 F 0 "D44" V 10096 2682 50  0000 R CNN
 F 1 "D_Small" V 10005 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10050 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10050 2750 50  0001 C CNN
 F 3 "~" V 10050 2750 50  0001 C CNN
 	1    10050 2750
 	0    -1   -1   0   
@@ -337,7 +337,7 @@ U 1 1 5E0533B2
 P 7550 4150
 F 0 "D68" V 7596 4082 50  0000 R CNN
 F 1 "D_Small" V 7505 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7550 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7550 4150 50  0001 C CNN
 F 3 "~" V 7550 4150 50  0001 C CNN
 	1    7550 4150
 	0    -1   -1   0   
@@ -361,7 +361,7 @@ U 1 1 5E0533A5
 P 8050 4150
 F 0 "D69" V 8096 4082 50  0000 R CNN
 F 1 "D_Small" V 8005 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8050 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8050 4150 50  0001 C CNN
 F 3 "~" V 8050 4150 50  0001 C CNN
 	1    8050 4150
 	0    -1   -1   0   
@@ -385,7 +385,7 @@ U 1 1 5E053398
 P 8550 3450
 F 0 "D56" V 8596 3382 50  0000 R CNN
 F 1 "D_Small" V 8505 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8550 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8550 3450 50  0001 C CNN
 F 3 "~" V 8550 3450 50  0001 C CNN
 	1    8550 3450
 	0    -1   -1   0   
@@ -409,7 +409,7 @@ U 1 1 5E05338B
 P 9050 3450
 F 0 "D57" V 9096 3382 50  0000 R CNN
 F 1 "D_Small" V 9005 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9050 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9050 3450 50  0001 C CNN
 F 3 "~" V 9050 3450 50  0001 C CNN
 	1    9050 3450
 	0    -1   -1   0   
@@ -433,7 +433,7 @@ U 1 1 5E05337E
 P 9050 2750
 F 0 "D42" V 9096 2682 50  0000 R CNN
 F 1 "D_Small" V 9005 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9050 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9050 2750 50  0001 C CNN
 F 3 "~" V 9050 2750 50  0001 C CNN
 	1    9050 2750
 	0    -1   -1   0   
@@ -457,7 +457,7 @@ U 1 1 5E053357
 P 8550 1350
 F 0 "D11" V 8596 1282 50  0000 R CNN
 F 1 "D_Small" V 8505 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8550 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8550 1350 50  0001 C CNN
 F 3 "~" V 8550 1350 50  0001 C CNN
 	1    8550 1350
 	0    -1   -1   0   
@@ -481,7 +481,7 @@ U 1 1 5E0457FE
 P 7050 4150
 F 0 "D67" V 7096 4082 50  0000 R CNN
 F 1 "D_Small" V 7005 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7050 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7050 4150 50  0001 C CNN
 F 3 "~" V 7050 4150 50  0001 C CNN
 	1    7050 4150
 	0    -1   -1   0   
@@ -505,7 +505,7 @@ U 1 1 5E0457F1
 P 7550 3450
 F 0 "D54" V 7596 3382 50  0000 R CNN
 F 1 "D_Small" V 7505 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7550 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7550 3450 50  0001 C CNN
 F 3 "~" V 7550 3450 50  0001 C CNN
 	1    7550 3450
 	0    -1   -1   0   
@@ -529,7 +529,7 @@ U 1 1 5E0457E4
 P 8050 3450
 F 0 "D55" V 8096 3382 50  0000 R CNN
 F 1 "D_Small" V 8005 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8050 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8050 3450 50  0001 C CNN
 F 3 "~" V 8050 3450 50  0001 C CNN
 	1    8050 3450
 	0    -1   -1   0   
@@ -553,7 +553,7 @@ U 1 1 5E0457D7
 P 8550 2750
 F 0 "D41" V 8596 2682 50  0000 R CNN
 F 1 "D_Small" V 8505 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8550 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8550 2750 50  0001 C CNN
 F 3 "~" V 8550 2750 50  0001 C CNN
 	1    8550 2750
 	0    -1   -1   0   
@@ -577,7 +577,7 @@ U 1 1 5E0457CA
 P 8050 2750
 F 0 "D40" V 8096 2682 50  0000 R CNN
 F 1 "D_Small" V 8005 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8050 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8050 2750 50  0001 C CNN
 F 3 "~" V 8050 2750 50  0001 C CNN
 	1    8050 2750
 	0    -1   -1   0   
@@ -601,7 +601,7 @@ U 1 1 5E0457A3
 P 8050 1350
 F 0 "D10" V 8096 1282 50  0000 R CNN
 F 1 "D_Small" V 8005 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8050 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8050 1350 50  0001 C CNN
 F 3 "~" V 8050 1350 50  0001 C CNN
 	1    8050 1350
 	0    -1   -1   0   
@@ -625,7 +625,7 @@ U 1 1 5E035E0B
 P 6550 4150
 F 0 "D66" V 6596 4082 50  0000 R CNN
 F 1 "D_Small" V 6505 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6550 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6550 4150 50  0001 C CNN
 F 3 "~" V 6550 4150 50  0001 C CNN
 	1    6550 4150
 	0    -1   -1   0   
@@ -649,7 +649,7 @@ U 1 1 5E035DFE
 P 6550 3450
 F 0 "D52" V 6596 3382 50  0000 R CNN
 F 1 "D_Small" V 6505 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6550 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6550 3450 50  0001 C CNN
 F 3 "~" V 6550 3450 50  0001 C CNN
 	1    6550 3450
 	0    -1   -1   0   
@@ -673,7 +673,7 @@ U 1 1 5E035DF1
 P 7050 3450
 F 0 "D53" V 7096 3382 50  0000 R CNN
 F 1 "D_Small" V 7005 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7050 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7050 3450 50  0001 C CNN
 F 3 "~" V 7050 3450 50  0001 C CNN
 	1    7050 3450
 	0    -1   -1   0   
@@ -697,7 +697,7 @@ U 1 1 5E035DE4
 P 7550 2750
 F 0 "D39" V 7596 2682 50  0000 R CNN
 F 1 "D_Small" V 7505 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7550 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7550 2750 50  0001 C CNN
 F 3 "~" V 7550 2750 50  0001 C CNN
 	1    7550 2750
 	0    -1   -1   0   
@@ -721,7 +721,7 @@ U 1 1 5E035DD7
 P 7050 2750
 F 0 "D38" V 7096 2682 50  0000 R CNN
 F 1 "D_Small" V 7005 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7050 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7050 2750 50  0001 C CNN
 F 3 "~" V 7050 2750 50  0001 C CNN
 	1    7050 2750
 	0    -1   -1   0   
@@ -745,7 +745,7 @@ U 1 1 5E035DCA
 P 7050 2050
 F 0 "D23" V 7096 1982 50  0000 R CNN
 F 1 "D_Small" V 7005 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7050 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7050 2050 50  0001 C CNN
 F 3 "~" V 7050 2050 50  0001 C CNN
 	1    7050 2050
 	0    -1   -1   0   
@@ -769,7 +769,7 @@ U 1 1 5E035DBD
 P 7550 2050
 F 0 "D24" V 7596 1982 50  0000 R CNN
 F 1 "D_Small" V 7505 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7550 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7550 2050 50  0001 C CNN
 F 3 "~" V 7550 2050 50  0001 C CNN
 	1    7550 2050
 	0    -1   -1   0   
@@ -793,7 +793,7 @@ U 1 1 5E00EA7B
 P 6050 4850
 F 0 "D77" V 6096 4782 50  0000 R CNN
 F 1 "D_Small" V 6005 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6050 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 4850 50  0001 C CNN
 F 3 "~" V 6050 4850 50  0001 C CNN
 	1    6050 4850
 	0    -1   -1   0   
@@ -817,7 +817,7 @@ U 1 1 5E00EA6E
 P 6050 4150
 F 0 "D65" V 6096 4082 50  0000 R CNN
 F 1 "D_Small" V 6005 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6050 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 4150 50  0001 C CNN
 F 3 "~" V 6050 4150 50  0001 C CNN
 	1    6050 4150
 	0    -1   -1   0   
@@ -841,7 +841,7 @@ U 1 1 5E00EA61
 P 6050 3450
 F 0 "D51" V 6096 3382 50  0000 R CNN
 F 1 "D_Small" V 6005 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6050 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 3450 50  0001 C CNN
 F 3 "~" V 6050 3450 50  0001 C CNN
 	1    6050 3450
 	0    -1   -1   0   
@@ -854,7 +854,7 @@ U 1 1 5E00EA54
 P 6050 2750
 F 0 "D36" V 6096 2682 50  0000 R CNN
 F 1 "D_Small" V 6005 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6050 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 2750 50  0001 C CNN
 F 3 "~" V 6050 2750 50  0001 C CNN
 	1    6050 2750
 	0    -1   -1   0   
@@ -878,7 +878,7 @@ U 1 1 5E00EA47
 P 6550 2750
 F 0 "D37" V 6596 2682 50  0000 R CNN
 F 1 "D_Small" V 6505 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6550 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6550 2750 50  0001 C CNN
 F 3 "~" V 6550 2750 50  0001 C CNN
 	1    6550 2750
 	0    -1   -1   0   
@@ -902,7 +902,7 @@ U 1 1 5E00EA3A
 P 6550 2050
 F 0 "D22" V 6596 1982 50  0000 R CNN
 F 1 "D_Small" V 6505 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6550 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6550 2050 50  0001 C CNN
 F 3 "~" V 6550 2050 50  0001 C CNN
 	1    6550 2050
 	0    -1   -1   0   
@@ -926,7 +926,7 @@ U 1 1 5E00EA2D
 P 6050 2050
 F 0 "D21" V 6096 1982 50  0000 R CNN
 F 1 "D_Small" V 6005 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6050 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 2050 50  0001 C CNN
 F 3 "~" V 6050 2050 50  0001 C CNN
 	1    6050 2050
 	0    -1   -1   0   
@@ -950,7 +950,7 @@ U 1 1 5DFFE075
 P 5550 4150
 F 0 "D64" V 5596 4082 50  0000 R CNN
 F 1 "D_Small" V 5505 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5550 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5550 4150 50  0001 C CNN
 F 3 "~" V 5550 4150 50  0001 C CNN
 	1    5550 4150
 	0    -1   -1   0   
@@ -974,7 +974,7 @@ U 1 1 5DFFE068
 P 5050 4150
 F 0 "D63" V 5096 4082 50  0000 R CNN
 F 1 "D_Small" V 5005 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5050 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5050 4150 50  0001 C CNN
 F 3 "~" V 5050 4150 50  0001 C CNN
 	1    5050 4150
 	0    -1   -1   0   
@@ -998,7 +998,7 @@ U 1 1 5DFFE05B
 P 5050 3450
 F 0 "D49" V 5096 3382 50  0000 R CNN
 F 1 "D_Small" V 5005 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5050 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5050 3450 50  0001 C CNN
 F 3 "~" V 5050 3450 50  0001 C CNN
 	1    5050 3450
 	0    -1   -1   0   
@@ -1022,7 +1022,7 @@ U 1 1 5DFFE04E
 P 5550 3450
 F 0 "D50" V 5596 3382 50  0000 R CNN
 F 1 "D_Small" V 5505 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5550 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5550 3450 50  0001 C CNN
 F 3 "~" V 5550 3450 50  0001 C CNN
 	1    5550 3450
 	0    -1   -1   0   
@@ -1046,7 +1046,7 @@ U 1 1 5DFFE041
 P 5550 2750
 F 0 "D35" V 5596 2682 50  0000 R CNN
 F 1 "D_Small" V 5505 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5550 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5550 2750 50  0001 C CNN
 F 3 "~" V 5550 2750 50  0001 C CNN
 	1    5550 2750
 	0    -1   -1   0   
@@ -1070,7 +1070,7 @@ U 1 1 5DFFE034
 P 5050 2750
 F 0 "D34" V 5096 2682 50  0000 R CNN
 F 1 "D_Small" V 5005 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5050 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5050 2750 50  0001 C CNN
 F 3 "~" V 5050 2750 50  0001 C CNN
 	1    5050 2750
 	0    -1   -1   0   
@@ -1094,7 +1094,7 @@ U 1 1 5DFFE027
 P 5050 2050
 F 0 "D19" V 5096 1982 50  0000 R CNN
 F 1 "D_Small" V 5005 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5050 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5050 2050 50  0001 C CNN
 F 3 "~" V 5050 2050 50  0001 C CNN
 	1    5050 2050
 	0    -1   -1   0   
@@ -1107,7 +1107,7 @@ U 1 1 5DFD0215
 P 4550 4150
 F 0 "D62" V 4596 4082 50  0000 R CNN
 F 1 "D_Small" V 4505 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4550 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4550 4150 50  0001 C CNN
 F 3 "~" V 4550 4150 50  0001 C CNN
 	1    4550 4150
 	0    -1   -1   0   
@@ -1131,7 +1131,7 @@ U 1 1 5DFCF386
 P 4050 4150
 F 0 "D61" V 4096 4082 50  0000 R CNN
 F 1 "D_Small" V 4005 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4050 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4050 4150 50  0001 C CNN
 F 3 "~" V 4050 4150 50  0001 C CNN
 	1    4050 4150
 	0    -1   -1   0   
@@ -1155,7 +1155,7 @@ U 1 1 5DFCE33D
 P 4050 3450
 F 0 "D47" V 4096 3382 50  0000 R CNN
 F 1 "D_Small" V 4005 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4050 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4050 3450 50  0001 C CNN
 F 3 "~" V 4050 3450 50  0001 C CNN
 	1    4050 3450
 	0    -1   -1   0   
@@ -1179,7 +1179,7 @@ U 1 1 5DFCD65C
 P 4550 3450
 F 0 "D48" V 4596 3382 50  0000 R CNN
 F 1 "D_Small" V 4505 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4550 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4550 3450 50  0001 C CNN
 F 3 "~" V 4550 3450 50  0001 C CNN
 	1    4550 3450
 	0    -1   -1   0   
@@ -1203,7 +1203,7 @@ U 1 1 5DFCC7B4
 P 4550 2750
 F 0 "D33" V 4596 2682 50  0000 R CNN
 F 1 "D_Small" V 4505 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4550 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4550 2750 50  0001 C CNN
 F 3 "~" V 4550 2750 50  0001 C CNN
 	1    4550 2750
 	0    -1   -1   0   
@@ -1227,7 +1227,7 @@ U 1 1 5DFCB834
 P 4050 2750
 F 0 "D32" V 4096 2682 50  0000 R CNN
 F 1 "D_Small" V 4005 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4050 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4050 2750 50  0001 C CNN
 F 3 "~" V 4050 2750 50  0001 C CNN
 	1    4050 2750
 	0    -1   -1   0   
@@ -1251,7 +1251,7 @@ U 1 1 5DFCA11E
 P 4050 2050
 F 0 "D17" V 4096 1982 50  0000 R CNN
 F 1 "D_Small" V 4005 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4050 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4050 2050 50  0001 C CNN
 F 3 "~" V 4050 2050 50  0001 C CNN
 	1    4050 2050
 	0    -1   -1   0   
@@ -1264,7 +1264,7 @@ U 1 1 5DFA6931
 P 4550 4850
 F 0 "D76" V 4596 4782 50  0000 R CNN
 F 1 "D_Small" V 4505 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4550 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4550 4850 50  0001 C CNN
 F 3 "~" V 4550 4850 50  0001 C CNN
 	1    4550 4850
 	0    -1   -1   0   
@@ -1297,7 +1297,7 @@ U 1 1 5DFA5C56
 P 4050 4850
 F 0 "D75" V 4096 4782 50  0000 R CNN
 F 1 "D_Small" V 4005 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4050 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4050 4850 50  0001 C CNN
 F 3 "~" V 4050 4850 50  0001 C CNN
 	1    4050 4850
 	0    -1   -1   0   
@@ -1321,7 +1321,7 @@ U 1 1 5DFA42CF
 P 3550 4850
 F 0 "D74" V 3596 4782 50  0000 R CNN
 F 1 "D_Small" V 3505 4782 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 3550 4850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 3550 4850 50  0001 C CNN
 F 3 "~" V 3550 4850 50  0001 C CNN
 	1    3550 4850
 	0    -1   -1   0   
@@ -1345,7 +1345,7 @@ U 1 1 5DFA34CF
 P 3550 4150
 F 0 "D60" V 3596 4082 50  0000 R CNN
 F 1 "D_Small" V 3505 4082 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 3550 4150 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 3550 4150 50  0001 C CNN
 F 3 "~" V 3550 4150 50  0001 C CNN
 	1    3550 4150
 	0    -1   -1   0   
@@ -1358,7 +1358,7 @@ U 1 1 5DFA23B2
 P 3550 3450
 F 0 "D46" V 3596 3382 50  0000 R CNN
 F 1 "D_Small" V 3505 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 3550 3450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 3550 3450 50  0001 C CNN
 F 3 "~" V 3550 3450 50  0001 C CNN
 	1    3550 3450
 	0    -1   -1   0   
@@ -1371,7 +1371,7 @@ U 1 1 5E04F79B
 P 3550 2050
 F 0 "D16" V 3596 1982 50  0000 R CNN
 F 1 "D_Small" V 3505 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 3550 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 3550 2050 50  0001 C CNN
 F 3 "~" V 3550 2050 50  0001 C CNN
 	1    3550 2050
 	0    -1   -1   0   
@@ -1395,7 +1395,7 @@ U 1 1 5E05C746
 P 3550 2750
 F 0 "D31" V 3596 2682 50  0000 R CNN
 F 1 "D_Small" V 3505 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 3550 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 3550 2750 50  0001 C CNN
 F 3 "~" V 3550 2750 50  0001 C CNN
 	1    3550 2750
 	0    -1   -1   0   
@@ -1423,7 +1423,7 @@ U 1 1 5E0609D4
 P 10050 1350
 F 0 "D14" V 10096 1282 50  0000 R CNN
 F 1 "D_Small" V 10005 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10050 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10050 1350 50  0001 C CNN
 F 3 "~" V 10050 1350 50  0001 C CNN
 	1    10050 1350
 	0    -1   -1   0   
@@ -1456,7 +1456,7 @@ U 1 1 5DFC7643
 P 4550 1350
 F 0 "D3" V 4596 1282 50  0000 R CNN
 F 1 "D_Small" V 4505 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4550 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4550 1350 50  0001 C CNN
 F 3 "~" V 4550 1350 50  0001 C CNN
 	1    4550 1350
 	0    -1   -1   0   
@@ -1467,7 +1467,7 @@ U 1 1 5E04D84E
 P 3550 1350
 F 0 "D1" V 3596 1282 50  0000 R CNN
 F 1 "D_Small" V 3505 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 3550 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 3550 1350 50  0001 C CNN
 F 3 "~" V 3550 1350 50  0001 C CNN
 	1    3550 1350
 	0    -1   -1   0   
@@ -1489,7 +1489,7 @@ U 1 1 5E049BC6
 P 4050 1350
 F 0 "D2" V 4096 1282 50  0000 R CNN
 F 1 "D_Small" V 4005 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4050 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4050 1350 50  0001 C CNN
 F 3 "~" V 4050 1350 50  0001 C CNN
 	1    4050 1350
 	0    -1   -1   0   
@@ -1610,7 +1610,7 @@ U 1 1 5DFFE00D
 P 5550 1350
 F 0 "D5" V 5596 1282 50  0000 R CNN
 F 1 "D_Small" V 5505 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5550 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5550 1350 50  0001 C CNN
 F 3 "~" V 5550 1350 50  0001 C CNN
 	1    5550 1350
 	0    -1   -1   0   
@@ -1643,7 +1643,7 @@ U 1 1 5E00EA13
 P 6050 1350
 F 0 "D6" V 6096 1282 50  0000 R CNN
 F 1 "D_Small" V 6005 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6050 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 1350 50  0001 C CNN
 F 3 "~" V 6050 1350 50  0001 C CNN
 	1    6050 1350
 	0    -1   -1   0   
@@ -1654,7 +1654,7 @@ U 1 1 5E035DA3
 P 6550 1350
 F 0 "D7" V 6596 1282 50  0000 R CNN
 F 1 "D_Small" V 6505 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 6550 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6550 1350 50  0001 C CNN
 F 3 "~" V 6550 1350 50  0001 C CNN
 	1    6550 1350
 	0    -1   -1   0   
@@ -1676,7 +1676,7 @@ U 1 1 5E045796
 P 7550 1350
 F 0 "D9" V 7596 1282 50  0000 R CNN
 F 1 "D_Small" V 7505 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7550 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7550 1350 50  0001 C CNN
 F 3 "~" V 7550 1350 50  0001 C CNN
 	1    7550 1350
 	0    -1   -1   0   
@@ -1698,7 +1698,7 @@ U 1 1 5E05334A
 P 9050 1350
 F 0 "D12" V 9096 1282 50  0000 R CNN
 F 1 "D_Small" V 9005 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9050 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9050 1350 50  0001 C CNN
 F 3 "~" V 9050 1350 50  0001 C CNN
 	1    9050 1350
 	0    -1   -1   0   
@@ -1720,7 +1720,7 @@ U 1 1 5E0609C7
 P 9550 1350
 F 0 "D13" V 9596 1282 50  0000 R CNN
 F 1 "D_Small" V 9505 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9550 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9550 1350 50  0001 C CNN
 F 3 "~" V 9550 1350 50  0001 C CNN
 	1    9550 1350
 	0    -1   -1   0   
@@ -1733,7 +1733,7 @@ U 1 1 5DFC8E88
 P 4550 2050
 F 0 "D18" V 4596 1982 50  0000 R CNN
 F 1 "D_Small" V 4505 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 4550 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 4550 2050 50  0001 C CNN
 F 3 "~" V 4550 2050 50  0001 C CNN
 	1    4550 2050
 	0    -1   -1   0   
@@ -1759,7 +1759,7 @@ U 1 1 5DFFE01A
 P 5050 1350
 F 0 "D4" V 5096 1282 50  0000 R CNN
 F 1 "D_Small" V 5005 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5050 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5050 1350 50  0001 C CNN
 F 3 "~" V 5050 1350 50  0001 C CNN
 	1    5050 1350
 	0    -1   -1   0   
@@ -1785,7 +1785,7 @@ U 1 1 5E00EA20
 P 5550 2050
 F 0 "D20" V 5596 1982 50  0000 R CNN
 F 1 "D_Small" V 5505 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 5550 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5550 2050 50  0001 C CNN
 F 3 "~" V 5550 2050 50  0001 C CNN
 	1    5550 2050
 	0    -1   -1   0   
@@ -1811,7 +1811,7 @@ U 1 1 5E035DB0
 P 7050 1350
 F 0 "D8" V 7096 1282 50  0000 R CNN
 F 1 "D_Small" V 7005 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 7050 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7050 1350 50  0001 C CNN
 F 3 "~" V 7050 1350 50  0001 C CNN
 	1    7050 1350
 	0    -1   -1   0   
@@ -1841,7 +1841,7 @@ U 1 1 5E06CCEC
 P 10550 2750
 F 0 "D45" V 10596 2682 50  0000 R CNN
 F 1 "D_Small" V 10505 2682 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10550 2750 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10550 2750 50  0001 C CNN
 F 3 "~" V 10550 2750 50  0001 C CNN
 	1    10550 2750
 	0    -1   -1   0   
@@ -1865,7 +1865,7 @@ U 1 1 5E07CC3D
 P 10550 1350
 F 0 "D15" V 10596 1282 50  0000 R CNN
 F 1 "D_Small" V 10505 1282 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10550 1350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10550 1350 50  0001 C CNN
 F 3 "~" V 10550 1350 50  0001 C CNN
 	1    10550 1350
 	0    -1   -1   0   
@@ -1889,7 +1889,7 @@ U 1 1 5E0457B0
 P 8550 2050
 F 0 "D26" V 8596 1982 50  0000 R CNN
 F 1 "D_Small" V 8505 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8550 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8550 2050 50  0001 C CNN
 F 3 "~" V 8550 2050 50  0001 C CNN
 	1    8550 2050
 	0    -1   -1   0   
@@ -1913,7 +1913,7 @@ U 1 1 5E0457BD
 P 8050 2050
 F 0 "D25" V 8096 1982 50  0000 R CNN
 F 1 "D_Small" V 8005 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 8050 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8050 2050 50  0001 C CNN
 F 3 "~" V 8050 2050 50  0001 C CNN
 	1    8050 2050
 	0    -1   -1   0   
@@ -1937,7 +1937,7 @@ U 1 1 5E053364
 P 9050 2050
 F 0 "D27" V 9096 1982 50  0000 R CNN
 F 1 "D_Small" V 9005 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9050 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9050 2050 50  0001 C CNN
 F 3 "~" V 9050 2050 50  0001 C CNN
 	1    9050 2050
 	0    -1   -1   0   
@@ -1961,7 +1961,7 @@ U 1 1 5E053371
 P 9550 2050
 F 0 "D28" V 9596 1982 50  0000 R CNN
 F 1 "D_Small" V 9505 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 9550 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 9550 2050 50  0001 C CNN
 F 3 "~" V 9550 2050 50  0001 C CNN
 	1    9550 2050
 	0    -1   -1   0   
@@ -1985,7 +1985,7 @@ U 1 1 5E0609E1
 P 10050 2050
 F 0 "D29" V 10096 1982 50  0000 R CNN
 F 1 "D_Small" V 10005 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10050 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10050 2050 50  0001 C CNN
 F 3 "~" V 10050 2050 50  0001 C CNN
 	1    10050 2050
 	0    -1   -1   0   
@@ -2009,7 +2009,7 @@ U 1 1 5E07CC4A
 P 10550 2050
 F 0 "D30" V 10596 1982 50  0000 R CNN
 F 1 "D_Small" V 10505 1982 50  0000 R CNN
-F 2 "bear_face_parts:Diode-THT" V 10550 2050 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 10550 2050 50  0001 C CNN
 F 3 "~" V 10550 2050 50  0001 C CNN
 	1    10550 2050
 	0    -1   -1   0   
@@ -2072,9 +2072,9 @@ F 3 "" H 3075 1775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 1500 2500 2    50   Input ~ 0
-D-
+DA-
 Text GLabel 1500 2400 2    50   Input ~ 0
-D+
+DA+
 $Comp
 L Device:Polyfuse_Small F1
 U 1 1 5E21E2B0
@@ -2624,8 +2624,6 @@ F 3 "" H 2300 3350 50  0001 C CNN
 	1    2300 3350
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2300 3350 2300 3500
 $Comp
 L power:GND #PWR015
 U 1 1 5E26A195
@@ -2654,7 +2652,7 @@ U 1 1 5E2BAE37
 P 1200 4800
 F 0 "R85" V 1004 4800 50  0000 C CNN
 F 1 "22" V 1095 4800 50  0000 C CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 1200 4800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1200 4800 50  0001 C CNN
 F 3 "~" H 1200 4800 50  0001 C CNN
 	1    1200 4800
 	0    1    1    0   
@@ -2665,7 +2663,7 @@ U 1 1 5E2BDE9E
 P 900 4900
 F 0 "R86" V 704 4900 50  0000 C CNN
 F 1 "22" V 795 4900 50  0000 C CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 900 4900 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 900 4900 50  0001 C CNN
 F 3 "~" H 900 4900 50  0001 C CNN
 	1    900  4900
 	0    1    1    0   
@@ -2680,7 +2678,7 @@ U 1 1 5E366EAB
 P 1450 5200
 F 0 "C3" H 1542 5246 50  0000 L CNN
 F 1 "1uF" H 1542 5155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1450 5200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1450 5200 50  0001 C CNN
 F 3 "~" H 1450 5200 50  0001 C CNN
 	1    1450 5200
 	1    0    0    -1  
@@ -2706,7 +2704,7 @@ U 1 1 5E3B5664
 P 3600 7200
 F 0 "C4" H 3692 7246 50  0000 L CNN
 F 1 "0.1uF" H 3692 7155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 3600 7200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3600 7200 50  0001 C CNN
 F 3 "~" H 3600 7200 50  0001 C CNN
 	1    3600 7200
 	1    0    0    -1  
@@ -2717,7 +2715,7 @@ U 1 1 5E3B6325
 P 4000 7200
 F 0 "C5" H 4092 7246 50  0000 L CNN
 F 1 "0.1uF" H 4092 7155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 4000 7200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4000 7200 50  0001 C CNN
 F 3 "~" H 4000 7200 50  0001 C CNN
 	1    4000 7200
 	1    0    0    -1  
@@ -2728,7 +2726,7 @@ U 1 1 5E3CE370
 P 4400 7200
 F 0 "C6" H 4492 7246 50  0000 L CNN
 F 1 "0.1uF" H 4492 7155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 4400 7200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4400 7200 50  0001 C CNN
 F 3 "~" H 4400 7200 50  0001 C CNN
 	1    4400 7200
 	1    0    0    -1  
@@ -2739,7 +2737,7 @@ U 1 1 5E3E66EA
 P 4800 7200
 F 0 "C7" H 4892 7246 50  0000 L CNN
 F 1 "10uF" H 4892 7155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 4800 7200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4800 7200 50  0001 C CNN
 F 3 "~" H 4800 7200 50  0001 C CNN
 	1    4800 7200
 	1    0    0    -1  
@@ -2820,7 +2818,7 @@ U 1 1 5E54B035
 P 850 3900
 F 0 "C1" V 621 3900 50  0000 C CNN
 F 1 "22pF" V 712 3900 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 850 3900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 850 3900 50  0001 C CNN
 F 3 "~" H 850 3900 50  0001 C CNN
 	1    850  3900
 	0    1    1    0   
@@ -2831,7 +2829,7 @@ U 1 1 5E54C183
 P 850 4300
 F 0 "C2" V 621 4300 50  0000 C CNN
 F 1 "22pF" V 712 4300 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 850 4300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 850 4300 50  0001 C CNN
 F 3 "~" H 850 4300 50  0001 C CNN
 	1    850  4300
 	0    1    1    0   
@@ -2875,7 +2873,7 @@ U 1 1 5E729BAE
 P 1700 3450
 F 0 "R84" H 1759 3496 50  0000 L CNN
 F 1 "10k" H 1759 3405 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 1700 3450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1700 3450 50  0001 C CNN
 F 3 "~" H 1700 3450 50  0001 C CNN
 	1    1700 3450
 	1    0    0    -1  
@@ -2899,16 +2897,16 @@ $EndComp
 Wire Wire Line
 	1700 3250 1700 3350
 Text GLabel 700  4800 0    50   Input ~ 0
-D+
+DA+
 Text GLabel 700  4900 0    50   Input ~ 0
-D-
+DA-
 $Comp
 L Device:R_Small R87
 U 1 1 5E285AAF
 P 3450 5900
 F 0 "R87" V 3254 5900 50  0000 C CNN
 F 1 "10k" V 3345 5900 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 3450 5900 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3450 5900 50  0001 C CNN
 F 3 "~" H 3450 5900 50  0001 C CNN
 	1    3450 5900
 	0    1    1    0   
@@ -2961,38 +2959,14 @@ Text GLabel 3000 5700 2    50   Input ~ 0
 COL13
 Text GLabel 3000 4200 2    50   Input ~ 0
 COL14
-Connection ~ 2300 7100
-Wire Wire Line
-	2300 7100 2400 7100
-Wire Wire Line
-	2000 7100 2300 7100
-Connection ~ 2300 3500
-Connection ~ 2400 3500
-Wire Wire Line
-	2400 3500 2300 3500
-Wire Wire Line
-	2500 3500 2400 3500
 Text GLabel 3000 4000 2    50   Input ~ 0
 COL4
 Text GLabel 3000 5000 2    50   Input ~ 0
 COL6
-$Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U1
-U 1 1 5E20D2CA
-P 2400 5300
-F 0 "U1" H 2400 3411 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 2400 3320 50  0000 C CNN
-F 2 "Keebio-Parts:ATMEGA32U4-AU" H 2400 5300 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2400 5300 50  0001 C CNN
-	1    2400 5300
-	1    0    0    -1  
-$EndComp
 Text GLabel 3000 6300 2    50   Input ~ 0
 ROW4
 Text GLabel 1350 4800 1    50   Input ~ 0
-RD+
-Text GLabel 1050 4900 3    50   Input ~ 0
-RD-
+DB+
 Wire Wire Line
 	1700 4600 1800 4600
 Text GLabel 3000 6500 2    50   Input ~ 0
@@ -3009,7 +2983,6 @@ NoConn ~ 3000 4400
 NoConn ~ 3000 4700
 NoConn ~ 3000 4800
 NoConn ~ 1500 2600
-NoConn ~ 1100 2800
 Text GLabel 3000 4300 2    50   Input ~ 0
 LEDPIN
 Text GLabel 3350 1100 1    50   Input ~ 0
@@ -3031,7 +3004,7 @@ U 1 1 5E3B5F0C
 P 3700 1300
 F 0 "R1" H 3759 1346 50  0000 L CNN
 F 1 "470" H 3759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 3700 1300 50  0001 C CNN
 F 3 "~" H 3700 1300 50  0001 C CNN
 	1    3700 1300
 	1    0    0    -1  
@@ -3042,7 +3015,7 @@ U 1 1 5E3B5F12
 P 4700 1300
 F 0 "R3" H 4759 1346 50  0000 L CNN
 F 1 "470" H 4759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4700 1300 50  0001 C CNN
 F 3 "~" H 4700 1300 50  0001 C CNN
 	1    4700 1300
 	1    0    0    -1  
@@ -3053,7 +3026,7 @@ U 1 1 5E3B5F18
 P 4200 1300
 F 0 "R2" H 4259 1346 50  0000 L CNN
 F 1 "470" H 4259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4200 1300 50  0001 C CNN
 F 3 "~" H 4200 1300 50  0001 C CNN
 	1    4200 1300
 	1    0    0    -1  
@@ -3064,7 +3037,7 @@ U 1 1 5E3B5F1E
 P 5200 1300
 F 0 "R4" H 5259 1346 50  0000 L CNN
 F 1 "470" H 5259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5200 1300 50  0001 C CNN
 F 3 "~" H 5200 1300 50  0001 C CNN
 	1    5200 1300
 	1    0    0    -1  
@@ -3075,7 +3048,7 @@ U 1 1 5E3B5F24
 P 6200 1300
 F 0 "R6" H 6259 1346 50  0000 L CNN
 F 1 "470" H 6259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6200 1300 50  0001 C CNN
 F 3 "~" H 6200 1300 50  0001 C CNN
 	1    6200 1300
 	1    0    0    -1  
@@ -3086,7 +3059,7 @@ U 1 1 5E3B5F2A
 P 5700 1300
 F 0 "R5" H 5759 1346 50  0000 L CNN
 F 1 "470" H 5759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5700 1300 50  0001 C CNN
 F 3 "~" H 5700 1300 50  0001 C CNN
 	1    5700 1300
 	1    0    0    -1  
@@ -3097,7 +3070,7 @@ U 1 1 5E3B5F30
 P 6700 1300
 F 0 "R7" H 6759 1346 50  0000 L CNN
 F 1 "470" H 6759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6700 1300 50  0001 C CNN
 F 3 "~" H 6700 1300 50  0001 C CNN
 	1    6700 1300
 	1    0    0    -1  
@@ -3108,7 +3081,7 @@ U 1 1 5E3B5F36
 P 7700 1300
 F 0 "R9" H 7759 1346 50  0000 L CNN
 F 1 "470" H 7759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7700 1300 50  0001 C CNN
 F 3 "~" H 7700 1300 50  0001 C CNN
 	1    7700 1300
 	1    0    0    -1  
@@ -3119,7 +3092,7 @@ U 1 1 5E3B5F3C
 P 7200 1300
 F 0 "R8" H 7259 1346 50  0000 L CNN
 F 1 "470" H 7259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7200 1300 50  0001 C CNN
 F 3 "~" H 7200 1300 50  0001 C CNN
 	1    7200 1300
 	1    0    0    -1  
@@ -3130,7 +3103,7 @@ U 1 1 5E3B5F42
 P 8200 1300
 F 0 "R10" H 8259 1346 50  0000 L CNN
 F 1 "470" H 8259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8200 1300 50  0001 C CNN
 F 3 "~" H 8200 1300 50  0001 C CNN
 	1    8200 1300
 	1    0    0    -1  
@@ -3141,7 +3114,7 @@ U 1 1 5E3B5F48
 P 9200 1300
 F 0 "R12" H 9259 1346 50  0000 L CNN
 F 1 "470" H 9259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9200 1300 50  0001 C CNN
 F 3 "~" H 9200 1300 50  0001 C CNN
 	1    9200 1300
 	1    0    0    -1  
@@ -3152,7 +3125,7 @@ U 1 1 5E3B5F4E
 P 8700 1300
 F 0 "R11" H 8759 1346 50  0000 L CNN
 F 1 "470" H 8759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8700 1300 50  0001 C CNN
 F 3 "~" H 8700 1300 50  0001 C CNN
 	1    8700 1300
 	1    0    0    -1  
@@ -3163,7 +3136,7 @@ U 1 1 5E3B5F54
 P 9700 1300
 F 0 "R13" H 9759 1346 50  0000 L CNN
 F 1 "470" H 9759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9700 1300 50  0001 C CNN
 F 3 "~" H 9700 1300 50  0001 C CNN
 	1    9700 1300
 	1    0    0    -1  
@@ -3174,7 +3147,7 @@ U 1 1 5E3B5F5A
 P 10700 1300
 F 0 "R15" H 10759 1346 50  0000 L CNN
 F 1 "470" H 10759 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10700 1300 50  0001 C CNN
 F 3 "~" H 10700 1300 50  0001 C CNN
 	1    10700 1300
 	1    0    0    -1  
@@ -3185,7 +3158,7 @@ U 1 1 5E3B5F60
 P 10200 1300
 F 0 "R14" H 10259 1346 50  0000 L CNN
 F 1 "470" H 10259 1255 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 1300 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10200 1300 50  0001 C CNN
 F 3 "~" H 10200 1300 50  0001 C CNN
 	1    10200 1300
 	1    0    0    -1  
@@ -3196,7 +3169,7 @@ U 1 1 5E3DFE1A
 P 3700 2000
 F 0 "R16" H 3759 2046 50  0000 L CNN
 F 1 "470" H 3759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 3700 2000 50  0001 C CNN
 F 3 "~" H 3700 2000 50  0001 C CNN
 	1    3700 2000
 	1    0    0    -1  
@@ -3207,7 +3180,7 @@ U 1 1 5E3DFE20
 P 4700 2000
 F 0 "R18" H 4759 2046 50  0000 L CNN
 F 1 "470" H 4759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4700 2000 50  0001 C CNN
 F 3 "~" H 4700 2000 50  0001 C CNN
 	1    4700 2000
 	1    0    0    -1  
@@ -3218,7 +3191,7 @@ U 1 1 5E3DFE26
 P 4200 2000
 F 0 "R17" H 4259 2046 50  0000 L CNN
 F 1 "470" H 4259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4200 2000 50  0001 C CNN
 F 3 "~" H 4200 2000 50  0001 C CNN
 	1    4200 2000
 	1    0    0    -1  
@@ -3229,7 +3202,7 @@ U 1 1 5E3DFE2C
 P 5200 2000
 F 0 "R19" H 5259 2046 50  0000 L CNN
 F 1 "470" H 5259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5200 2000 50  0001 C CNN
 F 3 "~" H 5200 2000 50  0001 C CNN
 	1    5200 2000
 	1    0    0    -1  
@@ -3240,7 +3213,7 @@ U 1 1 5E3DFE32
 P 6200 2000
 F 0 "R21" H 6259 2046 50  0000 L CNN
 F 1 "470" H 6259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6200 2000 50  0001 C CNN
 F 3 "~" H 6200 2000 50  0001 C CNN
 	1    6200 2000
 	1    0    0    -1  
@@ -3251,7 +3224,7 @@ U 1 1 5E3DFE38
 P 5700 2000
 F 0 "R20" H 5759 2046 50  0000 L CNN
 F 1 "470" H 5759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5700 2000 50  0001 C CNN
 F 3 "~" H 5700 2000 50  0001 C CNN
 	1    5700 2000
 	1    0    0    -1  
@@ -3262,7 +3235,7 @@ U 1 1 5E3DFE3E
 P 6700 2000
 F 0 "R22" H 6759 2046 50  0000 L CNN
 F 1 "470" H 6759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6700 2000 50  0001 C CNN
 F 3 "~" H 6700 2000 50  0001 C CNN
 	1    6700 2000
 	1    0    0    -1  
@@ -3273,7 +3246,7 @@ U 1 1 5E3DFE44
 P 7700 2000
 F 0 "R24" H 7759 2046 50  0000 L CNN
 F 1 "470" H 7759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7700 2000 50  0001 C CNN
 F 3 "~" H 7700 2000 50  0001 C CNN
 	1    7700 2000
 	1    0    0    -1  
@@ -3284,7 +3257,7 @@ U 1 1 5E3DFE4A
 P 7200 2000
 F 0 "R23" H 7259 2046 50  0000 L CNN
 F 1 "470" H 7259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7200 2000 50  0001 C CNN
 F 3 "~" H 7200 2000 50  0001 C CNN
 	1    7200 2000
 	1    0    0    -1  
@@ -3295,7 +3268,7 @@ U 1 1 5E3DFE50
 P 8200 2000
 F 0 "R25" H 8259 2046 50  0000 L CNN
 F 1 "470" H 8259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8200 2000 50  0001 C CNN
 F 3 "~" H 8200 2000 50  0001 C CNN
 	1    8200 2000
 	1    0    0    -1  
@@ -3306,7 +3279,7 @@ U 1 1 5E3DFE56
 P 9200 2000
 F 0 "R27" H 9259 2046 50  0000 L CNN
 F 1 "470" H 9259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9200 2000 50  0001 C CNN
 F 3 "~" H 9200 2000 50  0001 C CNN
 	1    9200 2000
 	1    0    0    -1  
@@ -3317,7 +3290,7 @@ U 1 1 5E3DFE5C
 P 8700 2000
 F 0 "R26" H 8759 2046 50  0000 L CNN
 F 1 "470" H 8759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8700 2000 50  0001 C CNN
 F 3 "~" H 8700 2000 50  0001 C CNN
 	1    8700 2000
 	1    0    0    -1  
@@ -3328,7 +3301,7 @@ U 1 1 5E3DFE62
 P 9700 2000
 F 0 "R28" H 9759 2046 50  0000 L CNN
 F 1 "470" H 9759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9700 2000 50  0001 C CNN
 F 3 "~" H 9700 2000 50  0001 C CNN
 	1    9700 2000
 	1    0    0    -1  
@@ -3339,7 +3312,7 @@ U 1 1 5E3DFE68
 P 10700 2000
 F 0 "R30" H 10759 2046 50  0000 L CNN
 F 1 "470" H 10759 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10700 2000 50  0001 C CNN
 F 3 "~" H 10700 2000 50  0001 C CNN
 	1    10700 2000
 	1    0    0    -1  
@@ -3350,7 +3323,7 @@ U 1 1 5E3DFE6E
 P 10200 2000
 F 0 "R29" H 10259 2046 50  0000 L CNN
 F 1 "470" H 10259 1955 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 2000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10200 2000 50  0001 C CNN
 F 3 "~" H 10200 2000 50  0001 C CNN
 	1    10200 2000
 	1    0    0    -1  
@@ -3361,7 +3334,7 @@ U 1 1 5E408241
 P 3700 2700
 F 0 "R31" H 3759 2746 50  0000 L CNN
 F 1 "470" H 3759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 3700 2700 50  0001 C CNN
 F 3 "~" H 3700 2700 50  0001 C CNN
 	1    3700 2700
 	1    0    0    -1  
@@ -3372,7 +3345,7 @@ U 1 1 5E408247
 P 4700 2700
 F 0 "R33" H 4759 2746 50  0000 L CNN
 F 1 "470" H 4759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4700 2700 50  0001 C CNN
 F 3 "~" H 4700 2700 50  0001 C CNN
 	1    4700 2700
 	1    0    0    -1  
@@ -3383,7 +3356,7 @@ U 1 1 5E40824D
 P 4200 2700
 F 0 "R32" H 4259 2746 50  0000 L CNN
 F 1 "470" H 4259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4200 2700 50  0001 C CNN
 F 3 "~" H 4200 2700 50  0001 C CNN
 	1    4200 2700
 	1    0    0    -1  
@@ -3394,7 +3367,7 @@ U 1 1 5E408253
 P 5200 2700
 F 0 "R34" H 5259 2746 50  0000 L CNN
 F 1 "470" H 5259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5200 2700 50  0001 C CNN
 F 3 "~" H 5200 2700 50  0001 C CNN
 	1    5200 2700
 	1    0    0    -1  
@@ -3405,7 +3378,7 @@ U 1 1 5E408259
 P 6200 2700
 F 0 "R36" H 6259 2746 50  0000 L CNN
 F 1 "470" H 6259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6200 2700 50  0001 C CNN
 F 3 "~" H 6200 2700 50  0001 C CNN
 	1    6200 2700
 	1    0    0    -1  
@@ -3416,7 +3389,7 @@ U 1 1 5E40825F
 P 5700 2700
 F 0 "R35" H 5759 2746 50  0000 L CNN
 F 1 "470" H 5759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5700 2700 50  0001 C CNN
 F 3 "~" H 5700 2700 50  0001 C CNN
 	1    5700 2700
 	1    0    0    -1  
@@ -3427,7 +3400,7 @@ U 1 1 5E408265
 P 6700 2700
 F 0 "R37" H 6759 2746 50  0000 L CNN
 F 1 "470" H 6759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6700 2700 50  0001 C CNN
 F 3 "~" H 6700 2700 50  0001 C CNN
 	1    6700 2700
 	1    0    0    -1  
@@ -3438,7 +3411,7 @@ U 1 1 5E40826B
 P 7700 2700
 F 0 "R39" H 7759 2746 50  0000 L CNN
 F 1 "470" H 7759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7700 2700 50  0001 C CNN
 F 3 "~" H 7700 2700 50  0001 C CNN
 	1    7700 2700
 	1    0    0    -1  
@@ -3449,7 +3422,7 @@ U 1 1 5E408271
 P 7200 2700
 F 0 "R38" H 7259 2746 50  0000 L CNN
 F 1 "470" H 7259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7200 2700 50  0001 C CNN
 F 3 "~" H 7200 2700 50  0001 C CNN
 	1    7200 2700
 	1    0    0    -1  
@@ -3460,7 +3433,7 @@ U 1 1 5E408277
 P 8200 2700
 F 0 "R40" H 8259 2746 50  0000 L CNN
 F 1 "470" H 8259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8200 2700 50  0001 C CNN
 F 3 "~" H 8200 2700 50  0001 C CNN
 	1    8200 2700
 	1    0    0    -1  
@@ -3471,7 +3444,7 @@ U 1 1 5E40827D
 P 9200 2700
 F 0 "R42" H 9259 2746 50  0000 L CNN
 F 1 "470" H 9259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9200 2700 50  0001 C CNN
 F 3 "~" H 9200 2700 50  0001 C CNN
 	1    9200 2700
 	1    0    0    -1  
@@ -3482,7 +3455,7 @@ U 1 1 5E408283
 P 8700 2700
 F 0 "R41" H 8759 2746 50  0000 L CNN
 F 1 "470" H 8759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8700 2700 50  0001 C CNN
 F 3 "~" H 8700 2700 50  0001 C CNN
 	1    8700 2700
 	1    0    0    -1  
@@ -3493,7 +3466,7 @@ U 1 1 5E408289
 P 9700 2700
 F 0 "R43" H 9759 2746 50  0000 L CNN
 F 1 "470" H 9759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9700 2700 50  0001 C CNN
 F 3 "~" H 9700 2700 50  0001 C CNN
 	1    9700 2700
 	1    0    0    -1  
@@ -3504,7 +3477,7 @@ U 1 1 5E40828F
 P 10700 2700
 F 0 "R45" H 10759 2746 50  0000 L CNN
 F 1 "470" H 10759 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10700 2700 50  0001 C CNN
 F 3 "~" H 10700 2700 50  0001 C CNN
 	1    10700 2700
 	1    0    0    -1  
@@ -3515,7 +3488,7 @@ U 1 1 5E408295
 P 10200 2700
 F 0 "R44" H 10259 2746 50  0000 L CNN
 F 1 "470" H 10259 2655 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 2700 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10200 2700 50  0001 C CNN
 F 3 "~" H 10200 2700 50  0001 C CNN
 	1    10200 2700
 	1    0    0    -1  
@@ -3526,7 +3499,7 @@ U 1 1 5E428898
 P 3700 3400
 F 0 "R46" H 3759 3446 50  0000 L CNN
 F 1 "470" H 3759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 3700 3400 50  0001 C CNN
 F 3 "~" H 3700 3400 50  0001 C CNN
 	1    3700 3400
 	1    0    0    -1  
@@ -3537,7 +3510,7 @@ U 1 1 5E42889E
 P 4700 3400
 F 0 "R48" H 4759 3446 50  0000 L CNN
 F 1 "470" H 4759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4700 3400 50  0001 C CNN
 F 3 "~" H 4700 3400 50  0001 C CNN
 	1    4700 3400
 	1    0    0    -1  
@@ -3548,7 +3521,7 @@ U 1 1 5E4288A4
 P 4200 3400
 F 0 "R47" H 4259 3446 50  0000 L CNN
 F 1 "470" H 4259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4200 3400 50  0001 C CNN
 F 3 "~" H 4200 3400 50  0001 C CNN
 	1    4200 3400
 	1    0    0    -1  
@@ -3559,7 +3532,7 @@ U 1 1 5E4288AA
 P 5200 3400
 F 0 "R49" H 5259 3446 50  0000 L CNN
 F 1 "470" H 5259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5200 3400 50  0001 C CNN
 F 3 "~" H 5200 3400 50  0001 C CNN
 	1    5200 3400
 	1    0    0    -1  
@@ -3570,7 +3543,7 @@ U 1 1 5E4288B0
 P 6200 3400
 F 0 "R51" H 6259 3446 50  0000 L CNN
 F 1 "470" H 6259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6200 3400 50  0001 C CNN
 F 3 "~" H 6200 3400 50  0001 C CNN
 	1    6200 3400
 	1    0    0    -1  
@@ -3581,7 +3554,7 @@ U 1 1 5E4288B6
 P 5700 3400
 F 0 "R50" H 5759 3446 50  0000 L CNN
 F 1 "470" H 5759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5700 3400 50  0001 C CNN
 F 3 "~" H 5700 3400 50  0001 C CNN
 	1    5700 3400
 	1    0    0    -1  
@@ -3592,7 +3565,7 @@ U 1 1 5E4288BC
 P 6700 3400
 F 0 "R52" H 6759 3446 50  0000 L CNN
 F 1 "470" H 6759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6700 3400 50  0001 C CNN
 F 3 "~" H 6700 3400 50  0001 C CNN
 	1    6700 3400
 	1    0    0    -1  
@@ -3603,7 +3576,7 @@ U 1 1 5E4288C2
 P 7700 3400
 F 0 "R54" H 7759 3446 50  0000 L CNN
 F 1 "470" H 7759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7700 3400 50  0001 C CNN
 F 3 "~" H 7700 3400 50  0001 C CNN
 	1    7700 3400
 	1    0    0    -1  
@@ -3614,7 +3587,7 @@ U 1 1 5E4288C8
 P 7200 3400
 F 0 "R53" H 7259 3446 50  0000 L CNN
 F 1 "470" H 7259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7200 3400 50  0001 C CNN
 F 3 "~" H 7200 3400 50  0001 C CNN
 	1    7200 3400
 	1    0    0    -1  
@@ -3625,7 +3598,7 @@ U 1 1 5E4288CE
 P 8200 3400
 F 0 "R55" H 8259 3446 50  0000 L CNN
 F 1 "470" H 8259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8200 3400 50  0001 C CNN
 F 3 "~" H 8200 3400 50  0001 C CNN
 	1    8200 3400
 	1    0    0    -1  
@@ -3636,7 +3609,7 @@ U 1 1 5E4288D4
 P 9200 3400
 F 0 "R57" H 9259 3446 50  0000 L CNN
 F 1 "470" H 9259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9200 3400 50  0001 C CNN
 F 3 "~" H 9200 3400 50  0001 C CNN
 	1    9200 3400
 	1    0    0    -1  
@@ -3647,7 +3620,7 @@ U 1 1 5E4288DA
 P 8700 3400
 F 0 "R56" H 8759 3446 50  0000 L CNN
 F 1 "470" H 8759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8700 3400 50  0001 C CNN
 F 3 "~" H 8700 3400 50  0001 C CNN
 	1    8700 3400
 	1    0    0    -1  
@@ -3658,7 +3631,7 @@ U 1 1 5E4288E6
 P 10700 3400
 F 0 "R59" H 10759 3446 50  0000 L CNN
 F 1 "470" H 10759 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10700 3400 50  0001 C CNN
 F 3 "~" H 10700 3400 50  0001 C CNN
 	1    10700 3400
 	1    0    0    -1  
@@ -3669,7 +3642,7 @@ U 1 1 5E4288EC
 P 10200 3400
 F 0 "R58" H 10259 3446 50  0000 L CNN
 F 1 "470" H 10259 3355 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 3400 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10200 3400 50  0001 C CNN
 F 3 "~" H 10200 3400 50  0001 C CNN
 	1    10200 3400
 	1    0    0    -1  
@@ -3680,7 +3653,7 @@ U 1 1 5E44D70F
 P 3700 4100
 F 0 "R60" H 3759 4146 50  0000 L CNN
 F 1 "470" H 3759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 3700 4100 50  0001 C CNN
 F 3 "~" H 3700 4100 50  0001 C CNN
 	1    3700 4100
 	1    0    0    -1  
@@ -3691,7 +3664,7 @@ U 1 1 5E44D715
 P 4700 4100
 F 0 "R62" H 4759 4146 50  0000 L CNN
 F 1 "470" H 4759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4700 4100 50  0001 C CNN
 F 3 "~" H 4700 4100 50  0001 C CNN
 	1    4700 4100
 	1    0    0    -1  
@@ -3702,7 +3675,7 @@ U 1 1 5E44D71B
 P 4200 4100
 F 0 "R61" H 4259 4146 50  0000 L CNN
 F 1 "470" H 4259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4200 4100 50  0001 C CNN
 F 3 "~" H 4200 4100 50  0001 C CNN
 	1    4200 4100
 	1    0    0    -1  
@@ -3713,7 +3686,7 @@ U 1 1 5E44D721
 P 5200 4100
 F 0 "R63" H 5259 4146 50  0000 L CNN
 F 1 "470" H 5259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5200 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5200 4100 50  0001 C CNN
 F 3 "~" H 5200 4100 50  0001 C CNN
 	1    5200 4100
 	1    0    0    -1  
@@ -3724,7 +3697,7 @@ U 1 1 5E44D727
 P 6200 4100
 F 0 "R65" H 6259 4146 50  0000 L CNN
 F 1 "470" H 6259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6200 4100 50  0001 C CNN
 F 3 "~" H 6200 4100 50  0001 C CNN
 	1    6200 4100
 	1    0    0    -1  
@@ -3735,7 +3708,7 @@ U 1 1 5E44D72D
 P 5700 4100
 F 0 "R64" H 5759 4146 50  0000 L CNN
 F 1 "470" H 5759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 5700 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5700 4100 50  0001 C CNN
 F 3 "~" H 5700 4100 50  0001 C CNN
 	1    5700 4100
 	1    0    0    -1  
@@ -3746,7 +3719,7 @@ U 1 1 5E44D733
 P 6700 4100
 F 0 "R66" H 6759 4146 50  0000 L CNN
 F 1 "470" H 6759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6700 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6700 4100 50  0001 C CNN
 F 3 "~" H 6700 4100 50  0001 C CNN
 	1    6700 4100
 	1    0    0    -1  
@@ -3757,7 +3730,7 @@ U 1 1 5E44D739
 P 7700 4100
 F 0 "R68" H 7759 4146 50  0000 L CNN
 F 1 "470" H 7759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7700 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7700 4100 50  0001 C CNN
 F 3 "~" H 7700 4100 50  0001 C CNN
 	1    7700 4100
 	1    0    0    -1  
@@ -3768,7 +3741,7 @@ U 1 1 5E44D73F
 P 7200 4100
 F 0 "R67" H 7259 4146 50  0000 L CNN
 F 1 "470" H 7259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 7200 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 7200 4100 50  0001 C CNN
 F 3 "~" H 7200 4100 50  0001 C CNN
 	1    7200 4100
 	1    0    0    -1  
@@ -3779,7 +3752,7 @@ U 1 1 5E44D745
 P 8200 4100
 F 0 "R69" H 8259 4146 50  0000 L CNN
 F 1 "470" H 8259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8200 4100 50  0001 C CNN
 F 3 "~" H 8200 4100 50  0001 C CNN
 	1    8200 4100
 	1    0    0    -1  
@@ -3790,7 +3763,7 @@ U 1 1 5E44D751
 P 8700 4100
 F 0 "R70" H 8759 4146 50  0000 L CNN
 F 1 "470" H 8759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8700 4100 50  0001 C CNN
 F 3 "~" H 8700 4100 50  0001 C CNN
 	1    8700 4100
 	1    0    0    -1  
@@ -3801,7 +3774,7 @@ U 1 1 5E44D757
 P 9700 4100
 F 0 "R71" H 9759 4146 50  0000 L CNN
 F 1 "470" H 9759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9700 4100 50  0001 C CNN
 F 3 "~" H 9700 4100 50  0001 C CNN
 	1    9700 4100
 	1    0    0    -1  
@@ -3812,7 +3785,7 @@ U 1 1 5E44D75D
 P 10700 4100
 F 0 "R73" H 10759 4146 50  0000 L CNN
 F 1 "470" H 10759 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10700 4100 50  0001 C CNN
 F 3 "~" H 10700 4100 50  0001 C CNN
 	1    10700 4100
 	1    0    0    -1  
@@ -3823,7 +3796,7 @@ U 1 1 5E44D763
 P 10200 4100
 F 0 "R72" H 10259 4146 50  0000 L CNN
 F 1 "470" H 10259 4055 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 4100 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10200 4100 50  0001 C CNN
 F 3 "~" H 10200 4100 50  0001 C CNN
 	1    10200 4100
 	1    0    0    -1  
@@ -3834,7 +3807,7 @@ U 1 1 5E473BE0
 P 3700 4800
 F 0 "R74" H 3759 4846 50  0000 L CNN
 F 1 "470" H 3759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 3700 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 3700 4800 50  0001 C CNN
 F 3 "~" H 3700 4800 50  0001 C CNN
 	1    3700 4800
 	1    0    0    -1  
@@ -3845,7 +3818,7 @@ U 1 1 5E473BE6
 P 4700 4800
 F 0 "R76" H 4759 4846 50  0000 L CNN
 F 1 "470" H 4759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4700 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4700 4800 50  0001 C CNN
 F 3 "~" H 4700 4800 50  0001 C CNN
 	1    4700 4800
 	1    0    0    -1  
@@ -3856,7 +3829,7 @@ U 1 1 5E473BEC
 P 4200 4800
 F 0 "R75" H 4259 4846 50  0000 L CNN
 F 1 "470" H 4259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 4200 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 4200 4800 50  0001 C CNN
 F 3 "~" H 4200 4800 50  0001 C CNN
 	1    4200 4800
 	1    0    0    -1  
@@ -3867,7 +3840,7 @@ U 1 1 5E473C16
 P 8200 4800
 F 0 "R78" H 8259 4846 50  0000 L CNN
 F 1 "470" H 8259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8200 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8200 4800 50  0001 C CNN
 F 3 "~" H 8200 4800 50  0001 C CNN
 	1    8200 4800
 	1    0    0    -1  
@@ -3878,7 +3851,7 @@ U 1 1 5E473C1C
 P 9200 4800
 F 0 "R80" H 9259 4846 50  0000 L CNN
 F 1 "470" H 9259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9200 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9200 4800 50  0001 C CNN
 F 3 "~" H 9200 4800 50  0001 C CNN
 	1    9200 4800
 	1    0    0    -1  
@@ -3889,7 +3862,7 @@ U 1 1 5E473C22
 P 8700 4800
 F 0 "R79" H 8759 4846 50  0000 L CNN
 F 1 "470" H 8759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 8700 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 8700 4800 50  0001 C CNN
 F 3 "~" H 8700 4800 50  0001 C CNN
 	1    8700 4800
 	1    0    0    -1  
@@ -3900,7 +3873,7 @@ U 1 1 5E473C28
 P 9700 4800
 F 0 "R81" H 9759 4846 50  0000 L CNN
 F 1 "470" H 9759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 9700 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 9700 4800 50  0001 C CNN
 F 3 "~" H 9700 4800 50  0001 C CNN
 	1    9700 4800
 	1    0    0    -1  
@@ -3911,7 +3884,7 @@ U 1 1 5E473C2E
 P 10700 4800
 F 0 "R83" H 10759 4846 50  0000 L CNN
 F 1 "470" H 10759 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10700 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10700 4800 50  0001 C CNN
 F 3 "~" H 10700 4800 50  0001 C CNN
 	1    10700 4800
 	1    0    0    -1  
@@ -3922,7 +3895,7 @@ U 1 1 5E473C34
 P 10200 4800
 F 0 "R82" H 10259 4846 50  0000 L CNN
 F 1 "470" H 10259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 10200 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 10200 4800 50  0001 C CNN
 F 3 "~" H 10200 4800 50  0001 C CNN
 	1    10200 4800
 	1    0    0    -1  
@@ -4006,7 +3979,7 @@ U 1 1 5E631F14
 P 6200 4800
 F 0 "R77" H 6259 4846 50  0000 L CNN
 F 1 "470" H 6259 4755 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 6200 4800 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 6200 4800 50  0001 C CNN
 F 3 "~" H 6200 4800 50  0001 C CNN
 	1    6200 4800
 	1    0    0    -1  
@@ -4512,59 +4485,6 @@ Text GLabel 10950 4250 2    50   Input ~ 0
 ROW4
 Text GLabel 10950 4950 2    50   Input ~ 0
 ROW5
-Text GLabel 800  6350 0    50   Input ~ 0
-LEDPIN
-$Comp
-L Transistor_FET:2N7002 Q1
-U 1 1 5E2E1EE1
-P 1350 6350
-F 0 "Q1" H 1554 6396 50  0000 L CNN
-F 1 "2N7002" H 1554 6305 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 1550 6275 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 1350 6350 50  0001 L CNN
-	1    1350 6350
-	1    0    0    -1  
-$EndComp
-Text GLabel 1450 6150 1    50   Input ~ 0
-LEDOUT
-$Comp
-L power:GND #PWR0101
-U 1 1 5E2E9481
-P 1450 6550
-F 0 "#PWR0101" H 1450 6300 50  0001 C CNN
-F 1 "GND" H 1455 6377 50  0000 C CNN
-F 2 "" H 1450 6550 50  0001 C CNN
-F 3 "" H 1450 6550 50  0001 C CNN
-	1    1450 6550
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	800  6350 950  6350
-$Comp
-L Device:R_Small R88
-U 1 1 5E33D046
-P 950 6450
-F 0 "R88" H 1009 6496 50  0000 L CNN
-F 1 "4.7k" H 1009 6405 50  0000 L CNN
-F 2 "bear_face_parts:Resistor-Compact-1-side" H 950 6450 50  0001 C CNN
-F 3 "~" H 950 6450 50  0001 C CNN
-	1    950  6450
-	1    0    0    -1  
-$EndComp
-Connection ~ 950  6350
-Wire Wire Line
-	950  6350 1150 6350
-$Comp
-L power:GND #PWR0102
-U 1 1 5E33ECD1
-P 950 6550
-F 0 "#PWR0102" H 950 6300 50  0001 C CNN
-F 1 "GND" H 955 6377 50  0000 C CNN
-F 2 "" H 950 6550 50  0001 C CNN
-F 3 "" H 950 6550 50  0001 C CNN
-	1    950  6550
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	750  4300 750  4400
 Wire Wire Line
@@ -4577,7 +4497,7 @@ U 1 1 5E291FCA
 P 1250 4100
 F 0 "Y1" V 1204 4244 50  0000 L CNN
 F 1 "16MHz" V 1295 4244 50  0000 L CNN
-F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 1250 4100 50  0001 C CNN
+F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering" H 1250 4100 50  0001 C CNN
 F 3 "~" H 1250 4100 50  0001 C CNN
 	1    1250 4100
 	0    1    1    0   
@@ -4602,4 +4522,127 @@ Wire Wire Line
 Connection ~ 1150 4300
 Wire Wire Line
 	1150 4300 1150 4400
+$Comp
+L Power_Protection:SRV05-4 U2
+U 1 1 5E2D85C4
+P 5000 6000
+F 0 "U2" H 5000 6681 50  0000 C CNN
+F 1 "SRV05-4" H 5000 6590 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6" H 5700 5550 50  0001 C CNN
+F 3 "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" H 5000 6000 50  0001 C CNN
+	1    5000 6000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 5500 5250 5500
+$Comp
+L power:+5V #PWR0103
+U 1 1 5E32F6EA
+P 5250 5500
+F 0 "#PWR0103" H 5250 5350 50  0001 C CNN
+F 1 "+5V" H 5265 5673 50  0000 C CNN
+F 2 "" H 5250 5500 50  0001 C CNN
+F 3 "" H 5250 5500 50  0001 C CNN
+	1    5250 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5E3845E4
+P 5000 6550
+F 0 "#PWR0104" H 5000 6300 50  0001 C CNN
+F 1 "GND" H 5005 6377 50  0000 C CNN
+F 2 "" H 5000 6550 50  0001 C CNN
+F 3 "" H 5000 6550 50  0001 C CNN
+	1    5000 6550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 6550 5000 6500
+Text GLabel 5500 5900 2    50   Input ~ 0
+DA-
+Text GLabel 5500 6100 2    50   Input ~ 0
+DA+
+Wire Wire Line
+	1100 2800 1200 2800
+Connection ~ 1200 2800
+Text GLabel 1050 4900 3    50   Input ~ 0
+DB-
+Wire Wire Line
+	2500 3500 2400 3500
+Wire Wire Line
+	2400 3500 2300 3500
+Connection ~ 2400 3500
+Connection ~ 2300 3500
+Wire Wire Line
+	2000 7100 2300 7100
+Wire Wire Line
+	2300 7100 2400 7100
+Connection ~ 2300 7100
+Wire Wire Line
+	2300 3350 2300 3500
+$Comp
+L power:GND #PWR0102
+U 1 1 5E33ECD1
+P 5850 7200
+F 0 "#PWR0102" H 5850 6950 50  0001 C CNN
+F 1 "GND" H 5855 7027 50  0000 C CNN
+F 2 "" H 5850 7200 50  0001 C CNN
+F 3 "" H 5850 7200 50  0001 C CNN
+	1    5850 7200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5850 7000 6050 7000
+Connection ~ 5850 7000
+$Comp
+L Device:R_Small R88
+U 1 1 5E33D046
+P 5850 7100
+F 0 "R88" H 5909 7146 50  0000 L CNN
+F 1 "4.7k" H 5909 7055 50  0000 L CNN
+F 2 "Keebio-Parts:Resistor-Hybrid" H 5850 7100 50  0001 C CNN
+F 3 "~" H 5850 7100 50  0001 C CNN
+	1    5850 7100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 7000 5850 7000
+$Comp
+L power:GND #PWR0101
+U 1 1 5E2E9481
+P 6350 7200
+F 0 "#PWR0101" H 6350 6950 50  0001 C CNN
+F 1 "GND" H 6355 7027 50  0000 C CNN
+F 2 "" H 6350 7200 50  0001 C CNN
+F 3 "" H 6350 7200 50  0001 C CNN
+	1    6350 7200
+	1    0    0    -1  
+$EndComp
+Text GLabel 6350 6800 1    50   Input ~ 0
+LEDOUT
+$Comp
+L Transistor_FET:2N7002 Q1
+U 1 1 5E2E1EE1
+P 6250 7000
+F 0 "Q1" H 6454 7046 50  0000 L CNN
+F 1 "2N7002" H 6454 6955 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 6450 6925 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 6250 7000 50  0001 L CNN
+	1    6250 7000
+	1    0    0    -1  
+$EndComp
+Text GLabel 5700 7000 0    50   Input ~ 0
+LEDPIN
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U1
+U 1 1 5E20D2CA
+P 2400 5300
+F 0 "U1" H 2400 3411 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 2400 3320 50  0000 C CNN
+F 2 "Keebio-Parts:ATMEGA32U4-AU" H 2400 5300 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2400 5300 50  0001 C CNN
+	1    2400 5300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
