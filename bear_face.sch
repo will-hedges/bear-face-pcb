@@ -2071,9 +2071,9 @@ F 3 "" H 3075 1775 60  0001 C CNN
 	1    3700 1800
 	1    0    0    -1  
 $EndComp
-Text GLabel 1500 2500 2    50   Input ~ 0
+Text GLabel 1700 2700 3    50   Input ~ 0
 DA-
-Text GLabel 1500 2400 2    50   Input ~ 0
+Text GLabel 1600 2700 3    50   Input ~ 0
 DA+
 $Comp
 L Device:Polyfuse_Small F1
@@ -2649,29 +2649,25 @@ $EndComp
 $Comp
 L Device:R_Small R85
 U 1 1 5E2BAE37
-P 1200 4800
-F 0 "R85" V 1004 4800 50  0000 C CNN
-F 1 "22" V 1095 4800 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1200 4800 50  0001 C CNN
-F 3 "~" H 1200 4800 50  0001 C CNN
-	1    1200 4800
+P 1850 2400
+F 0 "R85" V 1654 2400 50  0000 C CNN
+F 1 "22" V 1745 2400 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1850 2400 50  0001 C CNN
+F 3 "~" H 1850 2400 50  0001 C CNN
+	1    1850 2400
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:R_Small R86
 U 1 1 5E2BDE9E
-P 900 4900
-F 0 "R86" V 704 4900 50  0000 C CNN
-F 1 "22" V 795 4900 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 900 4900 50  0001 C CNN
-F 3 "~" H 900 4900 50  0001 C CNN
-	1    900  4900
+P 2100 2500
+F 0 "R86" V 1904 2500 50  0000 C CNN
+F 1 "22" V 1995 2500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2100 2500 50  0001 C CNN
+F 3 "~" H 2100 2500 50  0001 C CNN
+	1    2100 2500
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	800  4900 700  4900
-Wire Wire Line
-	700  4800 1100 4800
 $Comp
 L Device:C_Small C3
 U 1 1 5E366EAB
@@ -2745,12 +2741,12 @@ $EndComp
 $Comp
 L Switch:SW_Push SW1
 U 1 1 5DFE33D6
-P 1400 3800
-F 0 "SW1" H 1400 4085 50  0000 C CNN
-F 1 "SW_Push" H 1400 3994 50  0000 C CNN
-F 2 "bear_face_parts:PushButton_6x6mm_TH_Pretty" H 1400 4000 50  0001 C CNN
-F 3 "~" H 1400 4000 50  0001 C CNN
-	1    1400 3800
+P 8200 6100
+F 0 "SW1" H 8200 6385 50  0000 C CNN
+F 1 "SW_Push" H 8200 6294 50  0000 C CNN
+F 2 "bear_face_parts:PushButton_6x6mm_TH_Pretty" H 8200 6300 50  0001 C CNN
+F 3 "~" H 8200 6300 50  0001 C CNN
+	1    8200 6100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2851,55 +2847,51 @@ $EndComp
 Wire Wire Line
 	950  4200 950  4300
 Wire Wire Line
-	1600 3800 1700 3800
+	8400 6100 8500 6100
 $Comp
 L power:GND #PWR07
 U 1 1 5E709B12
-P 1050 3700
-F 0 "#PWR07" H 1050 3450 50  0001 C CNN
-F 1 "GND" H 1055 3527 50  0000 C CNN
-F 2 "" H 1050 3700 50  0001 C CNN
-F 3 "" H 1050 3700 50  0001 C CNN
-	1    1050 3700
+P 7850 6000
+F 0 "#PWR07" H 7850 5750 50  0001 C CNN
+F 1 "GND" H 7855 5827 50  0000 C CNN
+F 2 "" H 7850 6000 50  0001 C CNN
+F 3 "" H 7850 6000 50  0001 C CNN
+	1    7850 6000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1050 3700 1200 3700
+	7850 6000 8000 6000
 Wire Wire Line
-	1200 3700 1200 3800
+	8000 6000 8000 6100
 $Comp
 L Device:R_Small R84
 U 1 1 5E729BAE
-P 1700 3450
-F 0 "R84" H 1759 3496 50  0000 L CNN
-F 1 "10k" H 1759 3405 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1700 3450 50  0001 C CNN
-F 3 "~" H 1700 3450 50  0001 C CNN
-	1    1700 3450
+P 8500 5750
+F 0 "R84" H 8559 5796 50  0000 L CNN
+F 1 "10k" H 8559 5705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8500 5750 50  0001 C CNN
+F 3 "~" H 8500 5750 50  0001 C CNN
+	1    8500 5750
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1700 3550 1700 3800
-Connection ~ 1700 3800
+	8500 5850 8500 6100
+Connection ~ 8500 6100
 Wire Wire Line
-	1700 3800 1800 3800
+	8500 6100 8600 6100
 $Comp
 L power:+5V #PWR05
 U 1 1 5E749519
-P 1700 3250
-F 0 "#PWR05" H 1700 3100 50  0001 C CNN
-F 1 "+5V" H 1715 3423 50  0000 C CNN
-F 2 "" H 1700 3250 50  0001 C CNN
-F 3 "" H 1700 3250 50  0001 C CNN
-	1    1700 3250
+P 8500 5550
+F 0 "#PWR05" H 8500 5400 50  0001 C CNN
+F 1 "+5V" H 8515 5723 50  0000 C CNN
+F 2 "" H 8500 5550 50  0001 C CNN
+F 3 "" H 8500 5550 50  0001 C CNN
+	1    8500 5550
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1700 3250 1700 3350
-Text GLabel 700  4800 0    50   Input ~ 0
-DA+
-Text GLabel 700  4900 0    50   Input ~ 0
-DA-
+	8500 5550 8500 5650
 $Comp
 L Device:R_Small R87
 U 1 1 5E285AAF
@@ -2928,62 +2920,55 @@ F 3 "~" H 1350 2350 50  0001 C CNN
 	1    1200 2400
 	1    0    0    -1  
 $EndComp
-Text GLabel 3000 6700 2    50   Input ~ 0
+Text GLabel 3050 6700 2    50   Input ~ 0
 ROW5
-Text GLabel 3000 6200 2    50   Input ~ 0
+Text GLabel 3050 6200 2    50   Input ~ 0
 COL3
 NoConn ~ 1800 4400
-Text GLabel 3000 3800 2    50   Input ~ 0
+Text GLabel 3750 5150 2    50   Input ~ 0
 ROW0
-Text GLabel 3000 6000 2    50   Input ~ 0
+Text GLabel 3050 6000 2    50   Input ~ 0
 ROW1
-Text GLabel 3000 3900 2    50   Input ~ 0
+Text GLabel 3750 5250 2    50   Input ~ 0
 ROW2
-Text GLabel 3000 4100 2    50   Input ~ 0
+Text GLabel 3750 5450 2    50   Input ~ 0
 ROW3
-Text GLabel 3000 4500 2    50   Input ~ 0
+Text GLabel 3050 4500 2    50   Input ~ 0
 COL5
-Text GLabel 3000 5100 2    50   Input ~ 0
+Text GLabel 3050 5100 2    50   Input ~ 0
 COL7
-Text GLabel 3000 5200 2    50   Input ~ 0
+Text GLabel 3050 5200 2    50   Input ~ 0
 COL8
-Text GLabel 3000 5300 2    50   Input ~ 0
+Text GLabel 3050 5300 2    50   Input ~ 0
 COL9
-Text GLabel 3000 5500 2    50   Input ~ 0
+Text GLabel 3050 5500 2    50   Input ~ 0
 COL10
-Text GLabel 3000 5400 2    50   Input ~ 0
+Text GLabel 3050 5400 2    50   Input ~ 0
 COL11
-Text GLabel 3000 5600 2    50   Input ~ 0
+Text GLabel 3050 5600 2    50   Input ~ 0
 COL12
-Text GLabel 3000 5700 2    50   Input ~ 0
+Text GLabel 3050 5700 2    50   Input ~ 0
 COL13
-Text GLabel 3000 4200 2    50   Input ~ 0
+Text GLabel 3750 5550 2    50   Input ~ 0
 COL14
-Text GLabel 3000 4000 2    50   Input ~ 0
+Text GLabel 3750 5350 2    50   Input ~ 0
 COL4
-Text GLabel 3000 5000 2    50   Input ~ 0
+Text GLabel 3050 5000 2    50   Input ~ 0
 COL6
-Text GLabel 3000 6300 2    50   Input ~ 0
+Text GLabel 3050 6300 2    50   Input ~ 0
 ROW4
-Text GLabel 1350 4800 1    50   Input ~ 0
+Text GLabel 2650 2400 2    50   Input ~ 0
 DB+
 Wire Wire Line
 	1700 4600 1800 4600
-Text GLabel 3000 6500 2    50   Input ~ 0
+Text GLabel 3050 6500 2    50   Input ~ 0
 COL2
-Text GLabel 3000 6600 2    50   Input ~ 0
+Text GLabel 3050 6600 2    50   Input ~ 0
 COL1
-Text GLabel 3000 6400 2    50   Input ~ 0
+Text GLabel 3050 6400 2    50   Input ~ 0
 COL0
-Wire Wire Line
-	1000 4900 1800 4900
-Wire Wire Line
-	1300 4800 1800 4800
-NoConn ~ 3000 4400
-NoConn ~ 3000 4700
-NoConn ~ 3000 4800
 NoConn ~ 1500 2600
-Text GLabel 3000 4300 2    50   Input ~ 0
+Text GLabel 3750 5650 2    50   Input ~ 0
 LEDPIN
 Text GLabel 3350 1100 1    50   Input ~ 0
 LEDOUT
@@ -4566,19 +4551,8 @@ DA+
 Wire Wire Line
 	1100 2800 1200 2800
 Connection ~ 1200 2800
-Text GLabel 1050 4900 3    50   Input ~ 0
+Text GLabel 2650 2500 2    50   Input ~ 0
 DB-
-Wire Wire Line
-	2500 3500 2400 3500
-Wire Wire Line
-	2400 3500 2300 3500
-Connection ~ 2400 3500
-Connection ~ 2300 3500
-Wire Wire Line
-	2000 7100 2300 7100
-Wire Wire Line
-	2300 7100 2400 7100
-Connection ~ 2300 7100
 Wire Wire Line
 	2300 3350 2300 3500
 $Comp
@@ -4634,6 +4608,39 @@ F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 6250 7000 50  000
 $EndComp
 Text GLabel 5700 7000 0    50   Input ~ 0
 LEDPIN
+Wire Wire Line
+	1500 2500 1700 2500
+Wire Wire Line
+	1950 2400 2650 2400
+Wire Wire Line
+	2200 2500 2650 2500
+Wire Wire Line
+	1500 2400 1600 2400
+Wire Wire Line
+	1600 2700 1600 2400
+Connection ~ 1600 2400
+Wire Wire Line
+	1600 2400 1750 2400
+Wire Wire Line
+	1700 2700 1700 2500
+Connection ~ 1700 2500
+Wire Wire Line
+	1700 2500 2000 2500
+Text GLabel 1800 4800 0    50   Input ~ 0
+DB+
+Text GLabel 1800 4900 0    50   Input ~ 0
+DB-
+Wire Wire Line
+	2300 7100 2400 7100
+Wire Wire Line
+	2000 7100 2300 7100
+Connection ~ 2300 7100
+Connection ~ 2300 3500
+Wire Wire Line
+	2400 3500 2300 3500
+Wire Wire Line
+	2500 3500 2400 3500
+Connection ~ 2400 3500
 $Comp
 L MCU_Microchip_ATmega:ATmega32U4-AU U1
 U 1 1 5E20D2CA
@@ -4643,6 +4650,61 @@ F 1 "ATmega32U4-AU" H 2400 3320 50  0000 C CNN
 F 2 "Keebio-Parts:ATMEGA32U4-AU" H 2400 5300 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2400 5300 50  0001 C CNN
 	1    2400 5300
+	1    0    0    -1  
+$EndComp
+Text GLabel 3000 3900 2    50   Input ~ 0
+SCLK
+Text GLabel 3000 4000 2    50   Input ~ 0
+MOSI
+Text GLabel 3000 4100 2    50   Input ~ 0
+MISO
+$Comp
+L Connector_Generic:Conn_02x03_Odd_Even J2
+U 1 1 5E38C6F7
+P 6700 5600
+F 0 "J2" H 6750 5917 50  0000 C CNN
+F 1 "Conn_02x03_Odd_Even" H 6750 5826 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" H 6700 5600 50  0001 C CNN
+F 3 "~" H 6700 5600 50  0001 C CNN
+	1    6700 5600
+	1    0    0    -1  
+$EndComp
+Text GLabel 7000 5500 2    50   Input ~ 0
+SCLK
+Text GLabel 7000 5600 2    50   Input ~ 0
+MOSI
+Text GLabel 7000 5700 2    50   Input ~ 0
+MISO
+Text GLabel 8600 6100 2    50   Input ~ 0
+RESET
+Text GLabel 1800 3800 0    50   Input ~ 0
+RESET
+Text GLabel 6500 5600 0    50   Input ~ 0
+RESET
+Wire Wire Line
+	6500 5500 6100 5500
+$Comp
+L power:GND #PWR0105
+U 1 1 5E4F520E
+P 6100 5500
+F 0 "#PWR0105" H 6100 5250 50  0001 C CNN
+F 1 "GND" H 6105 5327 50  0000 C CNN
+F 2 "" H 6100 5500 50  0001 C CNN
+F 3 "" H 6100 5500 50  0001 C CNN
+	1    6100 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6500 5700 5950 5700
+$Comp
+L power:+5V #PWR0106
+U 1 1 5E54EE72
+P 5950 5700
+F 0 "#PWR0106" H 5950 5550 50  0001 C CNN
+F 1 "+5V" H 5965 5873 50  0000 C CNN
+F 2 "" H 5950 5700 50  0001 C CNN
+F 3 "" H 5950 5700 50  0001 C CNN
+	1    5950 5700
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
