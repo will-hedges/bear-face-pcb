@@ -2920,55 +2920,55 @@ F 3 "~" H 1350 2350 50  0001 C CNN
 	1    1200 2400
 	1    0    0    -1  
 $EndComp
-Text GLabel 3050 6700 2    50   Input ~ 0
+Text GLabel 3000 4300 2    50   Input ~ 0
 ROW5
-Text GLabel 3050 6200 2    50   Input ~ 0
+Text GLabel 1300 6750 2    50   Input ~ 0
 COL3
 NoConn ~ 1800 4400
-Text GLabel 3750 5150 2    50   Input ~ 0
+Text GLabel 850  5850 2    50   Input ~ 0
 ROW0
-Text GLabel 3050 6000 2    50   Input ~ 0
+Text GLabel 1300 6550 2    50   Input ~ 0
 ROW1
-Text GLabel 3750 5250 2    50   Input ~ 0
+Text GLabel 850  5950 2    50   Input ~ 0
 ROW2
-Text GLabel 3750 5450 2    50   Input ~ 0
+Text GLabel 850  6150 2    50   Input ~ 0
 ROW3
-Text GLabel 3050 4500 2    50   Input ~ 0
+Text GLabel 750  5600 2    50   Input ~ 0
 COL5
-Text GLabel 3050 5100 2    50   Input ~ 0
+Text GLabel 850  6700 2    50   Input ~ 0
 COL7
-Text GLabel 3050 5200 2    50   Input ~ 0
+Text GLabel 850  6800 2    50   Input ~ 0
 COL8
-Text GLabel 3050 5300 2    50   Input ~ 0
+Text GLabel 850  6900 2    50   Input ~ 0
 COL9
-Text GLabel 3050 5500 2    50   Input ~ 0
+Text GLabel 850  7100 2    50   Input ~ 0
 COL10
-Text GLabel 3050 5400 2    50   Input ~ 0
+Text GLabel 850  7000 2    50   Input ~ 0
 COL11
-Text GLabel 3050 5600 2    50   Input ~ 0
+Text GLabel 850  7200 2    50   Input ~ 0
 COL12
-Text GLabel 3050 5700 2    50   Input ~ 0
+Text GLabel 850  7300 2    50   Input ~ 0
 COL13
-Text GLabel 3750 5550 2    50   Input ~ 0
+Text GLabel 850  6250 2    50   Input ~ 0
 COL14
-Text GLabel 3750 5350 2    50   Input ~ 0
+Text GLabel 850  6050 2    50   Input ~ 0
 COL4
-Text GLabel 3050 5000 2    50   Input ~ 0
+Text GLabel 850  6600 2    50   Input ~ 0
 COL6
-Text GLabel 3050 6300 2    50   Input ~ 0
+Text GLabel 3000 3800 2    50   Input ~ 0
 ROW4
 Text GLabel 2650 2400 2    50   Input ~ 0
 DB+
 Wire Wire Line
 	1700 4600 1800 4600
-Text GLabel 3050 6500 2    50   Input ~ 0
+Text GLabel 3000 4700 2    50   Input ~ 0
 COL2
-Text GLabel 3050 6600 2    50   Input ~ 0
+Text GLabel 3000 4800 2    50   Input ~ 0
 COL1
-Text GLabel 3050 6400 2    50   Input ~ 0
+Text GLabel 3000 4400 2    50   Input ~ 0
 COL0
 NoConn ~ 1500 2600
-Text GLabel 3750 5650 2    50   Input ~ 0
+Text GLabel 850  6350 2    50   Input ~ 0
 LEDPIN
 Text GLabel 3350 1100 1    50   Input ~ 0
 LEDOUT
