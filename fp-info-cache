@@ -1,4 +1,4 @@
-17355770871356866
+17355777661059571
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76769,20 +76769,6 @@ varistor SIOV
 2
 2
 bear_face_parts
-D_SOD-123
-SOD-123
-SOD-123
-0
-2
-2
-bear_face_parts
-Diode-THT
-
-
-0
-2
-2
-bear_face_parts
 Diode-dual
 
 
@@ -76790,54 +76776,96 @@ Diode-dual
 10
 2
 bear_face_parts
-MXOnly-1.5U
+MXOnly-1.5U-NoLED
+
+
+0
+2
+2
+bear_face_parts
+MXOnly-1.25U-NoLED
+
+
+0
+2
+2
+bear_face_parts
+MXOnly-1.75U-CapsLED
 
 
 0
 4
 4
 bear_face_parts
-MXOnly-1.25U
+MXOnly-1.75U-NoLED
 
 
 0
-4
-4
+2
+2
 bear_face_parts
-MXOnly-1.75U
+MXOnly-1U-NoLED
 
 
 0
-4
-4
+2
+2
 bear_face_parts
-MXOnly-1U
+MXOnly-2.25U-NoLED
 
 
 0
-4
-4
+2
+2
 bear_face_parts
-MXOnly-2.25U-NoStabs
+MXOnly-2.25U-NoLED-NoStabs
 
 
 0
-4
-4
+2
+2
 bear_face_parts
-MXOnly-2U-NoStabs
+MXOnly-2.75U-NoLED
 
 
 0
-4
-4
+2
+2
 bear_face_parts
-MXOnly-6.25U-NoStabs
+MXOnly-2.75U-NoLED-NoStabs
 
 
 0
-4
-4
+2
+2
+bear_face_parts
+MXOnly-2U-NoLED
+
+
+0
+2
+2
+bear_face_parts
+MXOnly-2U-NoLED-NoStabs
+
+
+0
+2
+2
+bear_face_parts
+MXOnly-6.25U-NoLED-NoStabs
+
+
+0
+2
+2
+bear_face_parts
+MXOnly-6.25U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
 bear_face_parts
 MountingHole_3mm
 Mounting Hole 3mm, no annular
@@ -76860,40 +76888,12 @@ PushButton_6x6mm_TH_Pretty
 4
 4
 bear_face_parts
-Resistor-Compact
-
-
-0
-2
-2
-bear_face_parts
-Resistor-Compact-1-side
-
-
-0
-2
-2
-bear_face_parts
 Resistor-Hybrid
 
 
 0
 10
 2
-bear_face_parts
-Resistor-THT
-
-
-0
-2
-2
-bear_face_parts
-Via-0.6mm
-
-
-0
-1
-1
 bear_face_silks
 bearcs
 
