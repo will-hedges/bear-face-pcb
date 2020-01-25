@@ -1576,12 +1576,12 @@ $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX3
 U 1 1 5DFC66C3
-P 4700 1100
-F 0 "MX3" H 4733 1323 60  0000 C CNN
-F 1 "MX-NoLED" H 4733 1249 20  0000 C CNN
-F 2 "bear_face_parts:MXOnly-1U-NoLED" H 4075 1075 60  0001 C CNN
-F 3 "" H 4075 1075 60  0001 C CNN
-	1    4700 1100
+P 4650 1100
+F 0 "MX3" H 4683 1323 60  0000 C CNN
+F 1 "MX-NoLED" H 4683 1249 20  0000 C CNN
+F 2 "bear_face_parts:MXOnly-1U-NoLED" H 4025 1075 60  0001 C CNN
+F 3 "" H 4025 1075 60  0001 C CNN
+	1    4650 1100
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1717,7 +1717,7 @@ F 3 "~" V 9550 1350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	4550 1250 4650 1250
+	4550 1250 4600 1250
 $Comp
 L Device:D_Small D18
 U 1 1 5DFC8E88
@@ -1736,12 +1736,12 @@ Wire Wire Line
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX4
 U 1 1 5DFFE014
-P 5200 1100
-F 0 "MX4" H 5233 1323 60  0000 C CNN
-F 1 "MX-NoLED" H 5233 1249 20  0000 C CNN
-F 2 "bear_face_parts:MXOnly-1U-NoLED" H 4575 1075 60  0001 C CNN
-F 3 "" H 4575 1075 60  0001 C CNN
-	1    5200 1100
+P 5150 1100
+F 0 "MX4" H 5183 1323 60  0000 C CNN
+F 1 "MX-NoLED" H 5183 1249 20  0000 C CNN
+F 2 "bear_face_parts:MXOnly-1U-NoLED" H 4525 1075 60  0001 C CNN
+F 3 "" H 4525 1075 60  0001 C CNN
+	1    5150 1100
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1756,7 +1756,7 @@ F 3 "~" V 5050 1350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	5050 1250 5150 1250
+	5050 1250 5100 1250
 Wire Wire Line
 	6050 1250 6150 1250
 $Comp
@@ -2504,11 +2504,9 @@ Wire Wire Line
 	4350 800  4350 1050
 Connection ~ 4350 1050
 Wire Wire Line
-	4850 1050 4850 800 
-Connection ~ 4850 1050
+	4800 1050 4800 800 
 Wire Wire Line
-	5350 1050 5350 800 
-Connection ~ 5350 1050
+	5300 1050 5300 800 
 Wire Wire Line
 	5850 1050 5850 800 
 Connection ~ 5850 1050
@@ -2542,9 +2540,9 @@ Connection ~ 10350 1050
 Wire Wire Line
 	10850 1050 10850 800 
 Connection ~ 10850 1050
-Text GLabel 4850 800  1    50   Input ~ 0
+Text GLabel 4800 800  1    50   Input ~ 0
 COL2
-Text GLabel 5350 800  1    50   Input ~ 0
+Text GLabel 5300 800  1    50   Input ~ 0
 COL3
 Text GLabel 5850 800  1    50   Input ~ 0
 COL4
@@ -2895,40 +2893,40 @@ F 3 "~" H 1350 2350 50  0001 C CNN
 	1    1200 2400
 	1    0    0    -1  
 $EndComp
-Text GLabel 3000 4300 2    50   Input ~ 0
+Text GLabel 3000 4400 2    50   Input ~ 0
 ROW5
-Text GLabel 1300 6750 2    50   Input ~ 0
+Text GLabel 3000 6200 2    50   Input ~ 0
 COL3
 NoConn ~ 1800 4400
-Text GLabel 850  5850 2    50   Input ~ 0
+Text GLabel 3000 6500 2    50   Input ~ 0
 ROW0
-Text GLabel 1300 6550 2    50   Input ~ 0
+Text GLabel 3000 6600 2    50   Input ~ 0
 ROW1
-Text GLabel 850  5950 2    50   Input ~ 0
+Text GLabel 3000 6400 2    50   Input ~ 0
 ROW2
-Text GLabel 850  6150 2    50   Input ~ 0
+Text GLabel 3000 6300 2    50   Input ~ 0
 ROW3
-Text GLabel 750  5600 2    50   Input ~ 0
+Text GLabel 3000 4500 2    50   Input ~ 0
 COL5
-Text GLabel 850  6700 2    50   Input ~ 0
+Text GLabel 3000 5100 2    50   Input ~ 0
 COL7
-Text GLabel 850  6800 2    50   Input ~ 0
+Text GLabel 3000 5200 2    50   Input ~ 0
 COL8
-Text GLabel 850  6900 2    50   Input ~ 0
+Text GLabel 3000 5300 2    50   Input ~ 0
 COL9
-Text GLabel 850  7100 2    50   Input ~ 0
+Text GLabel 3000 5500 2    50   Input ~ 0
 COL10
-Text GLabel 850  7000 2    50   Input ~ 0
+Text GLabel 3000 5400 2    50   Input ~ 0
 COL11
-Text GLabel 850  7200 2    50   Input ~ 0
+Text GLabel 3000 5600 2    50   Input ~ 0
 COL12
-Text GLabel 850  7300 2    50   Input ~ 0
+Text GLabel 3000 5700 2    50   Input ~ 0
 COL13
-Text GLabel 850  6250 2    50   Input ~ 0
+Text GLabel 3000 4200 2    50   Input ~ 0
 COL14
-Text GLabel 850  6050 2    50   Input ~ 0
+Text GLabel 3000 6000 2    50   Input ~ 0
 COL4
-Text GLabel 850  6600 2    50   Input ~ 0
+Text GLabel 3000 5000 2    50   Input ~ 0
 COL6
 Text GLabel 3000 3800 2    50   Input ~ 0
 ROW4
@@ -2940,10 +2938,10 @@ Text GLabel 3000 4700 2    50   Input ~ 0
 COL2
 Text GLabel 3000 4800 2    50   Input ~ 0
 COL1
-Text GLabel 3000 4400 2    50   Input ~ 0
+Text GLabel 3000 4300 2    50   Input ~ 0
 COL0
 NoConn ~ 1500 2600
-Text GLabel 850  6350 2    50   Input ~ 0
+Text GLabel 3000 6700 2    50   Input ~ 0
 LEDPIN
 Connection ~ 3850 3850
 Wire Wire Line
@@ -3260,7 +3258,7 @@ U 1 1 5DFA23B8
 P 3700 3200
 F 0 "MX46" H 3733 3423 60  0000 C CNN
 F 1 "MX-NoLED" H 3733 3349 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1.75U" H 3075 3175 60  0001 C CNN
+F 2 "bear_face_parts:MXOnly-1.75U-CapsLED-XD75-socket" H 3075 3175 60  0001 C CNN
 F 3 "" H 3075 3175 60  0001 C CNN
 	1    3700 3200
 	1    0    0    -1  
@@ -3293,4 +3291,10 @@ Wire Wire Line
 	3700 3500 3300 3500
 Text GLabel 3300 3500 1    50   Input ~ 0
 LEDOUT
+Connection ~ 4600 1250
+Wire Wire Line
+	4600 1250 4650 1250
+Connection ~ 5100 1250
+Wire Wire Line
+	5100 1250 5150 1250
 $EndSCHEMATC

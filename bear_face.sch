@@ -1442,12 +1442,12 @@ $EndComp
 $Comp
 L Device:D_Small D3
 U 1 1 5DFC7643
-P 4550 1350
-F 0 "D3" V 4596 1282 50  0000 R CNN
-F 1 "D_Small" V 4505 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4550 1350 50  0001 C CNN
-F 3 "~" V 4550 1350 50  0001 C CNN
-	1    4550 1350
+P 4600 1350
+F 0 "D3" V 4646 1282 50  0000 R CNN
+F 1 "D_Small" V 4555 1282 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual" V 4600 1350 50  0001 C CNN
+F 3 "~" V 4600 1350 50  0001 C CNN
+	1    4600 1350
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1717,7 +1717,7 @@ F 3 "~" V 9550 1350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	4550 1250 4650 1250
+	4600 1250 4650 1250
 $Comp
 L Device:D_Small D18
 U 1 1 5DFC8E88
@@ -1747,16 +1747,16 @@ $EndComp
 $Comp
 L Device:D_Small D4
 U 1 1 5DFFE01A
-P 5050 1350
-F 0 "D4" V 5096 1282 50  0000 R CNN
-F 1 "D_Small" V 5005 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5050 1350 50  0001 C CNN
-F 3 "~" V 5050 1350 50  0001 C CNN
-	1    5050 1350
+P 5100 1350
+F 0 "D4" V 5146 1282 50  0000 R CNN
+F 1 "D_Small" V 5055 1282 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual" V 5100 1350 50  0001 C CNN
+F 3 "~" V 5100 1350 50  0001 C CNN
+	1    5100 1350
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	5050 1250 5150 1250
+	5100 1250 5150 1250
 Wire Wire Line
 	6050 1250 6150 1250
 $Comp
@@ -2122,14 +2122,6 @@ Wire Wire Line
 Wire Wire Line
 	3550 1450 4050 1450
 Connection ~ 4050 1450
-Wire Wire Line
-	4050 1450 4550 1450
-Connection ~ 4550 1450
-Wire Wire Line
-	4550 1450 5050 1450
-Connection ~ 5050 1450
-Wire Wire Line
-	5050 1450 5550 1450
 Connection ~ 5550 1450
 Wire Wire Line
 	5550 1450 6050 1450
@@ -2450,9 +2442,6 @@ Wire Wire Line
 	8350 3850 8350 4550
 Wire Wire Line
 	6350 4550 6350 3850
-Connection ~ 5350 1750
-Wire Wire Line
-	5350 1750 5350 1050
 Connection ~ 5350 2450
 Wire Wire Line
 	5350 2450 5350 1750
@@ -2461,9 +2450,6 @@ Wire Wire Line
 	5350 3150 5350 2450
 Wire Wire Line
 	5350 3850 5350 3150
-Wire Wire Line
-	4850 1050 4850 1750
-Connection ~ 4850 1750
 Wire Wire Line
 	4850 1750 4850 2450
 Connection ~ 4850 2450
@@ -2504,11 +2490,7 @@ Wire Wire Line
 	4350 800  4350 1050
 Connection ~ 4350 1050
 Wire Wire Line
-	4850 1050 4850 800 
-Connection ~ 4850 1050
-Wire Wire Line
 	5350 1050 5350 800 
-Connection ~ 5350 1050
 Wire Wire Line
 	5850 1050 5850 800 
 Connection ~ 5850 1050
@@ -2895,40 +2877,40 @@ F 3 "~" H 1350 2350 50  0001 C CNN
 	1    1200 2400
 	1    0    0    -1  
 $EndComp
-Text GLabel 3000 4300 2    50   Input ~ 0
+Text GLabel 3000 4400 2    50   Input ~ 0
 ROW5
-Text GLabel 1300 6750 2    50   Input ~ 0
+Text GLabel 3000 6200 2    50   Input ~ 0
 COL3
 NoConn ~ 1800 4400
-Text GLabel 850  5850 2    50   Input ~ 0
+Text GLabel 3000 6500 2    50   Input ~ 0
 ROW0
-Text GLabel 1300 6550 2    50   Input ~ 0
+Text GLabel 3000 6600 2    50   Input ~ 0
 ROW1
-Text GLabel 850  5950 2    50   Input ~ 0
+Text GLabel 3000 6400 2    50   Input ~ 0
 ROW2
-Text GLabel 850  6150 2    50   Input ~ 0
+Text GLabel 3000 6300 2    50   Input ~ 0
 ROW3
-Text GLabel 750  5600 2    50   Input ~ 0
+Text GLabel 3000 4500 2    50   Input ~ 0
 COL5
-Text GLabel 850  6700 2    50   Input ~ 0
+Text GLabel 3000 5100 2    50   Input ~ 0
 COL7
-Text GLabel 850  6800 2    50   Input ~ 0
+Text GLabel 3000 5200 2    50   Input ~ 0
 COL8
-Text GLabel 850  6900 2    50   Input ~ 0
+Text GLabel 3000 5300 2    50   Input ~ 0
 COL9
-Text GLabel 850  7100 2    50   Input ~ 0
+Text GLabel 3000 5500 2    50   Input ~ 0
 COL10
-Text GLabel 850  7000 2    50   Input ~ 0
+Text GLabel 3000 5400 2    50   Input ~ 0
 COL11
-Text GLabel 850  7200 2    50   Input ~ 0
+Text GLabel 3000 5600 2    50   Input ~ 0
 COL12
-Text GLabel 850  7300 2    50   Input ~ 0
+Text GLabel 3000 5700 2    50   Input ~ 0
 COL13
-Text GLabel 850  6250 2    50   Input ~ 0
+Text GLabel 3000 4200 2    50   Input ~ 0
 COL14
-Text GLabel 850  6050 2    50   Input ~ 0
+Text GLabel 3000 6000 2    50   Input ~ 0
 COL4
-Text GLabel 850  6600 2    50   Input ~ 0
+Text GLabel 3000 5000 2    50   Input ~ 0
 COL6
 Text GLabel 3000 3800 2    50   Input ~ 0
 ROW4
@@ -2940,10 +2922,10 @@ Text GLabel 3000 4700 2    50   Input ~ 0
 COL2
 Text GLabel 3000 4800 2    50   Input ~ 0
 COL1
-Text GLabel 3000 4400 2    50   Input ~ 0
+Text GLabel 3000 4300 2    50   Input ~ 0
 COL0
 NoConn ~ 1500 2600
-Text GLabel 850  6350 2    50   Input ~ 0
+Text GLabel 3000 6700 2    50   Input ~ 0
 LEDPIN
 Connection ~ 3850 3850
 Wire Wire Line
@@ -3293,4 +3275,28 @@ Wire Wire Line
 	3700 3500 3300 3500
 Text GLabel 3300 3500 1    50   Input ~ 0
 LEDOUT
+Connection ~ 4650 1250
+Wire Wire Line
+	4650 1250 4700 1250
+Connection ~ 5150 1250
+Wire Wire Line
+	5150 1250 5200 1250
+Connection ~ 4600 1450
+Connection ~ 5100 1450
+Wire Wire Line
+	5100 1450 5550 1450
+Wire Wire Line
+	4050 1450 4600 1450
+Wire Wire Line
+	4600 1450 5100 1450
+Wire Wire Line
+	4850 800  4850 1050
+Wire Wire Line
+	4850 1050 4850 1750
+Connection ~ 4850 1050
+Connection ~ 4850 1750
+Wire Wire Line
+	5350 1050 5350 1750
+Connection ~ 5350 1050
+Connection ~ 5350 1750
 $EndSCHEMATC
