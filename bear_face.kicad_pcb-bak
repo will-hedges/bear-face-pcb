@@ -379,7 +379,7 @@
 
   (module bear_face_silks:pasta_small (layer F.Cu) (tedit 0) (tstamp 5E2D2CF1)
     (at 241.681 110.617)
-    (fp_text reference G2 (at 0 0) (layer F.SilkS) hide
+    (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
     (fp_text value PASTA (at 0.75 0) (layer F.SilkS) hide
@@ -7204,7 +7204,7 @@
 
   (module bear_face_silks:cbf_small_flipped (layer F.Cu) (tedit 5E200675) (tstamp 5E2D2115)
     (at 140.208 124.079)
-    (fp_text reference G1 (at 10.16 0) (layer F.SilkS) hide
+    (fp_text reference G*** (at 10.16 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
     (fp_text value FACE (at 9.41 0) (layer F.SilkS) hide

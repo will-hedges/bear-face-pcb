@@ -2821,10 +2821,10 @@ Wire Wire Line
 Wire Wire Line
 	8000 6000 8000 6100
 $Comp
-L Device:R_Small R84
+L Device:R_Small R6
 U 1 1 5E729BAE
 P 8500 5750
-F 0 "R84" H 8559 5796 50  0000 L CNN
+F 0 "R6" H 8559 5796 50  0000 L CNN
 F 1 "10k" H 8559 5705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8500 5750 50  0001 C CNN
 F 3 "~" H 8500 5750 50  0001 C CNN
@@ -3299,4 +3299,26 @@ Wire Wire Line
 	5350 1050 5350 1750
 Connection ~ 5350 1050
 Connection ~ 5350 1750
+$Comp
+L keebio:Hole G1
+U 1 1 5E310D8F
+P 9500 5500
+F 0 "G1" H 9686 5553 60  0000 L CNN
+F 1 "FACE" H 9686 5447 60  0000 L CNN
+F 2 "bear_face_silks:cbf_small_flipped" H 9500 5500 60  0001 C CNN
+F 3 "" H 9500 5500 60  0001 C CNN
+	1    9500 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole G2
+U 1 1 5E3129DC
+P 10100 5500
+F 0 "G2" H 10286 5553 60  0000 L CNN
+F 1 "PASTA" H 10286 5447 60  0000 L CNN
+F 2 "bear_face_silks:pasta_small" H 10100 5500 60  0001 C CNN
+F 3 "" H 10100 5500 60  0001 C CNN
+	1    10100 5500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
