@@ -34,7 +34,7 @@ U 1 1 5E06CD47
 P 9050 4850
 F 0 "D80" V 9096 4782 50  0000 R CNN
 F 1 "D_Small" V 9005 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9050 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9050 4850 50  0001 C CNN
 F 3 "~" V 9050 4850 50  0001 C CNN
 	1    9050 4850
 	0    -1   -1   0   
@@ -58,7 +58,7 @@ U 1 1 5E06CD3A
 P 9550 4850
 F 0 "D81" V 9596 4782 50  0000 R CNN
 F 1 "D_Small" V 9505 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9550 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9550 4850 50  0001 C CNN
 F 3 "~" V 9550 4850 50  0001 C CNN
 	1    9550 4850
 	0    -1   -1   0   
@@ -82,7 +82,7 @@ U 1 1 5E06CD2D
 P 10050 4850
 F 0 "D82" V 10096 4782 50  0000 R CNN
 F 1 "D_Small" V 10005 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10050 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10050 4850 50  0001 C CNN
 F 3 "~" V 10050 4850 50  0001 C CNN
 	1    10050 4850
 	0    -1   -1   0   
@@ -106,7 +106,7 @@ U 1 1 5E06CD20
 P 10550 4850
 F 0 "D83" V 10596 4782 50  0000 R CNN
 F 1 "D_Small" V 10505 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10550 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10550 4850 50  0001 C CNN
 F 3 "~" V 10550 4850 50  0001 C CNN
 	1    10550 4850
 	0    -1   -1   0   
@@ -130,7 +130,7 @@ U 1 1 5E06CD13
 P 10550 4150
 F 0 "D73" V 10596 4082 50  0000 R CNN
 F 1 "D_Small" V 10505 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10550 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10550 4150 50  0001 C CNN
 F 3 "~" V 10550 4150 50  0001 C CNN
 	1    10550 4150
 	0    -1   -1   0   
@@ -154,7 +154,7 @@ U 1 1 5E06CD06
 P 10050 4150
 F 0 "D72" V 10096 4082 50  0000 R CNN
 F 1 "D_Small" V 10005 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10050 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10050 4150 50  0001 C CNN
 F 3 "~" V 10050 4150 50  0001 C CNN
 	1    10050 4150
 	0    -1   -1   0   
@@ -178,7 +178,7 @@ U 1 1 5E06CCF9
 P 10550 3450
 F 0 "D59" V 10596 3382 50  0000 R CNN
 F 1 "D_Small" V 10505 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10550 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10550 3450 50  0001 C CNN
 F 3 "~" V 10550 3450 50  0001 C CNN
 	1    10550 3450
 	0    -1   -1   0   
@@ -202,7 +202,7 @@ U 1 1 5E060A2F
 P 8050 4850
 F 0 "D78" V 8096 4782 50  0000 R CNN
 F 1 "D_Small" V 8005 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8050 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8050 4850 50  0001 C CNN
 F 3 "~" V 8050 4850 50  0001 C CNN
 	1    8050 4850
 	0    -1   -1   0   
@@ -215,7 +215,7 @@ U 1 1 5E060A22
 P 8550 4150
 F 0 "D70" V 8596 4082 50  0000 R CNN
 F 1 "D_Small" V 8505 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8550 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8550 4150 50  0001 C CNN
 F 3 "~" V 8550 4150 50  0001 C CNN
 	1    8550 4150
 	0    -1   -1   0   
@@ -239,7 +239,7 @@ U 1 1 5E060A15
 P 9550 4150
 F 0 "D71" V 9596 4082 50  0000 R CNN
 F 1 "D_Small" V 9505 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9550 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9550 4150 50  0001 C CNN
 F 3 "~" V 9550 4150 50  0001 C CNN
 	1    9550 4150
 	0    -1   -1   0   
@@ -252,7 +252,7 @@ U 1 1 5E060A08
 P 10050 3450
 F 0 "D58" V 10096 3382 50  0000 R CNN
 F 1 "D_Small" V 10005 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10050 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10050 3450 50  0001 C CNN
 F 3 "~" V 10050 3450 50  0001 C CNN
 	1    10050 3450
 	0    -1   -1   0   
@@ -276,7 +276,7 @@ U 1 1 5E0609FB
 P 9550 2750
 F 0 "D43" V 9596 2682 50  0000 R CNN
 F 1 "D_Small" V 9505 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9550 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9550 2750 50  0001 C CNN
 F 3 "~" V 9550 2750 50  0001 C CNN
 	1    9550 2750
 	0    -1   -1   0   
@@ -300,7 +300,7 @@ U 1 1 5E0609EE
 P 10050 2750
 F 0 "D44" V 10096 2682 50  0000 R CNN
 F 1 "D_Small" V 10005 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10050 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10050 2750 50  0001 C CNN
 F 3 "~" V 10050 2750 50  0001 C CNN
 	1    10050 2750
 	0    -1   -1   0   
@@ -326,7 +326,7 @@ U 1 1 5E0533B2
 P 7550 4150
 F 0 "D68" V 7596 4082 50  0000 R CNN
 F 1 "D_Small" V 7505 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7550 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7550 4150 50  0001 C CNN
 F 3 "~" V 7550 4150 50  0001 C CNN
 	1    7550 4150
 	0    -1   -1   0   
@@ -350,7 +350,7 @@ U 1 1 5E0533A5
 P 8050 4150
 F 0 "D69" V 8096 4082 50  0000 R CNN
 F 1 "D_Small" V 8005 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8050 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8050 4150 50  0001 C CNN
 F 3 "~" V 8050 4150 50  0001 C CNN
 	1    8050 4150
 	0    -1   -1   0   
@@ -374,7 +374,7 @@ U 1 1 5E053398
 P 8550 3450
 F 0 "D56" V 8596 3382 50  0000 R CNN
 F 1 "D_Small" V 8505 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8550 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8550 3450 50  0001 C CNN
 F 3 "~" V 8550 3450 50  0001 C CNN
 	1    8550 3450
 	0    -1   -1   0   
@@ -398,7 +398,7 @@ U 1 1 5E05338B
 P 9050 3450
 F 0 "D57" V 9096 3382 50  0000 R CNN
 F 1 "D_Small" V 9005 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9050 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9050 3450 50  0001 C CNN
 F 3 "~" V 9050 3450 50  0001 C CNN
 	1    9050 3450
 	0    -1   -1   0   
@@ -422,7 +422,7 @@ U 1 1 5E05337E
 P 9050 2750
 F 0 "D42" V 9096 2682 50  0000 R CNN
 F 1 "D_Small" V 9005 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9050 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9050 2750 50  0001 C CNN
 F 3 "~" V 9050 2750 50  0001 C CNN
 	1    9050 2750
 	0    -1   -1   0   
@@ -446,7 +446,7 @@ U 1 1 5E053357
 P 8550 1350
 F 0 "D11" V 8596 1282 50  0000 R CNN
 F 1 "D_Small" V 8505 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8550 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8550 1350 50  0001 C CNN
 F 3 "~" V 8550 1350 50  0001 C CNN
 	1    8550 1350
 	0    -1   -1   0   
@@ -470,7 +470,7 @@ U 1 1 5E0457FE
 P 7050 4150
 F 0 "D67" V 7096 4082 50  0000 R CNN
 F 1 "D_Small" V 7005 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7050 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7050 4150 50  0001 C CNN
 F 3 "~" V 7050 4150 50  0001 C CNN
 	1    7050 4150
 	0    -1   -1   0   
@@ -494,7 +494,7 @@ U 1 1 5E0457F1
 P 7550 3450
 F 0 "D54" V 7596 3382 50  0000 R CNN
 F 1 "D_Small" V 7505 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7550 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7550 3450 50  0001 C CNN
 F 3 "~" V 7550 3450 50  0001 C CNN
 	1    7550 3450
 	0    -1   -1   0   
@@ -518,7 +518,7 @@ U 1 1 5E0457E4
 P 8050 3450
 F 0 "D55" V 8096 3382 50  0000 R CNN
 F 1 "D_Small" V 8005 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8050 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8050 3450 50  0001 C CNN
 F 3 "~" V 8050 3450 50  0001 C CNN
 	1    8050 3450
 	0    -1   -1   0   
@@ -542,7 +542,7 @@ U 1 1 5E0457D7
 P 8550 2750
 F 0 "D41" V 8596 2682 50  0000 R CNN
 F 1 "D_Small" V 8505 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8550 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8550 2750 50  0001 C CNN
 F 3 "~" V 8550 2750 50  0001 C CNN
 	1    8550 2750
 	0    -1   -1   0   
@@ -566,7 +566,7 @@ U 1 1 5E0457CA
 P 8050 2750
 F 0 "D40" V 8096 2682 50  0000 R CNN
 F 1 "D_Small" V 8005 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8050 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8050 2750 50  0001 C CNN
 F 3 "~" V 8050 2750 50  0001 C CNN
 	1    8050 2750
 	0    -1   -1   0   
@@ -590,7 +590,7 @@ U 1 1 5E0457A3
 P 8050 1350
 F 0 "D10" V 8096 1282 50  0000 R CNN
 F 1 "D_Small" V 8005 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8050 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8050 1350 50  0001 C CNN
 F 3 "~" V 8050 1350 50  0001 C CNN
 	1    8050 1350
 	0    -1   -1   0   
@@ -614,7 +614,7 @@ U 1 1 5E035E0B
 P 6550 4150
 F 0 "D66" V 6596 4082 50  0000 R CNN
 F 1 "D_Small" V 6505 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6550 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6550 4150 50  0001 C CNN
 F 3 "~" V 6550 4150 50  0001 C CNN
 	1    6550 4150
 	0    -1   -1   0   
@@ -638,7 +638,7 @@ U 1 1 5E035DFE
 P 6550 3450
 F 0 "D52" V 6596 3382 50  0000 R CNN
 F 1 "D_Small" V 6505 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6550 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6550 3450 50  0001 C CNN
 F 3 "~" V 6550 3450 50  0001 C CNN
 	1    6550 3450
 	0    -1   -1   0   
@@ -662,7 +662,7 @@ U 1 1 5E035DF1
 P 7050 3450
 F 0 "D53" V 7096 3382 50  0000 R CNN
 F 1 "D_Small" V 7005 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7050 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7050 3450 50  0001 C CNN
 F 3 "~" V 7050 3450 50  0001 C CNN
 	1    7050 3450
 	0    -1   -1   0   
@@ -686,7 +686,7 @@ U 1 1 5E035DE4
 P 7550 2750
 F 0 "D39" V 7596 2682 50  0000 R CNN
 F 1 "D_Small" V 7505 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7550 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7550 2750 50  0001 C CNN
 F 3 "~" V 7550 2750 50  0001 C CNN
 	1    7550 2750
 	0    -1   -1   0   
@@ -710,7 +710,7 @@ U 1 1 5E035DD7
 P 7050 2750
 F 0 "D38" V 7096 2682 50  0000 R CNN
 F 1 "D_Small" V 7005 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7050 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7050 2750 50  0001 C CNN
 F 3 "~" V 7050 2750 50  0001 C CNN
 	1    7050 2750
 	0    -1   -1   0   
@@ -734,7 +734,7 @@ U 1 1 5E035DCA
 P 7050 2050
 F 0 "D23" V 7096 1982 50  0000 R CNN
 F 1 "D_Small" V 7005 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7050 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7050 2050 50  0001 C CNN
 F 3 "~" V 7050 2050 50  0001 C CNN
 	1    7050 2050
 	0    -1   -1   0   
@@ -758,7 +758,7 @@ U 1 1 5E035DBD
 P 7550 2050
 F 0 "D24" V 7596 1982 50  0000 R CNN
 F 1 "D_Small" V 7505 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7550 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7550 2050 50  0001 C CNN
 F 3 "~" V 7550 2050 50  0001 C CNN
 	1    7550 2050
 	0    -1   -1   0   
@@ -782,7 +782,7 @@ U 1 1 5E00EA7B
 P 6050 4850
 F 0 "D77" V 6096 4782 50  0000 R CNN
 F 1 "D_Small" V 6005 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6050 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6050 4850 50  0001 C CNN
 F 3 "~" V 6050 4850 50  0001 C CNN
 	1    6050 4850
 	0    -1   -1   0   
@@ -806,7 +806,7 @@ U 1 1 5E00EA6E
 P 6050 4150
 F 0 "D65" V 6096 4082 50  0000 R CNN
 F 1 "D_Small" V 6005 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6050 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6050 4150 50  0001 C CNN
 F 3 "~" V 6050 4150 50  0001 C CNN
 	1    6050 4150
 	0    -1   -1   0   
@@ -830,7 +830,7 @@ U 1 1 5E00EA61
 P 6050 3450
 F 0 "D51" V 6096 3382 50  0000 R CNN
 F 1 "D_Small" V 6005 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6050 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6050 3450 50  0001 C CNN
 F 3 "~" V 6050 3450 50  0001 C CNN
 	1    6050 3450
 	0    -1   -1   0   
@@ -843,7 +843,7 @@ U 1 1 5E00EA54
 P 6050 2750
 F 0 "D36" V 6096 2682 50  0000 R CNN
 F 1 "D_Small" V 6005 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6050 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6050 2750 50  0001 C CNN
 F 3 "~" V 6050 2750 50  0001 C CNN
 	1    6050 2750
 	0    -1   -1   0   
@@ -867,7 +867,7 @@ U 1 1 5E00EA47
 P 6550 2750
 F 0 "D37" V 6596 2682 50  0000 R CNN
 F 1 "D_Small" V 6505 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6550 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6550 2750 50  0001 C CNN
 F 3 "~" V 6550 2750 50  0001 C CNN
 	1    6550 2750
 	0    -1   -1   0   
@@ -891,7 +891,7 @@ U 1 1 5E00EA3A
 P 6550 2050
 F 0 "D22" V 6596 1982 50  0000 R CNN
 F 1 "D_Small" V 6505 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6550 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6550 2050 50  0001 C CNN
 F 3 "~" V 6550 2050 50  0001 C CNN
 	1    6550 2050
 	0    -1   -1   0   
@@ -915,7 +915,7 @@ U 1 1 5E00EA2D
 P 6050 2050
 F 0 "D21" V 6096 1982 50  0000 R CNN
 F 1 "D_Small" V 6005 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6050 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6050 2050 50  0001 C CNN
 F 3 "~" V 6050 2050 50  0001 C CNN
 	1    6050 2050
 	0    -1   -1   0   
@@ -939,7 +939,7 @@ U 1 1 5DFFE075
 P 5550 4150
 F 0 "D64" V 5596 4082 50  0000 R CNN
 F 1 "D_Small" V 5505 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5550 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5550 4150 50  0001 C CNN
 F 3 "~" V 5550 4150 50  0001 C CNN
 	1    5550 4150
 	0    -1   -1   0   
@@ -963,7 +963,7 @@ U 1 1 5DFFE068
 P 5050 4150
 F 0 "D63" V 5096 4082 50  0000 R CNN
 F 1 "D_Small" V 5005 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5050 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5050 4150 50  0001 C CNN
 F 3 "~" V 5050 4150 50  0001 C CNN
 	1    5050 4150
 	0    -1   -1   0   
@@ -987,7 +987,7 @@ U 1 1 5DFFE05B
 P 5050 3450
 F 0 "D49" V 5096 3382 50  0000 R CNN
 F 1 "D_Small" V 5005 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5050 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5050 3450 50  0001 C CNN
 F 3 "~" V 5050 3450 50  0001 C CNN
 	1    5050 3450
 	0    -1   -1   0   
@@ -1011,7 +1011,7 @@ U 1 1 5DFFE04E
 P 5550 3450
 F 0 "D50" V 5596 3382 50  0000 R CNN
 F 1 "D_Small" V 5505 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5550 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5550 3450 50  0001 C CNN
 F 3 "~" V 5550 3450 50  0001 C CNN
 	1    5550 3450
 	0    -1   -1   0   
@@ -1035,7 +1035,7 @@ U 1 1 5DFFE041
 P 5550 2750
 F 0 "D35" V 5596 2682 50  0000 R CNN
 F 1 "D_Small" V 5505 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5550 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5550 2750 50  0001 C CNN
 F 3 "~" V 5550 2750 50  0001 C CNN
 	1    5550 2750
 	0    -1   -1   0   
@@ -1059,7 +1059,7 @@ U 1 1 5DFFE034
 P 5050 2750
 F 0 "D34" V 5096 2682 50  0000 R CNN
 F 1 "D_Small" V 5005 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5050 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5050 2750 50  0001 C CNN
 F 3 "~" V 5050 2750 50  0001 C CNN
 	1    5050 2750
 	0    -1   -1   0   
@@ -1083,7 +1083,7 @@ U 1 1 5DFFE027
 P 5050 2050
 F 0 "D19" V 5096 1982 50  0000 R CNN
 F 1 "D_Small" V 5005 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5050 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5050 2050 50  0001 C CNN
 F 3 "~" V 5050 2050 50  0001 C CNN
 	1    5050 2050
 	0    -1   -1   0   
@@ -1096,7 +1096,7 @@ U 1 1 5DFD0215
 P 4550 4150
 F 0 "D62" V 4596 4082 50  0000 R CNN
 F 1 "D_Small" V 4505 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4550 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4550 4150 50  0001 C CNN
 F 3 "~" V 4550 4150 50  0001 C CNN
 	1    4550 4150
 	0    -1   -1   0   
@@ -1120,7 +1120,7 @@ U 1 1 5DFCF386
 P 4050 4150
 F 0 "D61" V 4096 4082 50  0000 R CNN
 F 1 "D_Small" V 4005 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4050 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4050 4150 50  0001 C CNN
 F 3 "~" V 4050 4150 50  0001 C CNN
 	1    4050 4150
 	0    -1   -1   0   
@@ -1144,7 +1144,7 @@ U 1 1 5DFCE33D
 P 4050 3450
 F 0 "D47" V 4096 3382 50  0000 R CNN
 F 1 "D_Small" V 4005 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4050 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4050 3450 50  0001 C CNN
 F 3 "~" V 4050 3450 50  0001 C CNN
 	1    4050 3450
 	0    -1   -1   0   
@@ -1168,7 +1168,7 @@ U 1 1 5DFCD65C
 P 4550 3450
 F 0 "D48" V 4596 3382 50  0000 R CNN
 F 1 "D_Small" V 4505 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4550 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4550 3450 50  0001 C CNN
 F 3 "~" V 4550 3450 50  0001 C CNN
 	1    4550 3450
 	0    -1   -1   0   
@@ -1192,7 +1192,7 @@ U 1 1 5DFCC7B4
 P 4550 2750
 F 0 "D33" V 4596 2682 50  0000 R CNN
 F 1 "D_Small" V 4505 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4550 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4550 2750 50  0001 C CNN
 F 3 "~" V 4550 2750 50  0001 C CNN
 	1    4550 2750
 	0    -1   -1   0   
@@ -1216,7 +1216,7 @@ U 1 1 5DFCB834
 P 4050 2750
 F 0 "D32" V 4096 2682 50  0000 R CNN
 F 1 "D_Small" V 4005 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4050 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4050 2750 50  0001 C CNN
 F 3 "~" V 4050 2750 50  0001 C CNN
 	1    4050 2750
 	0    -1   -1   0   
@@ -1240,7 +1240,7 @@ U 1 1 5DFCA11E
 P 4050 2050
 F 0 "D17" V 4096 1982 50  0000 R CNN
 F 1 "D_Small" V 4005 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4050 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4050 2050 50  0001 C CNN
 F 3 "~" V 4050 2050 50  0001 C CNN
 	1    4050 2050
 	0    -1   -1   0   
@@ -1253,7 +1253,7 @@ U 1 1 5DFA6931
 P 4550 4850
 F 0 "D76" V 4596 4782 50  0000 R CNN
 F 1 "D_Small" V 4505 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4550 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4550 4850 50  0001 C CNN
 F 3 "~" V 4550 4850 50  0001 C CNN
 	1    4550 4850
 	0    -1   -1   0   
@@ -1286,7 +1286,7 @@ U 1 1 5DFA5C56
 P 4050 4850
 F 0 "D75" V 4096 4782 50  0000 R CNN
 F 1 "D_Small" V 4005 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4050 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4050 4850 50  0001 C CNN
 F 3 "~" V 4050 4850 50  0001 C CNN
 	1    4050 4850
 	0    -1   -1   0   
@@ -1310,7 +1310,7 @@ U 1 1 5DFA42CF
 P 3550 4850
 F 0 "D74" V 3596 4782 50  0000 R CNN
 F 1 "D_Small" V 3505 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 3550 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 3550 4850 50  0001 C CNN
 F 3 "~" V 3550 4850 50  0001 C CNN
 	1    3550 4850
 	0    -1   -1   0   
@@ -1334,7 +1334,7 @@ U 1 1 5DFA34CF
 P 3550 4150
 F 0 "D60" V 3596 4082 50  0000 R CNN
 F 1 "D_Small" V 3505 4082 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 3550 4150 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 3550 4150 50  0001 C CNN
 F 3 "~" V 3550 4150 50  0001 C CNN
 	1    3550 4150
 	0    -1   -1   0   
@@ -1347,7 +1347,7 @@ U 1 1 5DFA23B2
 P 3550 3450
 F 0 "D46" V 3596 3382 50  0000 R CNN
 F 1 "D_Small" V 3505 3382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 3550 3450 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 3550 3450 50  0001 C CNN
 F 3 "~" V 3550 3450 50  0001 C CNN
 	1    3550 3450
 	0    -1   -1   0   
@@ -1360,7 +1360,7 @@ U 1 1 5E04F79B
 P 3550 2050
 F 0 "D16" V 3596 1982 50  0000 R CNN
 F 1 "D_Small" V 3505 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 3550 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 3550 2050 50  0001 C CNN
 F 3 "~" V 3550 2050 50  0001 C CNN
 	1    3550 2050
 	0    -1   -1   0   
@@ -1384,7 +1384,7 @@ U 1 1 5E05C746
 P 3550 2750
 F 0 "D31" V 3596 2682 50  0000 R CNN
 F 1 "D_Small" V 3505 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 3550 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 3550 2750 50  0001 C CNN
 F 3 "~" V 3550 2750 50  0001 C CNN
 	1    3550 2750
 	0    -1   -1   0   
@@ -1412,7 +1412,7 @@ U 1 1 5E0609D4
 P 10050 1350
 F 0 "D14" V 10096 1282 50  0000 R CNN
 F 1 "D_Small" V 10005 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10050 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10050 1350 50  0001 C CNN
 F 3 "~" V 10050 1350 50  0001 C CNN
 	1    10050 1350
 	0    -1   -1   0   
@@ -1445,7 +1445,7 @@ U 1 1 5DFC7643
 P 4600 1350
 F 0 "D3" V 4646 1282 50  0000 R CNN
 F 1 "D_Small" V 4555 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4600 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4600 1350 50  0001 C CNN
 F 3 "~" V 4600 1350 50  0001 C CNN
 	1    4600 1350
 	0    -1   -1   0   
@@ -1456,7 +1456,7 @@ U 1 1 5E04D84E
 P 3550 1350
 F 0 "D1" V 3596 1282 50  0000 R CNN
 F 1 "D_Small" V 3505 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 3550 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 3550 1350 50  0001 C CNN
 F 3 "~" V 3550 1350 50  0001 C CNN
 F 4 " C81598" V 3550 1350 50  0001 C CNN "LCSC#"
 	1    3550 1350
@@ -1479,7 +1479,7 @@ U 1 1 5E049BC6
 P 4050 1350
 F 0 "D2" V 4096 1282 50  0000 R CNN
 F 1 "D_Small" V 4005 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4050 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4050 1350 50  0001 C CNN
 F 3 "~" V 4050 1350 50  0001 C CNN
 F 4 " C81598" V 4050 1350 50  0001 C CNN "LCSC#"
 	1    4050 1350
@@ -1601,7 +1601,7 @@ U 1 1 5DFFE00D
 P 5550 1350
 F 0 "D5" V 5596 1282 50  0000 R CNN
 F 1 "D_Small" V 5505 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5550 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5550 1350 50  0001 C CNN
 F 3 "~" V 5550 1350 50  0001 C CNN
 	1    5550 1350
 	0    -1   -1   0   
@@ -1634,7 +1634,7 @@ U 1 1 5E00EA13
 P 6050 1350
 F 0 "D6" V 6096 1282 50  0000 R CNN
 F 1 "D_Small" V 6005 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6050 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6050 1350 50  0001 C CNN
 F 3 "~" V 6050 1350 50  0001 C CNN
 	1    6050 1350
 	0    -1   -1   0   
@@ -1645,7 +1645,7 @@ U 1 1 5E035DA3
 P 6550 1350
 F 0 "D7" V 6596 1282 50  0000 R CNN
 F 1 "D_Small" V 6505 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6550 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 6550 1350 50  0001 C CNN
 F 3 "~" V 6550 1350 50  0001 C CNN
 	1    6550 1350
 	0    -1   -1   0   
@@ -1667,7 +1667,7 @@ U 1 1 5E045796
 P 7550 1350
 F 0 "D9" V 7596 1282 50  0000 R CNN
 F 1 "D_Small" V 7505 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7550 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7550 1350 50  0001 C CNN
 F 3 "~" V 7550 1350 50  0001 C CNN
 	1    7550 1350
 	0    -1   -1   0   
@@ -1689,7 +1689,7 @@ U 1 1 5E05334A
 P 9050 1350
 F 0 "D12" V 9096 1282 50  0000 R CNN
 F 1 "D_Small" V 9005 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9050 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9050 1350 50  0001 C CNN
 F 3 "~" V 9050 1350 50  0001 C CNN
 	1    9050 1350
 	0    -1   -1   0   
@@ -1711,7 +1711,7 @@ U 1 1 5E0609C7
 P 9550 1350
 F 0 "D13" V 9596 1282 50  0000 R CNN
 F 1 "D_Small" V 9505 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9550 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9550 1350 50  0001 C CNN
 F 3 "~" V 9550 1350 50  0001 C CNN
 	1    9550 1350
 	0    -1   -1   0   
@@ -1724,7 +1724,7 @@ U 1 1 5DFC8E88
 P 4550 2050
 F 0 "D18" V 4596 1982 50  0000 R CNN
 F 1 "D_Small" V 4505 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 4550 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 4550 2050 50  0001 C CNN
 F 3 "~" V 4550 2050 50  0001 C CNN
 	1    4550 2050
 	0    -1   -1   0   
@@ -1750,7 +1750,7 @@ U 1 1 5DFFE01A
 P 5100 1350
 F 0 "D4" V 5146 1282 50  0000 R CNN
 F 1 "D_Small" V 5055 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5100 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5100 1350 50  0001 C CNN
 F 3 "~" V 5100 1350 50  0001 C CNN
 	1    5100 1350
 	0    -1   -1   0   
@@ -1776,7 +1776,7 @@ U 1 1 5E00EA20
 P 5550 2050
 F 0 "D20" V 5596 1982 50  0000 R CNN
 F 1 "D_Small" V 5505 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 5550 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 5550 2050 50  0001 C CNN
 F 3 "~" V 5550 2050 50  0001 C CNN
 	1    5550 2050
 	0    -1   -1   0   
@@ -1802,7 +1802,7 @@ U 1 1 5E035DB0
 P 7050 1350
 F 0 "D8" V 7096 1282 50  0000 R CNN
 F 1 "D_Small" V 7005 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7050 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 7050 1350 50  0001 C CNN
 F 3 "~" V 7050 1350 50  0001 C CNN
 	1    7050 1350
 	0    -1   -1   0   
@@ -1832,7 +1832,7 @@ U 1 1 5E06CCEC
 P 10550 2750
 F 0 "D45" V 10596 2682 50  0000 R CNN
 F 1 "D_Small" V 10505 2682 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10550 2750 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10550 2750 50  0001 C CNN
 F 3 "~" V 10550 2750 50  0001 C CNN
 	1    10550 2750
 	0    -1   -1   0   
@@ -1856,7 +1856,7 @@ U 1 1 5E07CC3D
 P 10550 1350
 F 0 "D15" V 10596 1282 50  0000 R CNN
 F 1 "D_Small" V 10505 1282 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10550 1350 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10550 1350 50  0001 C CNN
 F 3 "~" V 10550 1350 50  0001 C CNN
 	1    10550 1350
 	0    -1   -1   0   
@@ -1880,7 +1880,7 @@ U 1 1 5E0457B0
 P 8550 2050
 F 0 "D26" V 8596 1982 50  0000 R CNN
 F 1 "D_Small" V 8505 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8550 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8550 2050 50  0001 C CNN
 F 3 "~" V 8550 2050 50  0001 C CNN
 	1    8550 2050
 	0    -1   -1   0   
@@ -1904,7 +1904,7 @@ U 1 1 5E0457BD
 P 8050 2050
 F 0 "D25" V 8096 1982 50  0000 R CNN
 F 1 "D_Small" V 8005 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8050 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8050 2050 50  0001 C CNN
 F 3 "~" V 8050 2050 50  0001 C CNN
 	1    8050 2050
 	0    -1   -1   0   
@@ -1928,7 +1928,7 @@ U 1 1 5E053364
 P 9050 2050
 F 0 "D27" V 9096 1982 50  0000 R CNN
 F 1 "D_Small" V 9005 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9050 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9050 2050 50  0001 C CNN
 F 3 "~" V 9050 2050 50  0001 C CNN
 	1    9050 2050
 	0    -1   -1   0   
@@ -1952,7 +1952,7 @@ U 1 1 5E053371
 P 9550 2050
 F 0 "D28" V 9596 1982 50  0000 R CNN
 F 1 "D_Small" V 9505 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9550 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 9550 2050 50  0001 C CNN
 F 3 "~" V 9550 2050 50  0001 C CNN
 	1    9550 2050
 	0    -1   -1   0   
@@ -1976,7 +1976,7 @@ U 1 1 5E0609E1
 P 10050 2050
 F 0 "D29" V 10096 1982 50  0000 R CNN
 F 1 "D_Small" V 10005 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10050 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10050 2050 50  0001 C CNN
 F 3 "~" V 10050 2050 50  0001 C CNN
 	1    10050 2050
 	0    -1   -1   0   
@@ -2000,7 +2000,7 @@ U 1 1 5E07CC4A
 P 10550 2050
 F 0 "D30" V 10596 1982 50  0000 R CNN
 F 1 "D_Small" V 10505 1982 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10550 2050 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 10550 2050 50  0001 C CNN
 F 3 "~" V 10550 2050 50  0001 C CNN
 	1    10550 2050
 	0    -1   -1   0   
@@ -3063,7 +3063,7 @@ U 1 1 5E33D046
 P 5850 7100
 F 0 "R4" H 5909 7146 50  0000 L CNN
 F 1 "4.7k" H 5909 7055 50  0000 L CNN
-F 2 "Keebio-Parts:Resistor-Hybrid" H 5850 7100 50  0001 C CNN
+F 2 "bear_face_parts:Resistor-Hybrid-Back" H 5850 7100 50  0001 C CNN
 F 3 "~" H 5850 7100 50  0001 C CNN
 	1    5850 7100
 	1    0    0    -1  
@@ -3210,7 +3210,7 @@ U 1 1 5E06CD54
 P 8550 4850
 F 0 "D79" V 8596 4782 50  0000 R CNN
 F 1 "D_Small" V 8505 4782 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8550 4850 50  0001 C CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 8550 4850 50  0001 C CNN
 F 3 "~" V 8550 4850 50  0001 C CNN
 	1    8550 4850
 	0    -1   -1   0   
@@ -3252,8 +3252,8 @@ L Device:R_Small R5
 U 1 1 5E6C94F1
 P 3700 3400
 F 0 "R5" H 3759 3446 50  0000 L CNN
-F 1 "R_Small" H 3759 3355 50  0000 L CNN
-F 2 "Keebio-Parts:Resistor-Hybrid" H 3700 3400 50  0001 C CNN
+F 1 "470" H 3759 3355 50  0000 L CNN
+F 2 "bear_face_parts:Resistor-Hybrid-Back" H 3700 3400 50  0001 C CNN
 F 3 "~" H 3700 3400 50  0001 C CNN
 	1    3700 3400
 	1    0    0    -1  
