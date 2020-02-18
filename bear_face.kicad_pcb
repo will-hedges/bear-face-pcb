@@ -459,7 +459,7 @@
   )
 
   (module bear_face_silks:pasta_small (layer F.Cu) (tedit 0) (tstamp 5E2DEF62)
-    (at 241.2848 110.3243)
+    (at 252.349 113.284)
     (path /5E3129DC)
     (fp_text reference G2 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -7285,7 +7285,7 @@
   )
 
   (module bear_face_silks:cbf_small_flipped (layer F.Cu) (tedit 5E200675) (tstamp 5E2DED6D)
-    (at 139.6912 125.4046)
+    (at 153.289 124.968)
     (path /5E310D8F)
     (fp_text reference G1 (at 10.16 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -15289,7 +15289,7 @@
   (gr_arc (start 64.92748 176.657917) (end 59.84748 176.657917) (angle -89.65616738) (layer Edge.Cuts) (width 0.12))
   (gr_arc (start 59.817 143.129) (end 59.817 146.177) (angle -178.8) (layer Edge.Cuts) (width 0.12))
   (gr_arc (start 63.6905 72.898) (end 63.6905 69.088) (angle -90) (layer Edge.Cuts) (width 0.12))
-  (gr_text "bear_face v1\ndesigned by /u/chemicalwill" (at 220.853 170.688) (layer B.SilkS)
+  (gr_text "bear_face v1.0\ndesigned by /u/chemicalwill" (at 220.853 170.688) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_line (start 59.8805 83.439) (end 59.8805 72.898) (layer Edge.Cuts) (width 0.12) (tstamp 5E0BC066))

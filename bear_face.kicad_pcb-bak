@@ -88,7 +88,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "D:/Desktop/test gerbers/"))
+      (outputdirectory "gerbers/"))
   )
 
   (net 0 "")
@@ -459,7 +459,7 @@
   )
 
   (module bear_face_silks:pasta_small (layer F.Cu) (tedit 0) (tstamp 5E2DEF62)
-    (at 241.2848 110.3243)
+    (at 252.349 113.284)
     (path /5E3129DC)
     (fp_text reference G2 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -7285,7 +7285,7 @@
   )
 
   (module bear_face_silks:cbf_small_flipped (layer F.Cu) (tedit 5E200675) (tstamp 5E2DED6D)
-    (at 139.6912 125.4046)
+    (at 153.289 124.968)
     (path /5E310D8F)
     (fp_text reference G1 (at 10.16 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -16688,7 +16688,7 @@
   (segment (start 149.05183 178.03242) (end 150.2765 176.80775) (width 0.254) (layer B.Cu) (net 126))
   (segment (start 147.601 178.03242) (end 149.05183 178.03242) (width 0.254) (layer B.Cu) (net 126) (status 10))
 
-  (zone (net 84) (net_name GND) (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 84) (net_name GND) (layer B.Cu) (tstamp 5E4436DF) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -21832,7 +21832,7 @@
       )
     )
   )
-  (zone (net 84) (net_name GND) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 84) (net_name GND) (layer F.Cu) (tstamp 5E4436DC) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
