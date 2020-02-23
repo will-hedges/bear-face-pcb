@@ -3103,9 +3103,9 @@ F 3 "" H 5000 6550 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5000 6550 5000 6500
-Text GLabel 5500 5900 2    50   Input ~ 0
+Text GLabel 4500 6100 0    50   Input ~ 0
 DA-
-Text GLabel 5500 6100 2    50   Input ~ 0
+Text GLabel 5500 5900 2    50   Input ~ 0
 DA+
 Wire Wire Line
 	1100 2800 1200 2800
@@ -3226,47 +3226,43 @@ U 1 1 5E38C6F7
 P 6700 5600
 F 0 "J2" H 6750 5917 50  0000 C CNN
 F 1 "Conn_02x03_Odd_Even" H 6750 5826 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" H 6700 5600 50  0001 C CNN
+F 2 "bear_face_parts:2x3pinsocketOFFSET" H 6700 5600 50  0001 C CNN
 F 3 "~" H 6700 5600 50  0001 C CNN
 	1    6700 5600
 	1    0    0    -1  
 $EndComp
-Text GLabel 7000 5500 2    50   Input ~ 0
+Text GLabel 6500 5600 0    50   Input ~ 0
 SCLK
 Text GLabel 7000 5600 2    50   Input ~ 0
 MOSI
-Text GLabel 7000 5700 2    50   Input ~ 0
+Text GLabel 6500 5500 0    50   Input ~ 0
 MISO
 Text GLabel 8600 6100 2    50   Input ~ 0
 RESET
 Text GLabel 1800 3800 0    50   Input ~ 0
 RESET
-Text GLabel 6500 5600 0    50   Input ~ 0
+Text GLabel 6500 5700 0    50   Input ~ 0
 RESET
-Wire Wire Line
-	6500 5500 6100 5500
 $Comp
 L power:GND #PWR0105
 U 1 1 5E4F520E
-P 6100 5500
-F 0 "#PWR0105" H 6100 5250 50  0001 C CNN
-F 1 "GND" H 6105 5327 50  0000 C CNN
-F 2 "" H 6100 5500 50  0001 C CNN
-F 3 "" H 6100 5500 50  0001 C CNN
-	1    6100 5500
+P 7250 5700
+F 0 "#PWR0105" H 7250 5450 50  0001 C CNN
+F 1 "GND" H 7255 5527 50  0000 C CNN
+F 2 "" H 7250 5700 50  0001 C CNN
+F 3 "" H 7250 5700 50  0001 C CNN
+	1    7250 5700
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6500 5700 5950 5700
 $Comp
 L power:+5V #PWR0106
 U 1 1 5E54EE72
-P 5950 5700
-F 0 "#PWR0106" H 5950 5550 50  0001 C CNN
-F 1 "+5V" H 5965 5873 50  0000 C CNN
-F 2 "" H 5950 5700 50  0001 C CNN
-F 3 "" H 5950 5700 50  0001 C CNN
-	1    5950 5700
+P 7250 5500
+F 0 "#PWR0106" H 7250 5350 50  0001 C CNN
+F 1 "+5V" H 7265 5673 50  0000 C CNN
+F 2 "" H 7250 5500 50  0001 C CNN
+F 3 "" H 7250 5500 50  0001 C CNN
+	1    7250 5500
 	1    0    0    -1  
 $EndComp
 Connection ~ 3850 1750
@@ -3414,4 +3410,8 @@ Wire Wire Line
 	1500 2200 2050 2200
 Wire Wire Line
 	1650 4600 1800 4600
+Wire Wire Line
+	7000 5500 7250 5500
+Wire Wire Line
+	7000 5700 7250 5700
 $EndSCHEMATC
