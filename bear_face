@@ -188,7 +188,7 @@ Reference, Value, Footprint, Datasheet, LCSC#
 "R4","4.7k","bear_face_parts:Resistor-Hybrid-Back","~","C17673"
 "Q1","2N7002","Package_TO_SOT_SMD:SOT-23","https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf","C8545"
 "U1","ATmega32U4-AU","Keebio-Parts:ATMEGA32U4-AU","http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf","C44854"
-"J2","Conn_02x03_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical","~"
+"J2","Conn_02x03_Odd_Even","bear_face_parts:2x3pinsocketOFFSET","~"
 "D79","D_Small","bear_face_parts:Diode-Hybrid-Back","~","C81598"
 "MX71","MX-NoLED","bear_face_parts:MXOnly-1.75U-NoLED",""
 "MX46","MX-NoLED","bear_face_parts:MXOnly-1.75U-CapsLED-XD75-socket",""
