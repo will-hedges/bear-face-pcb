@@ -3226,7 +3226,7 @@ U 1 1 5E38C6F7
 P 6700 5600
 F 0 "J2" H 6750 5917 50  0000 C CNN
 F 1 "Conn_02x03_Odd_Even" H 6750 5826 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" H 6700 5600 50  0001 C CNN
+F 2 "bear_face_parts:2x3pinsocketOFFSET" H 6700 5600 50  0001 C CNN
 F 3 "~" H 6700 5600 50  0001 C CNN
 	1    6700 5600
 	1    0    0    -1  
@@ -3313,7 +3313,7 @@ U 1 1 5DFA23B8
 P 3700 3200
 F 0 "MX46" H 3733 3423 60  0000 C CNN
 F 1 "MX-NoLED" H 3733 3349 20  0000 C CNN
-F 2 "bear_face_parts:MXOnly-1.75U-CapsLED-XD75-socket" H 3075 3175 60  0001 C CNN
+F 2 "bear_face_parts:MXOnly-Stepped-CapsLED-XD75-socket" H 3075 3175 60  0001 C CNN
 F 3 "" H 3075 3175 60  0001 C CNN
 	1    3700 3200
 	1    0    0    -1  
