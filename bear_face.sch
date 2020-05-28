@@ -274,7 +274,7 @@ U 1 1 5E060A02
 P 10200 3200
 F 0 "MX58" H 10233 3423 60  0000 C CNN
 F 1 "MX-NoLED" H 10233 3349 20  0000 C CNN
-F 2 "bear_face_parts:MXOnly-2.25U-NoLED-NoStabs" H 9575 3175 60  0001 C CNN
+F 2 "bear_face_parts:MXOnly-Split-2.25U" H 9575 3175 60  0001 C CNN
 F 3 "" H 9575 3175 60  0001 C CNN
 	1    10200 3200
 	1    0    0    -1  
@@ -2625,9 +2625,6 @@ Wire Wire Line
 Connection ~ 8550 4250
 Connection ~ 9050 3550
 Wire Wire Line
-	9050 3550 10050 3550
-Connection ~ 9850 2450
-Wire Wire Line
 	9350 4550 9350 3150
 Connection ~ 9350 3150
 $Comp
@@ -3292,10 +3289,7 @@ Wire Wire Line
 	3850 2450 3850 3150
 Connection ~ 3850 3150
 Wire Wire Line
-	9850 3850 9850 2450
-Wire Wire Line
 	9850 3850 9850 4550
-Connection ~ 9850 3850
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX71
 U 1 1 5E060A0F
@@ -3414,4 +3408,10 @@ Wire Wire Line
 	7000 5500 7250 5500
 Wire Wire Line
 	7000 5700 7250 5700
+Connection ~ 9850 3850
+Connection ~ 9850 2450
+Wire Wire Line
+	9850 2450 9850 3850
+Wire Wire Line
+	9050 3550 10050 3550
 $EndSCHEMATC
