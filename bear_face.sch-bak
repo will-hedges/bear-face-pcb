@@ -3313,7 +3313,7 @@ U 1 1 5DFA23B8
 P 3700 3200
 F 0 "MX46" H 3733 3423 60  0000 C CNN
 F 1 "MX-NoLED" H 3733 3349 20  0000 C CNN
-F 2 "bear_face_parts:MXOnly-Stepped-CapsLED-XD75-socket" H 3075 3175 60  0001 C CNN
+F 2 "bear_face_parts:MXOnly-Stepped-Caps-XD75-socket" H 3075 3175 60  0001 C CNN
 F 3 "" H 3075 3175 60  0001 C CNN
 	1    3700 3200
 	1    0    0    -1  
