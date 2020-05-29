@@ -1,4 +1,4 @@
-17366920543032327
+17370184963392332
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76790,13 +76790,6 @@ Diode-dual
 10
 2
 bear_face_parts
-MX-1.25U-NoLED
-
-
-0
-2
-2
-bear_face_parts
 MXOnly-1.5U-NoLED
 
 
@@ -76810,6 +76803,13 @@ MXOnly-1.25U-NoLED
 0
 2
 2
+bear_face_parts
+MXOnly-1.25U-XD75RE
+
+
+0
+4
+4
 bear_face_parts
 MXOnly-1.75U-CapsLED-XD75-socket
 
@@ -76902,7 +76902,21 @@ MXOnly-Split-2.25U
 4
 2
 bear_face_parts
-MXOnly-Stepped-Caps-XD75-socket
+MXOnly-Split-Enter
+
+
+0
+4
+2
+bear_face_parts
+MXOnly-Split-LShift
+
+
+0
+4
+2
+bear_face_parts
+MXOnly-Stepped-Caps-XD75
 
 
 0
