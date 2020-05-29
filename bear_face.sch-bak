@@ -1398,18 +1398,6 @@ F 4 "C81598" V 3550 4150 50  0001 C CNN "LCSC#"
 $EndComp
 Wire Wire Line
 	3550 4050 3650 4050
-$Comp
-L Device:D_Small D46
-U 1 1 5DFA23B2
-P 3550 3450
-F 0 "D46" V 3596 3382 50  0000 R CNN
-F 1 "D_Small" V 3505 3382 50  0000 R CNN
-F 2 "bear_face_parts:Diode-Hybrid-Back" V 3550 3450 50  0001 C CNN
-F 3 "~" V 3550 3450 50  0001 C CNN
-F 4 "C81598" V 3550 3450 50  0001 C CNN "LCSC#"
-	1    3550 3450
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	3550 3350 3650 3350
 $Comp
@@ -3286,18 +3274,6 @@ F 3 "" H 3075 3175 60  0001 C CNN
 	1    3700 3200
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:R_Small R5
-U 1 1 5E6C94F1
-P 3700 3400
-F 0 "R5" H 3759 3446 50  0000 L CNN
-F 1 "470" H 3759 3355 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3700 3400 50  0001 C CNN
-F 3 "~" H 3700 3400 50  0001 C CNN
-F 4 "C17710" H 3700 3400 50  0001 C CNN "LCSC#"
-	1    3700 3400
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3800 3200 3400 3200
 $Comp
@@ -3313,8 +3289,6 @@ F 3 "" H 3400 3200 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3700 3500 3300 3500
-Text GLabel 3300 3500 1    50   Input ~ 0
-LEDOUT
 Wire Wire Line
 	4050 1450 4550 1450
 Wire Wire Line
@@ -3476,4 +3450,30 @@ Wire Wire Line
 	9050 3550 9550 3550
 Wire Wire Line
 	9550 3350 9650 3350
+Text GLabel 3300 3500 1    50   Input ~ 0
+LEDOUT
+$Comp
+L Device:R_Small R5
+U 1 1 5E6C94F1
+P 3700 3400
+F 0 "R5" H 3759 3446 50  0000 L CNN
+F 1 "470" H 3759 3355 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3700 3400 50  0001 C CNN
+F 3 "~" H 3700 3400 50  0001 C CNN
+F 4 "C17710" H 3700 3400 50  0001 C CNN "LCSC#"
+	1    3700 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D46
+U 1 1 5DFA23B2
+P 3550 3450
+F 0 "D46" V 3596 3382 50  0000 R CNN
+F 1 "D_Small" V 3505 3382 50  0000 R CNN
+F 2 "bear_face_parts:Diode-Hybrid-Back" V 3550 3450 50  0001 C CNN
+F 3 "~" V 3550 3450 50  0001 C CNN
+F 4 "C81598" V 3550 3450 50  0001 C CNN "LCSC#"
+	1    3550 3450
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
