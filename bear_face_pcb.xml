@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>D:\Documents\GitHub\bear_face_pcb\bear_face.sch</source>
-    <date>5/29/2020 16:11:34</date>
+    <source>D:\Documents\GitHub\bear_face_pcb\bear_face_pcb.sch</source>
+    <date>6/2/2020 13:12:44</date>
     <tool>Eeschema (5.1.5)-3</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>bear_face.sch</source>
+        <source>bear_face_pcb.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -1665,10 +1665,10 @@
     </comp>
     <comp ref="Y1">
       <value>16MHz</value>
-      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering</footprint>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC#">C89379</field>
+        <field name="LCSC#">C13738</field>
       </fields>
       <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
       <sheetpath names="/" tstamps="/"/>

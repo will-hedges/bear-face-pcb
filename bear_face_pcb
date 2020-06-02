@@ -181,7 +181,7 @@ Reference, Value, Footprint, Datasheet, LCSC#
 "R6","10k","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C17414"
 "R3","10k","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C17414"
 "J1","USB_B_Micro","Connector_USB:USB_Micro-B_Wuerth_629105150521","~"
-"Y1","16MHz","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering","~","C89379"
+"Y1","16MHz","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","~","C13738"
 "U2","SRV05-4","Package_TO_SOT_SMD:SOT-23-6","http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF","C85364"
 "R4","4.7k","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C17673"
 "Q1","2N7002","Package_TO_SOT_SMD:SOT-23","https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf","C8545"
