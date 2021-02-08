@@ -15493,7 +15493,7 @@
   (gr_arc (start 59.86975 144.729) (end 59.86975 148.729) (angle -180) (layer Edge.Cuts) (width 0.12))
   (gr_arc (start 64.92748 176.517917) (end 59.84748 176.517917) (angle -89.65616738) (layer Edge.Cuts) (width 0.12))
   (gr_arc (start 63.6905 73.258) (end 63.6905 69.448) (angle -90) (layer Edge.Cuts) (width 0.12))
-  (gr_text "bear_face v2.0\ndesigned by /u/chemicalwill" (at 220.853 170.688) (layer B.SilkS)
+  (gr_text "bear_face v2.1\ndesigned by /u/chemicalwill" (at 220.853 170.688) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_line (start 59.89515 83.037) (end 59.8805 73.258) (layer Edge.Cuts) (width 0.12) (tstamp 5E0BC066))
