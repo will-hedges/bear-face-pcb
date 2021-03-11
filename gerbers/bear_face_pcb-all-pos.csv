@@ -1,7 +1,7 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
 "C1","22pF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",166.973200,-174.682400,0.000000,bottom
 "C2","22pF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",166.973200,-165.158000,180.000000,bottom
-"C3","1uF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",153.950600,-159.602100,180.000000,bottom
+"C3","1uF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",153.950600,-159.893000,180.000000,bottom
 "C4","100nF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",161.093900,-177.063500,90.000000,bottom
 "C5","100nF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",160.528050,-162.401300,270.000000,bottom
 "C6","100nF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",145.219900,-177.006150,270.000000,bottom
