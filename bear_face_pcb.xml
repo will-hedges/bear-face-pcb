@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>D:\Documents\GitHub\bear_face_pcb\bear_face_pcb.sch</source>
-    <date>3/11/2021 08:58:30</date>
+    <date>3/11/2021 11:25:12</date>
     <tool>Eeschema (5.1.5)-3</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1528,7 +1528,7 @@
     </comp>
     <comp ref="R1">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C17561</field>
@@ -1539,7 +1539,7 @@
     </comp>
     <comp ref="R2">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C17561</field>
@@ -1550,7 +1550,7 @@
     </comp>
     <comp ref="C3">
       <value>1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C28323</field>
@@ -1561,7 +1561,7 @@
     </comp>
     <comp ref="C4">
       <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C49678</field>
@@ -1572,7 +1572,7 @@
     </comp>
     <comp ref="C5">
       <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C49678</field>
@@ -1583,7 +1583,7 @@
     </comp>
     <comp ref="C6">
       <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C49678</field>
@@ -1594,7 +1594,7 @@
     </comp>
     <comp ref="C7">
       <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C15850</field>
@@ -1613,7 +1613,7 @@
     </comp>
     <comp ref="C1">
       <value>22pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C1804</field>
@@ -1624,7 +1624,7 @@
     </comp>
     <comp ref="C2">
       <value>22pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C1804</field>
@@ -1635,7 +1635,7 @@
     </comp>
     <comp ref="R6">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C17414</field>
@@ -1646,7 +1646,7 @@
     </comp>
     <comp ref="R3">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C17414</field>
@@ -1687,7 +1687,7 @@
     </comp>
     <comp ref="R4">
       <value>4.7k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C17673</field>
@@ -1821,7 +1821,7 @@
     </comp>
     <comp ref="R5">
       <value>470</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC#">C17710</field>
