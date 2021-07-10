@@ -3037,7 +3037,7 @@ F 4 "C85364" H 5000 6000 50  0001 C CNN "LCSC#"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5000 5500 5250 5500
+	5000 5500 5200 5500
 $Comp
 L power:+5V #PWR0103
 U 1 1 5E32F6EA
@@ -3351,8 +3351,6 @@ Wire Wire Line
 Wire Wire Line
 	1500 2200 2050 2200
 Wire Wire Line
-	1650 4600 1800 4600
-Wire Wire Line
 	7000 5500 7250 5500
 Wire Wire Line
 	7000 5700 7250 5700
@@ -3476,4 +3474,11 @@ F 4 "C81598" V 3550 3450 50  0001 C CNN "LCSC#"
 	1    3550 3450
 	0    -1   -1   0   
 $EndComp
+NoConn ~ 4500 5900
+NoConn ~ 5500 6100
+Connection ~ 2800 2200
+Wire Wire Line
+	5200 5500 5250 5500
+Wire Wire Line
+	1650 4600 1800 4600
 $EndSCHEMATC
