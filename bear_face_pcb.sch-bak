@@ -3051,7 +3051,7 @@ Wire Wire Line
 	5000 6550 5000 6500
 Text GLabel 4500 6100 0    50   Input ~ 0
 DA-
-Text GLabel 5500 5900 2    50   Input ~ 0
+Text GLabel 5500 5850 2    50   Input ~ 0
 DA+
 Wire Wire Line
 	1100 2800 1200 2800
@@ -3415,13 +3415,13 @@ Wire Wire Line
 $Comp
 L Power_Protection:SRV05-4 U2
 U 1 1 5E2D85C4
-P 5000 5950
-F 0 "U2" H 5000 6631 50  0000 C CNN
-F 1 "SRV05-4" H 5000 6540 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-23-6" H 5700 5500 50  0001 C CNN
-F 3 "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" H 5000 5950 50  0001 C CNN
-F 4 "C85364" H 5000 5950 50  0001 C CNN "LCSC#"
-	1    5000 5950
+P 5000 6000
+F 0 "U2" H 5000 6681 50  0000 C CNN
+F 1 "SRV05-4" H 5000 6590 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6" H 5700 5550 50  0001 C CNN
+F 3 "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" H 5000 6000 50  0001 C CNN
+F 4 "C85364" H 5000 6000 50  0001 C CNN "LCSC#"
+	1    5000 6000
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
