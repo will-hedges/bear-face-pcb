@@ -2722,17 +2722,6 @@ F 4 "C15850" H 4800 7200 50  0001 C CNN "LCSC#"
 	1    4800 7200
 	1    0    0    -1  
 $EndComp
-$Comp
-L Switch:SW_Push SW1
-U 1 1 5DFE33D6
-P 8200 6100
-F 0 "SW1" H 8200 6385 50  0000 C CNN
-F 1 "SW_Push" H 8200 6294 50  0000 C CNN
-F 2 "bear_face_parts:PushButton_6x6mm_TH_Pretty" H 8200 6300 50  0001 C CNN
-F 3 "~" H 8200 6300 50  0001 C CNN
-	1    8200 6100
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3600 7100 4000 7100
 Connection ~ 4000 7100
@@ -3422,6 +3411,17 @@ F 2 "Package_TO_SOT_SMD:SOT-23-6" H 5700 5550 50  0001 C CNN
 F 3 "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" H 5000 6000 50  0001 C CNN
 F 4 "C85364" H 5000 6000 50  0001 C CNN "LCSC#"
 	1    5000 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5DFE33D6
+P 8200 6100
+F 0 "SW1" H 8200 6385 50  0000 C CNN
+F 1 "RESET" H 8200 6294 50  0000 C CNN
+F 2 "bear_face_parts:PushButton_6x6mm_TH_Pretty" H 8200 6300 50  0001 C CNN
+F 3 "~" H 8200 6300 50  0001 C CNN
+	1    8200 6100
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
