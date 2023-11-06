@@ -2959,9 +2959,9 @@ Text GLabel 1550 2450 0    50   Input ~ 0
 DB-
 Text GLabel 3300 3500 1    50   Input ~ 0
 LEDPIN
-Text GLabel 1750 5150 0    50   Input ~ 0
+Text GLabel 950  5150 0    50   Input ~ 0
 DB+
-Text GLabel 1750 5250 0    50   Input ~ 0
+Text GLabel 950  5250 0    50   Input ~ 0
 DB-
 Wire Wire Line
 	2250 7450 2350 7450
@@ -3410,10 +3410,10 @@ $EndComp
 Wire Wire Line
 	1600 2450 1550 2450
 $Comp
-L Device:R_Small R1
+L Device:R_Small R4
 U 1 1 65B37F14
 P 850 2400
-F 0 "R1" H 909 2446 50  0000 L CNN
+F 0 "R4" H 909 2446 50  0000 L CNN
 F 1 "5.1K" H 909 2355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 850 2400 50  0001 C CNN
 F 3 "~" H 850 2400 50  0001 C CNN
@@ -3425,10 +3425,10 @@ Wire Wire Line
 Wire Wire Line
 	1250 2500 1000 2500
 $Comp
-L Device:R_Small R2
+L Device:R_Small R7
 U 1 1 65B89020
 P 1000 2600
-F 0 "R2" H 1059 2646 50  0000 L CNN
+F 0 "R7" H 1059 2646 50  0000 L CNN
 F 1 "5.1K" H 1059 2555 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1000 2600 50  0001 C CNN
 F 3 "~" H 1000 2600 50  0001 C CNN
@@ -3505,4 +3505,34 @@ Wire Wire Line
 	1250 2900 1250 2500
 Wire Wire Line
 	1450 3350 1800 3350
+$Comp
+L Device:R_Small R1
+U 1 1 66036275
+P 1500 5150
+F 0 "R1" V 1304 5150 50  0000 C CNN
+F 1 "22" V 1395 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 1500 5150 50  0001 C CNN
+F 3 "~" H 1500 5150 50  0001 C CNN
+	1    1500 5150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1750 5150 1600 5150
+Wire Wire Line
+	1400 5150 950  5150
+Wire Wire Line
+	1100 5250 950  5250
+Wire Wire Line
+	1300 5250 1750 5250
+$Comp
+L Device:R_Small R2
+U 1 1 66037A5E
+P 1200 5250
+F 0 "R2" V 1004 5250 50  0000 C CNN
+F 1 "22" V 1095 5250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 1200 5250 50  0001 C CNN
+F 3 "~" H 1200 5250 50  0001 C CNN
+	1    1200 5250
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
