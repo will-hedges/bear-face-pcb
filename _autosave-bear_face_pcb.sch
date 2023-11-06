@@ -2955,14 +2955,8 @@ Text GLabel 4500 6100 0    50   Input ~ 0
 DA-
 Text GLabel 5500 5900 2    50   Input ~ 0
 DA+
-Text GLabel 1550 2450 0    50   Input ~ 0
-DB-
 Text GLabel 3300 3500 1    50   Input ~ 0
 LEDPIN
-Text GLabel 950  5150 0    50   Input ~ 0
-DB+
-Text GLabel 950  5250 0    50   Input ~ 0
-DB-
 Wire Wire Line
 	2250 7450 2350 7450
 Wire Wire Line
@@ -3367,8 +3361,6 @@ Wire Wire Line
 Connection ~ 1700 2600
 Wire Wire Line
 	1700 2600 1550 2600
-Text GLabel 1550 2600 0    50   Input ~ 0
-DB+
 Wire Wire Line
 	1700 2250 1700 2600
 Wire Wire Line
@@ -3508,31 +3500,49 @@ Wire Wire Line
 $Comp
 L Device:R_Small R1
 U 1 1 66036275
-P 1500 5150
-F 0 "R1" V 1304 5150 50  0000 C CNN
-F 1 "22" V 1395 5150 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 1500 5150 50  0001 C CNN
-F 3 "~" H 1500 5150 50  0001 C CNN
-	1    1500 5150
+P 950 5150
+F 0 "R1" V 754 5150 50  0000 C CNN
+F 1 "22" V 845 5150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 950 5150 50  0001 C CNN
+F 3 "~" H 950 5150 50  0001 C CNN
+	1    950  5150
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	1750 5150 1600 5150
-Wire Wire Line
-	1400 5150 950  5150
-Wire Wire Line
-	1100 5250 950  5250
-Wire Wire Line
-	1300 5250 1750 5250
 $Comp
 L Device:R_Small R2
 U 1 1 66037A5E
-P 1200 5250
-F 0 "R2" V 1004 5250 50  0000 C CNN
-F 1 "22" V 1095 5250 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 1200 5250 50  0001 C CNN
-F 3 "~" H 1200 5250 50  0001 C CNN
-	1    1200 5250
+P 950 5250
+F 0 "R2" V 754 5250 50  0000 C CNN
+F 1 "22" V 845 5250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 950 5250 50  0001 C CNN
+F 3 "~" H 950 5250 50  0001 C CNN
+	1    950  5250
 	0    -1   -1   0   
 $EndComp
+Text GLabel 700  5250 0    50   Input ~ 0
+DB-
+Text GLabel 700  5150 0    50   Input ~ 0
+DB+
+Text GLabel 1550 2600 0    50   Input ~ 0
+DB+
+Text GLabel 1550 2450 0    50   Input ~ 0
+DB-
+Text GLabel 1250 5150 1    50   Input ~ 0
+DD+
+Wire Wire Line
+	700  5150 850  5150
+Wire Wire Line
+	1050 5150 1250 5150
+Wire Wire Line
+	700  5250 850  5250
+Wire Wire Line
+	1050 5250 1250 5250
+Connection ~ 1250 5150
+Wire Wire Line
+	1250 5150 1750 5150
+Connection ~ 1250 5250
+Wire Wire Line
+	1250 5250 1750 5250
+Text GLabel 1250 5250 3    50   Input ~ 0
+DD-
 $EndSCHEMATC

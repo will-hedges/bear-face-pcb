@@ -1,4 +1,4 @@
-16752527869482800
+16754227157188097
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74591,6 +74591,13 @@ Resistor-Hybrid-Back
 0
 6
 2
+bear_face_parts
+USB-C-SMD_G-SWITCH_GT-USB-7010EN
+USB-C-SMD_G-SWITCH_GT-USB-7010EN footprint
+USB-C-SMD_G-SWITCH_GT-USB-7010EN footprint C3001297
+0
+16
+16
 bear_face_silks
 bearcs
 

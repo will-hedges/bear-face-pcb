@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# ATmega32U4-AU-MCU_Microchip_ATmega
+# ATmega32U4-AU-MCU_Microchip_ATmega-bear_face_pcb-rescue
 #
-DEF ATmega32U4-AU-MCU_Microchip_ATmega U 0 20 Y Y 1 F N
+DEF ATmega32U4-AU-MCU_Microchip_ATmega-bear_face_pcb-rescue U 0 20 Y Y 1 F N
 F0 "U" -500 1750 50 H V L BNN
-F1 "ATmega32U4-AU-MCU_Microchip_ATmega" 100 -1750 50 H V L TNN
+F1 "ATmega32U4-AU-MCU_Microchip_ATmega-bear_face_pcb-rescue" 100 -1750 50 H V L TNN
 F2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -60,11 +60,11 @@ X PB1 9 600 1400 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# USB_B_Micro-Connector
+# USB_B_Micro-Connector-bear_face_pcb-rescue
 #
-DEF USB_B_Micro-Connector J 0 40 Y Y 1 F N
+DEF USB_B_Micro-Connector-bear_face_pcb-rescue J 0 40 Y Y 1 F N
 F0 "J" -200 450 50 H V L CNN
-F1 "USB_B_Micro-Connector" -200 350 50 H V L CNN
+F1 "USB_B_Micro-Connector-bear_face_pcb-rescue" -200 350 50 H V L CNN
 F2 "" 150 -50 50 H I C CNN
 F3 "" 150 -50 50 H I C CNN
 $FPLIST
@@ -92,24 +92,6 @@ X D+ 3 300 0 100 L 50 50 1 1 B
 X ID 4 300 -200 100 L 50 50 1 1 P
 X GND 5 0 -400 100 U 50 50 1 1 w
 X Shield 6 -100 -400 100 U 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# XC6206PxxxMR-Regulator_Linear
-#
-DEF XC6206PxxxMR-Regulator_Linear U 0 10 Y Y 1 F N
-F0 "U" -150 125 50 H V C CNN
-F1 "XC6206PxxxMR-Regulator_Linear" 0 125 50 H V L CNN
-F2 "Package_TO_SOT_SMD:SOT-23" 0 225 50 H I C CIN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- SOT?23*
-$ENDFPLIST
-DRAW
-S -200 75 200 -200 0 1 10 f
-X GND 1 0 -300 100 U 50 50 1 1 W
-X VO 2 300 0 100 L 50 50 1 1 w
-X VI 3 -300 0 100 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
