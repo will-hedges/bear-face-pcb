@@ -1602,17 +1602,6 @@ F 3 "" H 2200 700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole H8
-U 1 1 5E160711
-P 2200 1200
-F 0 "H8" H 2386 1253 60  0000 L CNN
-F 1 "Hole" H 2386 1147 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_3mm" H 2200 1200 60  0001 C CNN
-F 3 "" H 2200 1200 60  0001 C CNN
-	1    2200 1200
-	1    0    0    -1  
-$EndComp
-$Comp
 L MX_Alps_Hybrid:MX-NoLED MX3
 U 1 1 5DFC66C3
 P 4700 1100
@@ -3310,6 +3299,7 @@ F 0 "J1" H 2345 3765 50  0000 C CNN
 F 1 "GT-USB-7010EN" H 2345 3674 50  0000 C CNN
 F 2 "bear_face_parts:USB-C-SMD_G-SWITCH_GT-USB-7010EN" H 2400 2500 50  0001 C CNN
 F 3 "" H 2400 2500 50  0001 C CNN
+F 4 "C3001297" H 2400 2600 50  0001 C CNN "LCSC#"
 	1    2400 2600
 	1    0    0    -1  
 $EndComp
@@ -3409,6 +3399,7 @@ F 0 "R3" H 909 2446 50  0000 L CNN
 F 1 "5.1K" H 909 2355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 850 2400 50  0001 C CNN
 F 3 "~" H 850 2400 50  0001 C CNN
+F 4 "" H 850 2400 50  0001 C CNN "LCSC#"
 	1    850  2400
 	1    0    0    -1  
 $EndComp
@@ -3424,6 +3415,7 @@ F 0 "R4" H 1059 2646 50  0000 L CNN
 F 1 "5.1K" H 1059 2555 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1000 2600 50  0001 C CNN
 F 3 "~" H 1000 2600 50  0001 C CNN
+F 4 "" H 1000 2600 50  0001 C CNN "LCSC#"
 	1    1000 2600
 	1    0    0    -1  
 $EndComp
@@ -3532,19 +3524,33 @@ DD+
 Wire Wire Line
 	700  5150 850  5150
 Wire Wire Line
-	1050 5150 1250 5150
-Wire Wire Line
 	700  5250 850  5250
-Wire Wire Line
-	1050 5250 1250 5250
-Connection ~ 1250 5150
-Wire Wire Line
-	1250 5150 1750 5150
-Connection ~ 1250 5250
-Wire Wire Line
-	1250 5250 1750 5250
 Text GLabel 1250 5250 3    50   Input ~ 0
 DD-
-Connection ~ 850  2300
-Connection ~ 1000 2500
+Wire Wire Line
+	1050 5150 1750 5150
+Wire Wire Line
+	1050 5250 1750 5250
+$Comp
+L Connector_Generic:Conn_01x01 H8
+U 1 1 664A148D
+P 2200 1150
+F 0 "H8" H 1850 1100 50  0000 C CNN
+F 1 "Hole" H 1850 1200 50  0000 C CNN
+F 2 "bear_face_parts:MountingHole_3mm" H 2200 1150 50  0001 C CNN
+F 3 "~" H 2200 1150 50  0001 C CNN
+	1    2200 1150
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 664D0BC7
+P 2400 1150
+F 0 "#PWR0111" H 2400 900 50  0001 C CNN
+F 1 "GND" H 2405 977 50  0000 C CNN
+F 2 "" H 2400 1150 50  0001 C CNN
+F 3 "" H 2400 1150 50  0001 C CNN
+	1    2400 1150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
