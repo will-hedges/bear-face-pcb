@@ -9,7 +9,7 @@ Comment,Designator,Footprint,LCSC
 "PASTA","G2","bear_face_silks:pasta_small",""
 "Hole","H1,H2,H3,H4,H5,H6,H7","bear_face_parts:MountingHole_6mm",""
 "Hole","H8","bear_face_parts:MountingHole_3mm",""
-"USB_B_Micro","J1","Connector_USB:USB_Micro-B_Wuerth_629105150521",""
+"USB_B_Micro","J1","Connector_USB:USB_Micro-B_GCT_USB3076-30-A",""
 "Conn_02x03_Odd_Even","J2","bear_face_parts:2x3pinsocketOFFSET",""
 "ESC","MX1","bear_face_parts:MXOnly-1.5U-NoLED",""
 "F9","MX10","bear_face_parts:MXOnly-1U-NoLED",""
