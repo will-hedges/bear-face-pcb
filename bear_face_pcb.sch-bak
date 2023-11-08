@@ -3230,35 +3230,31 @@ $EndComp
 $Comp
 L Device:R_Small R1
 U 1 1 66036275
-P 1250 5150
-F 0 "R1" V 1054 5150 50  0000 C CNN
-F 1 "22" V 1145 5150 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 1250 5150 50  0001 C CNN
-F 3 "~" H 1250 5150 50  0001 C CNN
-F 4 "C17561" V 1250 5150 50  0001 C CNN "LCSC"
-	1    1250 5150
+P 2200 2550
+F 0 "R1" V 2004 2550 50  0000 C CNN
+F 1 "22" V 2095 2550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 2200 2550 50  0001 C CNN
+F 3 "~" H 2200 2550 50  0001 C CNN
+F 4 "C17561" V 2200 2550 50  0001 C CNN "LCSC"
+	1    2200 2550
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:R_Small R2
 U 1 1 66037A5E
-P 1250 5250
-F 0 "R2" V 1054 5250 50  0000 C CNN
-F 1 "22" V 1145 5250 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 1250 5250 50  0001 C CNN
-F 3 "~" H 1250 5250 50  0001 C CNN
-F 4 "C17561" V 1250 5250 50  0001 C CNN "LCSC"
-	1    1250 5250
+P 2200 2650
+F 0 "R2" V 2004 2650 50  0000 C CNN
+F 1 "22" V 2095 2650 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 2200 2650 50  0001 C CNN
+F 3 "~" H 2200 2650 50  0001 C CNN
+F 4 "C17561" V 2200 2650 50  0001 C CNN "LCSC"
+	1    2200 2650
 	0    -1   -1   0   
 $EndComp
-Text GLabel 1000 5250 0    50   Input ~ 0
+Text GLabel 1750 5250 0    50   Input ~ 0
 DB-
-Text GLabel 1000 5150 0    50   Input ~ 0
+Text GLabel 1750 5150 0    50   Input ~ 0
 DB+
-Wire Wire Line
-	1000 5150 1150 5150
-Wire Wire Line
-	1000 5250 1150 5250
 $Comp
 L Connector_Generic:Conn_01x01 H8
 U 1 1 664A148D
@@ -3378,32 +3374,14 @@ F 3 "" H 1750 2050 50  0001 C CNN
 	1    1750 2050
 	1    0    0    -1  
 $EndComp
-Text GLabel 1800 2350 2    50   Input ~ 0
+Text GLabel 1300 2350 2    50   Input ~ 0
 DA-
-Text GLabel 1800 2250 2    50   Input ~ 0
+Text GLabel 1300 2250 2    50   Input ~ 0
 DA+
-Text GLabel 1650 2450 3    50   Input ~ 0
+Text GLabel 2350 2650 2    50   Input ~ 0
 DB-
-Text GLabel 1750 2450 3    50   Input ~ 0
+Text GLabel 2350 2550 2    50   Input ~ 0
 DB+
-Wire Wire Line
-	1800 2350 1650 2350
-Wire Wire Line
-	1800 2250 1750 2250
-Wire Wire Line
-	1650 2450 1650 2350
-Connection ~ 1750 2250
-Wire Wire Line
-	1750 2250 1300 2250
-Wire Wire Line
-	1750 2450 1750 2250
-Connection ~ 1650 2350
-Wire Wire Line
-	1650 2350 1300 2350
-Wire Wire Line
-	1350 5150 1750 5150
-Wire Wire Line
-	1350 5250 1750 5250
 $Comp
 L bear_face_pcb:USB_B_Micro-Connector J1
 U 1 1 6554DB7C
@@ -3439,4 +3417,16 @@ F 3 "" H 1150 2650 50  0001 C CNN
 	1    1150 2650
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2300 2550 2350 2550
+Wire Wire Line
+	2300 2650 2350 2650
+Text GLabel 2050 2550 0    50   Input ~ 0
+DA+
+Text GLabel 2050 2650 0    50   Input ~ 0
+DA-
+Wire Wire Line
+	2050 2550 2100 2550
+Wire Wire Line
+	2050 2650 2100 2650
 $EndSCHEMATC
