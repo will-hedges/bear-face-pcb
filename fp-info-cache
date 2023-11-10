@@ -1,4 +1,4 @@
-16757678133631347
+16759533341110600
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74430,6 +74430,13 @@ Diode-dual
 0
 10
 2
+bear_face_parts
+MINI-USB-SMD_MICRO-4P-DIP
+MINI-USB-SMD_MICRO-4P-DIP footprint
+MINI-USB-SMD_MICRO-4P-DIP footprint C456008
+0
+9
+6
 bear_face_parts
 MXOnly-1.5U-NoLED
 
