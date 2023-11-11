@@ -3031,18 +3031,7 @@ Wire Wire Line
 Connection ~ 5350 1050
 Connection ~ 5350 1750
 $Comp
-L keebio:Hole G1
-U 1 1 5E310D8F
-P 9500 5500
-F 0 "G1" H 9686 5553 60  0000 L CNN
-F 1 "FACE" H 9686 5447 60  0000 L CNN
-F 2 "bear_face_silks:cbf_small_flipped" H 9500 5500 60  0001 C CNN
-F 3 "" H 9500 5500 60  0001 C CNN
-	1    9500 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole G2
+L bear_face_pcb:Graphic G2
 U 1 1 5E3129DC
 P 10100 5500
 F 0 "G2" H 10286 5553 60  0000 L CNN
@@ -3409,9 +3398,9 @@ U 1 1 6554DB7C
 P 1000 2250
 F 0 "J1" H 1057 2717 50  0000 C CNN
 F 1 "USB_B_Micro-Connector" H 1057 2626 50  0000 C CNN
-F 2 "Connector_USB:USB_Micro-B_Wuerth_629105150521" H 1150 2200 50  0001 C CNN
+F 2 "bear_face_parts:MINI-USB-SMD_MICRO-4P-DIP" H 1150 2200 50  0001 C CNN
 F 3 "" H 1150 2200 50  0001 C CNN
-F 4 "" H 1000 2250 50  0001 C CNN "LCSC"
+F 4 "C456008" H 1000 2250 50  0001 C CNN "LCSC"
 	1    1000 2250
 	1    0    0    -1  
 $EndComp
@@ -3436,4 +3425,15 @@ Wire Wire Line
 Connection ~ 1900 2250
 Wire Wire Line
 	1900 2250 2100 2250
+$Comp
+L bear_face_pcb:Graphic G1
+U 1 1 5E310D8F
+P 9500 5500
+F 0 "G1" H 9686 5553 60  0000 L CNN
+F 1 "FACE" H 9686 5447 60  0000 L CNN
+F 2 "bear_face_silks:cbf_small_flipped" H 9500 5500 60  0001 C CNN
+F 3 "" H 9500 5500 60  0001 C CNN
+	1    9500 5500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

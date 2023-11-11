@@ -1513,34 +1513,34 @@ $EndComp
 $Comp
 L keebio:Hole H2
 U 1 1 5E007407
-P 1200 700
-F 0 "H2" H 1386 753 60  0000 L CNN
-F 1 "Hole" H 1386 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1200 700 60  0001 C CNN
-F 3 "" H 1200 700 60  0001 C CNN
-	1    1200 700 
+P 1300 700
+F 0 "H2" H 1486 753 60  0000 L CNN
+F 1 "Hole" H 1486 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1300 700 60  0001 C CNN
+F 3 "" H 1300 700 60  0001 C CNN
+	1    1300 700 
 	1    0    0    -1  
 $EndComp
 $Comp
 L keebio:Hole H3
 U 1 1 5E00740D
-P 1700 700
-F 0 "H3" H 1886 753 60  0000 L CNN
-F 1 "Hole" H 1886 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1700 700 60  0001 C CNN
-F 3 "" H 1700 700 60  0001 C CNN
-	1    1700 700 
+P 1900 700
+F 0 "H3" H 2086 753 60  0000 L CNN
+F 1 "Hole" H 2086 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1900 700 60  0001 C CNN
+F 3 "" H 1900 700 60  0001 C CNN
+	1    1900 700 
 	1    0    0    -1  
 $EndComp
 $Comp
 L keebio:Hole H7
 U 1 1 5E01E2A7
-P 1700 1200
-F 0 "H7" H 1886 1253 60  0000 L CNN
-F 1 "Hole" H 1886 1147 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1700 1200 60  0001 C CNN
-F 3 "" H 1700 1200 60  0001 C CNN
-	1    1700 1200
+P 1900 1200
+F 0 "H7" H 2086 1253 60  0000 L CNN
+F 1 "Hole" H 2086 1147 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1900 1200 60  0001 C CNN
+F 3 "" H 1900 1200 60  0001 C CNN
+	1    1900 1200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1568,23 +1568,23 @@ $EndComp
 $Comp
 L keebio:Hole H6
 U 1 1 5E04EBAD
-P 1200 1200
-F 0 "H6" H 1386 1253 60  0000 L CNN
-F 1 "Hole" H 1386 1147 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1200 1200 60  0001 C CNN
-F 3 "" H 1200 1200 60  0001 C CNN
-	1    1200 1200
+P 1300 1200
+F 0 "H6" H 1486 1253 60  0000 L CNN
+F 1 "Hole" H 1486 1147 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1300 1200 60  0001 C CNN
+F 3 "" H 1300 1200 60  0001 C CNN
+	1    1300 1200
 	1    0    0    -1  
 $EndComp
 $Comp
 L keebio:Hole H4
 U 1 1 5E04EBB9
-P 2200 700
-F 0 "H4" H 2386 753 60  0000 L CNN
-F 1 "Hole" H 2386 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 2200 700 60  0001 C CNN
-F 3 "" H 2200 700 60  0001 C CNN
-	1    2200 700 
+P 2500 700
+F 0 "H4" H 2686 753 60  0000 L CNN
+F 1 "Hole" H 2686 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 2500 700 60  0001 C CNN
+F 3 "" H 2500 700 60  0001 C CNN
+	1    2500 700 
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3031,18 +3031,7 @@ Wire Wire Line
 Connection ~ 5350 1050
 Connection ~ 5350 1750
 $Comp
-L keebio:Hole G1
-U 1 1 5E310D8F
-P 9500 5500
-F 0 "G1" H 9686 5553 60  0000 L CNN
-F 1 "FACE" H 9686 5447 60  0000 L CNN
-F 2 "bear_face_silks:cbf_small_flipped" H 9500 5500 60  0001 C CNN
-F 3 "" H 9500 5500 60  0001 C CNN
-	1    9500 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole G2
+L bear_face_pcb:Graphic G2
 U 1 1 5E3129DC
 P 10100 5500
 F 0 "G2" H 10286 5553 60  0000 L CNN
@@ -3258,23 +3247,23 @@ DB+
 $Comp
 L Connector_Generic:Conn_01x01 H8
 U 1 1 664A148D
-P 2200 1150
-F 0 "H8" H 1850 1100 50  0000 C CNN
-F 1 "Hole" H 1850 1200 50  0000 C CNN
-F 2 "bear_face_parts:MountingHole_3mm" H 2200 1150 50  0001 C CNN
-F 3 "~" H 2200 1150 50  0001 C CNN
-	1    2200 1150
+P 2500 1150
+F 0 "H8" H 2150 1100 50  0000 C CNN
+F 1 "Hole" H 2150 1200 50  0000 C CNN
+F 2 "bear_face_parts:MountingHole_3mm" H 2500 1150 50  0001 C CNN
+F 3 "~" H 2500 1150 50  0001 C CNN
+	1    2500 1150
 	-1   0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR0111
 U 1 1 664D0BC7
-P 2400 1150
-F 0 "#PWR0111" H 2400 900 50  0001 C CNN
-F 1 "GND" H 2405 977 50  0000 C CNN
-F 2 "" H 2400 1150 50  0001 C CNN
-F 3 "" H 2400 1150 50  0001 C CNN
-	1    2400 1150
+P 2700 1150
+F 0 "#PWR0111" H 2700 900 50  0001 C CNN
+F 1 "GND" H 2705 977 50  0000 C CNN
+F 2 "" H 2700 1150 50  0001 C CNN
+F 3 "" H 2700 1150 50  0001 C CNN
+	1    2700 1150
 	1    0    0    -1  
 $EndComp
 Connection ~ 3850 3150
@@ -3411,7 +3400,7 @@ F 0 "J1" H 1057 2717 50  0000 C CNN
 F 1 "USB_B_Micro-Connector" H 1057 2626 50  0000 C CNN
 F 2 "bear_face_parts:MINI-USB-SMD_MICRO-4P-DIP" H 1150 2200 50  0001 C CNN
 F 3 "" H 1150 2200 50  0001 C CNN
-F 4 "" H 1000 2250 50  0001 C CNN "LCSC"
+F 4 "C456008" H 1000 2250 50  0001 C CNN "LCSC"
 	1    1000 2250
 	1    0    0    -1  
 $EndComp
@@ -3436,4 +3425,15 @@ Wire Wire Line
 Connection ~ 1900 2250
 Wire Wire Line
 	1900 2250 2100 2250
+$Comp
+L bear_face_pcb:Graphic G1
+U 1 1 5E310D8F
+P 9500 5500
+F 0 "G1" H 9686 5553 60  0000 L CNN
+F 1 "FACE" H 9686 5447 60  0000 L CNN
+F 2 "bear_face_silks:cbf_small_flipped" H 9500 5500 60  0001 C CNN
+F 3 "" H 9500 5500 60  0001 C CNN
+	1    9500 5500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
