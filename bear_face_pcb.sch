@@ -263,7 +263,7 @@ U 1 1 5E060A02
 P 10200 3200
 F 0 "MX59" H 10233 3423 60  0000 C CNN
 F 1 "ENTER" H 10233 3349 20  0000 C CNN
-F 2 "bear_face_parts:MXOnly-ISO-ANSI-Enter" H 9575 3175 60  0001 C CNN
+F 2 "bear_face_parts:MXOnly-ISO-ANSI-Enter-ReversedStabilizers" H 9575 3175 60  0001 C CNN
 F 3 "" H 9575 3175 60  0001 C CNN
 	1    10200 3200
 	1    0    0    -1  
