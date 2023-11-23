@@ -3185,7 +3185,7 @@ U 1 1 5DFE33D6
 P 8200 6100
 F 0 "SW1" H 8200 6385 50  0000 C CNN
 F 1 "RESET" H 8200 6294 50  0000 C CNN
-F 2 "bear_face_parts:PushButton_6x6mm_TH_Pretty" H 8200 6300 50  0001 C CNN
+F 2 "bear_face_parts:6x6mm_RESET" H 8200 6300 50  0001 C CNN
 F 3 "~" H 8200 6300 50  0001 C CNN
 	1    8200 6100
 	1    0    0    -1  
