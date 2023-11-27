@@ -71,7 +71,7 @@ L MX_Alps_Hybrid:MX-NoLED MX83
 U 1 1 5E06CD34
 P 9700 4600
 F 0 "MX83" H 9733 4823 60  0000 C CNN
-F 1 "LEFT" H 9733 4749 20  0000 C CNN
+F 1 "←" H 9733 4749 20  0000 C CNN
 F 2 "bear_face_parts:MXOnly-1U-NoLED" H 9075 4575 60  0001 C CNN
 F 3 "" H 9075 4575 60  0001 C CNN
 	1    9700 4600
@@ -96,7 +96,7 @@ L MX_Alps_Hybrid:MX-NoLED MX84
 U 1 1 5E06CD27
 P 10200 4600
 F 0 "MX84" H 10233 4823 60  0000 C CNN
-F 1 "DOWN" H 10233 4749 20  0000 C CNN
+F 1 "↓" H 10233 4749 20  0000 C CNN
 F 2 "bear_face_parts:MXOnly-1U-NoLED" H 9575 4575 60  0001 C CNN
 F 3 "" H 9575 4575 60  0001 C CNN
 	1    10200 4600
@@ -109,7 +109,7 @@ L MX_Alps_Hybrid:MX-NoLED MX85
 U 1 1 5E06CD1A
 P 10700 4600
 F 0 "MX85" H 10733 4823 60  0000 C CNN
-F 1 "RIGHT" H 10733 4749 20  0000 C CNN
+F 1 "→" H 10733 4749 20  0000 C CNN
 F 2 "bear_face_parts:MXOnly-1U-NoLED" H 10075 4575 60  0001 C CNN
 F 3 "" H 10075 4575 60  0001 C CNN
 	1    10700 4600
@@ -159,7 +159,7 @@ L MX_Alps_Hybrid:MX-NoLED MX74
 U 1 1 5E06CD00
 P 10200 3900
 F 0 "MX74" H 10233 4123 60  0000 C CNN
-F 1 "UP" H 10233 4049 20  0000 C CNN
+F 1 "↑" H 10233 4049 20  0000 C CNN
 F 2 "bear_face_parts:MXOnly-1U-NoLED" H 9575 3875 60  0001 C CNN
 F 3 "" H 9575 3875 60  0001 C CNN
 	1    10200 3900
@@ -1342,7 +1342,7 @@ L MX_Alps_Hybrid:MX-NoLED MX76
 U 1 1 5DFA42D5
 P 3700 4600
 F 0 "MX76" H 3733 4823 60  0000 C CNN
-F 1 "RCTRL" H 3733 4749 20  0000 C CNN
+F 1 "LCTRL" H 3733 4749 20  0000 C CNN
 F 2 "bear_face_parts:MXOnly-1.25U-NoLED" H 3075 4575 60  0001 C CNN
 F 3 "" H 3075 4575 60  0001 C CNN
 	1    3700 4600
@@ -1509,83 +1509,6 @@ F 3 "~" V 4050 1350 50  0001 C CNN
 F 4 "C81598" V 4050 1350 50  0001 C CNN "LCSC"
 	1    4050 1350
 	0    -1   -1   0   
-$EndComp
-$Comp
-L keebio:Hole H2
-U 1 1 5E007407
-P 1300 700
-F 0 "H2" H 1486 753 60  0000 L CNN
-F 1 "Hole" H 1486 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1300 700 60  0001 C CNN
-F 3 "" H 1300 700 60  0001 C CNN
-	1    1300 700 
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H3
-U 1 1 5E00740D
-P 1900 700
-F 0 "H3" H 2086 753 60  0000 L CNN
-F 1 "Hole" H 2086 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1900 700 60  0001 C CNN
-F 3 "" H 1900 700 60  0001 C CNN
-	1    1900 700 
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H8
-U 1 1 5E01E2A7
-P 1900 1200
-F 0 "H8" H 2086 1253 60  0000 L CNN
-F 1 "Hole" H 2086 1147 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1900 1200 60  0001 C CNN
-F 3 "" H 1900 1200 60  0001 C CNN
-	1    1900 1200
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H1
-U 1 1 5E01E2AD
-P 700 700
-F 0 "H1" H 886 753 60  0000 L CNN
-F 1 "Hole" H 886 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 700 700 60  0001 C CNN
-F 3 "" H 700 700 60  0001 C CNN
-	1    700  700 
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H6
-U 1 1 5E04EBA7
-P 700 1200
-F 0 "H6" H 886 1253 60  0000 L CNN
-F 1 "Hole" H 886 1147 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 700 1200 60  0001 C CNN
-F 3 "" H 700 1200 60  0001 C CNN
-	1    700  1200
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H7
-U 1 1 5E04EBAD
-P 1300 1200
-F 0 "H7" H 1486 1253 60  0000 L CNN
-F 1 "Hole" H 1486 1147 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1300 1200 60  0001 C CNN
-F 3 "" H 1300 1200 60  0001 C CNN
-	1    1300 1200
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H4
-U 1 1 5E04EBB9
-P 2500 700
-F 0 "H4" H 2686 753 60  0000 L CNN
-F 1 "Hole" H 2686 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 2500 700 60  0001 C CNN
-F 3 "" H 2500 700 60  0001 C CNN
-	1    2500 700 
-	1    0    0    -1  
 $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX3
@@ -3434,6 +3357,83 @@ F 1 "FACE" H 9686 5447 60  0000 L CNN
 F 2 "bear_face_silks:cbf_small_flipped" H 9500 5500 60  0001 C CNN
 F 3 "" H 9500 5500 60  0001 C CNN
 	1    9500 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H6n
+U 1 1 5E04EBAD
+P 1300 1200
+F 0 "H6n" H 1486 1253 60  0000 L CNN
+F 1 "Hole" H 1486 1147 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1300 1200 60  0001 C CNN
+F 3 "" H 1300 1200 60  0001 C CNN
+	1    1300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H10n
+U 1 1 5E04EBB9
+P 2500 700
+F 0 "H10n" H 2686 753 60  0000 L CNN
+F 1 "Hole" H 2686 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 2500 700 60  0001 C CNN
+F 3 "" H 2500 700 60  0001 C CNN
+	1    2500 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H9n
+U 1 1 5E01E2A7
+P 1900 1200
+F 0 "H9n" H 2086 1253 60  0000 L CNN
+F 1 "Hole" H 2086 1147 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1900 1200 60  0001 C CNN
+F 3 "" H 1900 1200 60  0001 C CNN
+	1    1900 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H8n
+U 1 1 5E00740D
+P 1900 700
+F 0 "H8n" H 2086 753 60  0000 L CNN
+F 1 "Hole" H 2086 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1900 700 60  0001 C CNN
+F 3 "" H 1900 700 60  0001 C CNN
+	1    1900 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H7n
+U 1 1 5E007407
+P 1300 700
+F 0 "H7n" H 1486 753 60  0000 L CNN
+F 1 "Hole" H 1486 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1300 700 60  0001 C CNN
+F 3 "" H 1300 700 60  0001 C CNN
+	1    1300 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H4n
+U 1 1 5E01E2AD
+P 700 700
+F 0 "H4n" H 886 753 60  0000 L CNN
+F 1 "Hole" H 886 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 700 700 60  0001 C CNN
+F 3 "" H 700 700 60  0001 C CNN
+	1    700  700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H3n
+U 1 1 5E04EBA7
+P 700 1200
+F 0 "H3n" H 886 1253 60  0000 L CNN
+F 1 "Hole" H 886 1147 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 700 1200 60  0001 C CNN
+F 3 "" H 700 1200 60  0001 C CNN
+	1    700  1200
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

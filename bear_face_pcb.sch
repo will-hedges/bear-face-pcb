@@ -1511,83 +1511,6 @@ F 4 "C81598" V 4050 1350 50  0001 C CNN "LCSC"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keebio:Hole H2
-U 1 1 5E007407
-P 1300 700
-F 0 "H2" H 1486 753 60  0000 L CNN
-F 1 "Hole" H 1486 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1300 700 60  0001 C CNN
-F 3 "" H 1300 700 60  0001 C CNN
-	1    1300 700 
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H3
-U 1 1 5E00740D
-P 1900 700
-F 0 "H3" H 2086 753 60  0000 L CNN
-F 1 "Hole" H 2086 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1900 700 60  0001 C CNN
-F 3 "" H 1900 700 60  0001 C CNN
-	1    1900 700 
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H8
-U 1 1 5E01E2A7
-P 1900 1200
-F 0 "H8" H 2086 1253 60  0000 L CNN
-F 1 "Hole" H 2086 1147 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1900 1200 60  0001 C CNN
-F 3 "" H 1900 1200 60  0001 C CNN
-	1    1900 1200
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H1
-U 1 1 5E01E2AD
-P 700 700
-F 0 "H1" H 886 753 60  0000 L CNN
-F 1 "Hole" H 886 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 700 700 60  0001 C CNN
-F 3 "" H 700 700 60  0001 C CNN
-	1    700  700 
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H6
-U 1 1 5E04EBA7
-P 700 1200
-F 0 "H6" H 886 1253 60  0000 L CNN
-F 1 "Hole" H 886 1147 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 700 1200 60  0001 C CNN
-F 3 "" H 700 1200 60  0001 C CNN
-	1    700  1200
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H7
-U 1 1 5E04EBAD
-P 1300 1200
-F 0 "H7" H 1486 1253 60  0000 L CNN
-F 1 "Hole" H 1486 1147 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 1300 1200 60  0001 C CNN
-F 3 "" H 1300 1200 60  0001 C CNN
-	1    1300 1200
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H4
-U 1 1 5E04EBB9
-P 2500 700
-F 0 "H4" H 2686 753 60  0000 L CNN
-F 1 "Hole" H 2686 647 60  0000 L CNN
-F 2 "bear_face_parts:MountingHole_6mm" H 2500 700 60  0001 C CNN
-F 3 "" H 2500 700 60  0001 C CNN
-	1    2500 700 
-	1    0    0    -1  
-$EndComp
-$Comp
 L MX_Alps_Hybrid:MX-NoLED MX3
 U 1 1 5DFC66C3
 P 4700 1100
@@ -3434,6 +3357,83 @@ F 1 "FACE" H 9686 5447 60  0000 L CNN
 F 2 "bear_face_silks:cbf_small_flipped" H 9500 5500 60  0001 C CNN
 F 3 "" H 9500 5500 60  0001 C CNN
 	1    9500 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H6
+U 1 1 5E04EBAD
+P 1300 1200
+F 0 "H6" H 1486 1253 60  0000 L CNN
+F 1 "Hole" H 1486 1147 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1300 1200 60  0001 C CNN
+F 3 "" H 1300 1200 60  0001 C CNN
+	1    1300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H10
+U 1 1 5E04EBB9
+P 2500 700
+F 0 "H10" H 2686 753 60  0000 L CNN
+F 1 "Hole" H 2686 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 2500 700 60  0001 C CNN
+F 3 "" H 2500 700 60  0001 C CNN
+	1    2500 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H9
+U 1 1 5E01E2A7
+P 1900 1200
+F 0 "H9" H 2086 1253 60  0000 L CNN
+F 1 "Hole" H 2086 1147 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1900 1200 60  0001 C CNN
+F 3 "" H 1900 1200 60  0001 C CNN
+	1    1900 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H8
+U 1 1 5E00740D
+P 1900 700
+F 0 "H8" H 2086 753 60  0000 L CNN
+F 1 "Hole" H 2086 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1900 700 60  0001 C CNN
+F 3 "" H 1900 700 60  0001 C CNN
+	1    1900 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H7
+U 1 1 5E007407
+P 1300 700
+F 0 "H7" H 1486 753 60  0000 L CNN
+F 1 "Hole" H 1486 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 1300 700 60  0001 C CNN
+F 3 "" H 1300 700 60  0001 C CNN
+	1    1300 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H4
+U 1 1 5E01E2AD
+P 700 700
+F 0 "H4" H 886 753 60  0000 L CNN
+F 1 "Hole" H 886 647 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 700 700 60  0001 C CNN
+F 3 "" H 700 700 60  0001 C CNN
+	1    700  700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H3
+U 1 1 5E04EBA7
+P 700 1200
+F 0 "H3" H 886 1253 60  0000 L CNN
+F 1 "Hole" H 886 1147 60  0000 L CNN
+F 2 "bear_face_parts:MountingHole_6mm" H 700 1200 60  0001 C CNN
+F 3 "" H 700 1200 60  0001 C CNN
+	1    700  1200
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
