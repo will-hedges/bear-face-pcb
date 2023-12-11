@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>D:\Code\bear_face_pcb\bear_face_pcb.sch</source>
-    <date>11/24/23 1:59:30 PM</date>
+    <date>12/11/23 2:33:47 PM</date>
     <tool>Eeschema (5.1.4)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -28,7 +28,7 @@
     </comp>
     <comp ref="D82">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -46,7 +46,7 @@
     </comp>
     <comp ref="D83">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -56,7 +56,7 @@
       <tstamp>5E06CD3A</tstamp>
     </comp>
     <comp ref="MX83">
-      <value>LEFT</value>
+      <value>←</value>
       <footprint>bear_face_parts:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
@@ -64,7 +64,7 @@
     </comp>
     <comp ref="D84">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -74,14 +74,14 @@
       <tstamp>5E06CD2D</tstamp>
     </comp>
     <comp ref="MX84">
-      <value>DOWN</value>
+      <value>↓</value>
       <footprint>bear_face_parts:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E06CD27</tstamp>
     </comp>
     <comp ref="MX85">
-      <value>RIGHT</value>
+      <value>→</value>
       <footprint>bear_face_parts:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
@@ -89,7 +89,7 @@
     </comp>
     <comp ref="D75">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -107,7 +107,7 @@
     </comp>
     <comp ref="D74">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -117,7 +117,7 @@
       <tstamp>5E06CD06</tstamp>
     </comp>
     <comp ref="MX74">
-      <value>UP</value>
+      <value>↑</value>
       <footprint>bear_face_parts:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
@@ -125,7 +125,7 @@
     </comp>
     <comp ref="D60">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -143,7 +143,7 @@
     </comp>
     <comp ref="D80">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -154,7 +154,7 @@
     </comp>
     <comp ref="D72">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -172,7 +172,7 @@
     </comp>
     <comp ref="D73">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -183,7 +183,7 @@
     </comp>
     <comp ref="D59">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -201,7 +201,7 @@
     </comp>
     <comp ref="D43">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -219,7 +219,7 @@
     </comp>
     <comp ref="D44">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -237,7 +237,7 @@
     </comp>
     <comp ref="D70">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -255,7 +255,7 @@
     </comp>
     <comp ref="D71">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -273,7 +273,7 @@
     </comp>
     <comp ref="D56">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -291,7 +291,7 @@
     </comp>
     <comp ref="D57">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -309,7 +309,7 @@
     </comp>
     <comp ref="D42">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -327,7 +327,7 @@
     </comp>
     <comp ref="D11">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -345,7 +345,7 @@
     </comp>
     <comp ref="D69">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -363,7 +363,7 @@
     </comp>
     <comp ref="D54">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -381,7 +381,7 @@
     </comp>
     <comp ref="D55">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -399,7 +399,7 @@
     </comp>
     <comp ref="D41">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -417,7 +417,7 @@
     </comp>
     <comp ref="D40">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -435,7 +435,7 @@
     </comp>
     <comp ref="D10">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -453,7 +453,7 @@
     </comp>
     <comp ref="D68">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -471,7 +471,7 @@
     </comp>
     <comp ref="D52">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -489,7 +489,7 @@
     </comp>
     <comp ref="D53">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -507,7 +507,7 @@
     </comp>
     <comp ref="D39">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -525,7 +525,7 @@
     </comp>
     <comp ref="D38">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -543,7 +543,7 @@
     </comp>
     <comp ref="D23">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -561,7 +561,7 @@
     </comp>
     <comp ref="D24">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -579,7 +579,7 @@
     </comp>
     <comp ref="D79">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -597,7 +597,7 @@
     </comp>
     <comp ref="D67">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -615,7 +615,7 @@
     </comp>
     <comp ref="D51">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -626,7 +626,7 @@
     </comp>
     <comp ref="D36">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -644,7 +644,7 @@
     </comp>
     <comp ref="D37">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -662,7 +662,7 @@
     </comp>
     <comp ref="D22">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -680,7 +680,7 @@
     </comp>
     <comp ref="D21">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -698,7 +698,7 @@
     </comp>
     <comp ref="D66">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -716,7 +716,7 @@
     </comp>
     <comp ref="D65">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -734,7 +734,7 @@
     </comp>
     <comp ref="D49">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -752,7 +752,7 @@
     </comp>
     <comp ref="D50">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -770,7 +770,7 @@
     </comp>
     <comp ref="D35">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -788,7 +788,7 @@
     </comp>
     <comp ref="D34">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -806,7 +806,7 @@
     </comp>
     <comp ref="D19">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -817,7 +817,7 @@
     </comp>
     <comp ref="D64">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -835,7 +835,7 @@
     </comp>
     <comp ref="D63">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -853,7 +853,7 @@
     </comp>
     <comp ref="D47">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -871,7 +871,7 @@
     </comp>
     <comp ref="D48">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -889,7 +889,7 @@
     </comp>
     <comp ref="D33">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -907,7 +907,7 @@
     </comp>
     <comp ref="D32">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -925,7 +925,7 @@
     </comp>
     <comp ref="D17">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -936,7 +936,7 @@
     </comp>
     <comp ref="D78">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -961,7 +961,7 @@
     </comp>
     <comp ref="D77">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -971,7 +971,7 @@
       <tstamp>5DFA5C56</tstamp>
     </comp>
     <comp ref="MX76">
-      <value>RCTRL</value>
+      <value>LCTRL</value>
       <footprint>bear_face_parts:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
@@ -979,7 +979,7 @@
     </comp>
     <comp ref="D76">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -997,7 +997,7 @@
     </comp>
     <comp ref="D61">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1008,7 +1008,7 @@
     </comp>
     <comp ref="D16">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1026,7 +1026,7 @@
     </comp>
     <comp ref="D31">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1044,7 +1044,7 @@
     </comp>
     <comp ref="D14">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1069,7 +1069,7 @@
     </comp>
     <comp ref="D3">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1087,7 +1087,7 @@
     </comp>
     <comp ref="D2">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1110,7 +1110,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E00740D</tstamp>
     </comp>
-    <comp ref="H8">
+    <comp ref="H7">
       <value>Hole</value>
       <footprint>bear_face_parts:MountingHole_6mm</footprint>
       <libsource lib="keebio" part="Hole" description=""/>
@@ -1124,14 +1124,14 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E01E2AD</tstamp>
     </comp>
-    <comp ref="H6">
+    <comp ref="H5">
       <value>Hole</value>
       <footprint>bear_face_parts:MountingHole_6mm</footprint>
       <libsource lib="keebio" part="Hole" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E04EBA7</tstamp>
     </comp>
-    <comp ref="H7">
+    <comp ref="H6">
       <value>Hole</value>
       <footprint>bear_face_parts:MountingHole_6mm</footprint>
       <libsource lib="keebio" part="Hole" description=""/>
@@ -1161,7 +1161,7 @@
     </comp>
     <comp ref="D5">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1186,7 +1186,7 @@
     </comp>
     <comp ref="D6">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1197,7 +1197,7 @@
     </comp>
     <comp ref="D7">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1215,7 +1215,7 @@
     </comp>
     <comp ref="D9">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1233,7 +1233,7 @@
     </comp>
     <comp ref="D12">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1251,7 +1251,7 @@
     </comp>
     <comp ref="D13">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1262,7 +1262,7 @@
     </comp>
     <comp ref="D18">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1280,7 +1280,7 @@
     </comp>
     <comp ref="D4">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1298,7 +1298,7 @@
     </comp>
     <comp ref="D20">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1316,7 +1316,7 @@
     </comp>
     <comp ref="D8">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1334,7 +1334,7 @@
     </comp>
     <comp ref="D45">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1352,7 +1352,7 @@
     </comp>
     <comp ref="D15">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1370,7 +1370,7 @@
     </comp>
     <comp ref="D26">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1388,7 +1388,7 @@
     </comp>
     <comp ref="D25">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1399,7 +1399,7 @@
     </comp>
     <comp ref="D27">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1417,7 +1417,7 @@
     </comp>
     <comp ref="D28">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1435,7 +1435,7 @@
     </comp>
     <comp ref="D29">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1453,7 +1453,7 @@
     </comp>
     <comp ref="D30">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1598,7 +1598,7 @@
     </comp>
     <comp ref="U1">
       <value>ATmega32U4-AU</value>
-      <footprint>Keebio-Parts:ATMEGA32U4-AU</footprint>
+      <footprint>bear_face_parts:ATMEGA32U4-AU</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
       <fields>
         <field name="LCSC">C44854</field>
@@ -1617,7 +1617,7 @@
     </comp>
     <comp ref="D81">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1642,7 +1642,7 @@
     </comp>
     <comp ref="D1">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1660,7 +1660,7 @@
     </comp>
     <comp ref="D62">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1685,7 +1685,7 @@
     </comp>
     <comp ref="D58">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1746,7 +1746,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>66037A5E</tstamp>
     </comp>
-    <comp ref="H5">
+    <comp ref="H8">
       <value>Hole</value>
       <footprint>bear_face_parts:MountingHole_3mm</footprint>
       <datasheet>~</datasheet>
@@ -1756,7 +1756,7 @@
     </comp>
     <comp ref="D46">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1774,7 +1774,7 @@
     </comp>
     <comp ref="D85">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1806,12 +1806,12 @@
       <tstamp>5E6C94F1</tstamp>
     </comp>
     <comp ref="J1">
-      <value>USB_B_Micro-Connector</value>
-      <footprint>bear_face_parts:MINI-USB-SMD_MICRO-4P-DIP</footprint>
+      <value>USB-C</value>
+      <footprint>bear_face_parts:USB-C_SMD-TYPE-C-31-M-12</footprint>
       <fields>
-        <field name="LCSC">C456008</field>
+        <field name="LCSC">C165948</field>
       </fields>
-      <libsource lib="bear_face_pcb" part="USB_B_Micro-Connector" description=""/>
+      <libsource lib="bear_face_pcb" part="TYPE-C-31-M-12" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6554DB7C</tstamp>
     </comp>
@@ -1821,6 +1821,28 @@
       <libsource lib="bear_face_pcb" part="Graphic" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E310D8F</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>65950206</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6595184C</tstamp>
     </comp>
   </components>
   <libparts>
@@ -1998,21 +2020,32 @@
         <field name="Value">Graphic</field>
       </fields>
     </libpart>
-    <libpart lib="bear_face_pcb" part="USB_B_Micro-Connector">
-      <footprints>
-        <fp>USB*</fp>
-      </footprints>
+    <libpart lib="bear_face_pcb" part="TYPE-C-31-M-12">
       <fields>
         <field name="Reference">J</field>
-        <field name="Value">USB_B_Micro-Connector</field>
+        <field name="Value">TYPE-C-31-M-12</field>
       </fields>
       <pins>
-        <pin num="1" name="VBUS" type="power_out"/>
-        <pin num="2" name="D-" type="BiDi"/>
-        <pin num="3" name="D+" type="BiDi"/>
-        <pin num="4" name="ID" type="passive"/>
-        <pin num="5" name="GND" type="power_out"/>
-        <pin num="6" name="Shield" type="passive"/>
+        <pin num="0" name="SHIELD" type="passive"/>
+        <pin num="1" name="SHIELD" type="passive"/>
+        <pin num="2" name="SHIELD" type="passive"/>
+        <pin num="3" name="SHIELD" type="passive"/>
+        <pin num="A1" name="GND" type="power_in"/>
+        <pin num="A4" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="BiDi"/>
+        <pin num="A6" name="DP1" type="BiDi"/>
+        <pin num="A7" name="DN1" type="BiDi"/>
+        <pin num="A8" name="SBU1" type="NotConnected"/>
+        <pin num="A9" name="VBUS" type="power_in"/>
+        <pin num="A12" name="GND" type="power_in"/>
+        <pin num="B1" name="GND" type="power_in"/>
+        <pin num="B4" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="BiDi"/>
+        <pin num="B6" name="DP2" type="BiDi"/>
+        <pin num="B7" name="DN2" type="BiDi"/>
+        <pin num="B8" name="SBU2" type="NotConnected"/>
+        <pin num="B9" name="VBUS" type="power_in"/>
+        <pin num="B12" name="GND" type="power_in"/>
       </pins>
     </libpart>
     <libpart lib="bear_face_pcb-rescue" part="ATmega32U4-AU-MCU_Microchip_ATmega-bear_face_pcb-rescue">
@@ -2106,695 +2139,719 @@
   </libraries>
   <nets>
     <net code="1" name="+5V">
-      <node ref="U1" pin="44"/>
-      <node ref="U1" pin="7"/>
-      <node ref="R4" pin="1"/>
-      <node ref="MX46" pin="3"/>
-      <node ref="U1" pin="34"/>
-      <node ref="F1" pin="1"/>
       <node ref="J2" pin="2"/>
+      <node ref="U1" pin="34"/>
+      <node ref="U1" pin="7"/>
+      <node ref="C4" pin="1"/>
+      <node ref="U1" pin="44"/>
+      <node ref="C5" pin="1"/>
+      <node ref="U2" pin="5"/>
+      <node ref="F1" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C6" pin="1"/>
       <node ref="U1" pin="24"/>
       <node ref="U1" pin="2"/>
       <node ref="U1" pin="14"/>
-      <node ref="C5" pin="1"/>
-      <node ref="C4" pin="1"/>
-      <node ref="C7" pin="1"/>
-      <node ref="C6" pin="1"/>
-      <node ref="U2" pin="5"/>
+      <node ref="MX46" pin="3"/>
+      <node ref="R4" pin="1"/>
     </net>
-    <net code="2" name="Net-(C3-Pad1)">
-      <node ref="U1" pin="6"/>
-      <node ref="C3" pin="1"/>
-    </net>
-    <net code="3" name="COL13">
-      <node ref="MX14" pin="1"/>
-      <node ref="MX84" pin="1"/>
-      <node ref="MX59" pin="1"/>
-      <node ref="U1" pin="27"/>
-      <node ref="MX74" pin="1"/>
-      <node ref="MX29" pin="1"/>
-      <node ref="MX44" pin="1"/>
-    </net>
-    <net code="4" name="COL14">
-      <node ref="MX85" pin="1"/>
-      <node ref="MX45" pin="1"/>
-      <node ref="MX75" pin="1"/>
-      <node ref="U1" pin="28"/>
-      <node ref="MX15" pin="1"/>
-      <node ref="MX60" pin="1"/>
-      <node ref="MX30" pin="1"/>
-    </net>
-    <net code="5" name="COL2">
-      <node ref="MX18" pin="1"/>
-      <node ref="MX3" pin="1"/>
-      <node ref="MX78" pin="1"/>
-      <node ref="U1" pin="31"/>
-      <node ref="MX63" pin="1"/>
-      <node ref="MX48" pin="1"/>
-      <node ref="MX33" pin="1"/>
-    </net>
-    <net code="6" name="COL4">
-      <node ref="U1" pin="1"/>
-      <node ref="MX20" pin="1"/>
-      <node ref="MX65" pin="1"/>
-      <node ref="MX50" pin="1"/>
-      <node ref="MX5" pin="1"/>
-      <node ref="MX35" pin="1"/>
-    </net>
-    <net code="7" name="COL5">
-      <node ref="MX21" pin="1"/>
-      <node ref="MX6" pin="1"/>
-      <node ref="MX36" pin="1"/>
-      <node ref="U1" pin="12"/>
-      <node ref="MX66" pin="1"/>
-      <node ref="MX51" pin="1"/>
-      <node ref="MX79" pin="1"/>
-    </net>
-    <net code="8" name="COL6">
-      <node ref="MX7" pin="1"/>
-      <node ref="MX67" pin="1"/>
-      <node ref="U1" pin="18"/>
-      <node ref="MX37" pin="1"/>
-      <node ref="MX22" pin="1"/>
-      <node ref="MX52" pin="1"/>
-    </net>
-    <net code="9" name="Net-(R5-Pad2)">
+    <net code="2" name="Net-(R5-Pad2)">
       <node ref="R5" pin="2"/>
       <node ref="U1" pin="33"/>
     </net>
-    <net code="10" name="Net-(C1-Pad1)">
-      <node ref="Y1" pin="1"/>
+    <net code="3" name="GND">
+      <node ref="SW1" pin="1"/>
+      <node ref="H8" pin="1"/>
+      <node ref="U2" pin="2"/>
+      <node ref="J1" pin="0"/>
+      <node ref="J1" pin="1"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J1" pin="3"/>
+      <node ref="J1" pin="A1"/>
+      <node ref="J1" pin="A12"/>
+      <node ref="J2" pin="6"/>
+      <node ref="U1" pin="5"/>
+      <node ref="U1" pin="43"/>
+      <node ref="U1" pin="35"/>
+      <node ref="U1" pin="15"/>
+      <node ref="U1" pin="23"/>
+      <node ref="J1" pin="B12"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="J1" pin="B1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="Y1" pin="4"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="2"/>
+    </net>
+    <net code="4" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="5" name="Net-(C2-Pad1)">
+      <node ref="U1" pin="16"/>
+      <node ref="C2" pin="1"/>
+      <node ref="Y1" pin="3"/>
+    </net>
+    <net code="6" name="Net-(C1-Pad1)">
       <node ref="U1" pin="17"/>
       <node ref="C1" pin="1"/>
+      <node ref="Y1" pin="1"/>
     </net>
-    <net code="11" name="Net-(U1-Pad42)">
+    <net code="7" name="Net-(U1-Pad42)">
       <node ref="U1" pin="42"/>
     </net>
-    <net code="12" name="Net-(C2-Pad1)">
-      <node ref="U1" pin="16"/>
-      <node ref="Y1" pin="3"/>
-      <node ref="C2" pin="1"/>
+    <net code="8" name="Net-(MX46-Pad4)">
+      <node ref="R3" pin="1"/>
+      <node ref="MX46" pin="4"/>
     </net>
-    <net code="13" name="RESET">
-      <node ref="SW1" pin="2"/>
-      <node ref="J2" pin="5"/>
-      <node ref="R4" pin="2"/>
-      <node ref="U1" pin="13"/>
+    <net code="9" name="Net-(D85-Pad2)">
+      <node ref="D85" pin="2"/>
+      <node ref="MX85" pin="2"/>
     </net>
-    <net code="14" name="COL11">
-      <node ref="MX72" pin="1"/>
-      <node ref="MX82" pin="1"/>
-      <node ref="MX27" pin="1"/>
-      <node ref="MX57" pin="1"/>
-      <node ref="MX42" pin="1"/>
-      <node ref="U1" pin="25"/>
-      <node ref="MX12" pin="1"/>
-    </net>
-    <net code="15" name="COL10">
-      <node ref="MX41" pin="1"/>
-      <node ref="MX71" pin="1"/>
-      <node ref="MX26" pin="1"/>
-      <node ref="MX56" pin="1"/>
-      <node ref="MX11" pin="1"/>
-      <node ref="U1" pin="22"/>
-      <node ref="MX81" pin="1"/>
-    </net>
-    <net code="16" name="COL9">
-      <node ref="MX80" pin="1"/>
-      <node ref="MX10" pin="1"/>
-      <node ref="MX40" pin="1"/>
-      <node ref="MX55" pin="1"/>
-      <node ref="MX70" pin="1"/>
-      <node ref="U1" pin="21"/>
-      <node ref="MX25" pin="1"/>
-    </net>
-    <net code="17" name="COL8">
-      <node ref="MX54" pin="1"/>
-      <node ref="U1" pin="20"/>
-      <node ref="MX9" pin="1"/>
-      <node ref="MX69" pin="1"/>
-      <node ref="MX24" pin="1"/>
-      <node ref="MX39" pin="1"/>
-    </net>
-    <net code="18" name="COL7">
-      <node ref="MX53" pin="1"/>
-      <node ref="MX8" pin="1"/>
-      <node ref="MX23" pin="1"/>
-      <node ref="MX38" pin="1"/>
-      <node ref="MX68" pin="1"/>
-      <node ref="U1" pin="19"/>
-    </net>
-    <net code="19" name="COL3">
-      <node ref="U1" pin="41"/>
-      <node ref="MX4" pin="1"/>
-      <node ref="MX64" pin="1"/>
-      <node ref="MX19" pin="1"/>
-      <node ref="MX49" pin="1"/>
-      <node ref="MX34" pin="1"/>
-    </net>
-    <net code="20" name="COL12">
-      <node ref="MX73" pin="1"/>
-      <node ref="MX43" pin="1"/>
-      <node ref="MX83" pin="1"/>
-      <node ref="MX13" pin="1"/>
-      <node ref="MX58" pin="1"/>
-      <node ref="U1" pin="26"/>
-      <node ref="MX28" pin="1"/>
-    </net>
-    <net code="21" name="Net-(D58-Pad2)">
-      <node ref="D58" pin="2"/>
-      <node ref="MX58" pin="2"/>
-    </net>
-    <net code="22" name="Net-(U2-Pad1)">
-      <node ref="U2" pin="1"/>
-    </net>
-    <net code="23" name="Net-(U2-Pad6)">
-      <node ref="U2" pin="6"/>
-    </net>
-    <net code="24" name="Net-(D3-Pad2)">
-      <node ref="D3" pin="2"/>
-      <node ref="MX3" pin="2"/>
-    </net>
-    <net code="25" name="Net-(D4-Pad2)">
-      <node ref="MX4" pin="2"/>
-      <node ref="D4" pin="2"/>
-    </net>
-    <net code="26" name="Net-(D62-Pad2)">
-      <node ref="MX62" pin="2"/>
-      <node ref="D62" pin="2"/>
-    </net>
-    <net code="27" name="DA+">
-      <node ref="U2" pin="4"/>
-      <node ref="R1" pin="2"/>
-      <node ref="J1" pin="3"/>
-    </net>
-    <net code="28" name="DB-">
-      <node ref="U1" pin="3"/>
-      <node ref="R2" pin="2"/>
-    </net>
-    <net code="29" name="DB+">
-      <node ref="U1" pin="4"/>
-      <node ref="R1" pin="1"/>
-    </net>
-    <net code="30" name="Net-(J1-Pad4)">
-      <node ref="J1" pin="4"/>
-    </net>
-    <net code="31" name="VCC">
-      <node ref="F1" pin="2"/>
-      <node ref="J1" pin="1"/>
-    </net>
-    <net code="32" name="DA-">
-      <node ref="J1" pin="2"/>
-      <node ref="U2" pin="3"/>
-      <node ref="R2" pin="1"/>
-    </net>
-    <net code="33" name="Net-(D46-Pad2)">
+    <net code="10" name="Net-(D46-Pad2)">
       <node ref="MX46" pin="2"/>
       <node ref="D46" pin="2"/>
     </net>
-    <net code="34" name="Net-(MX46-Pad4)">
-      <node ref="MX46" pin="4"/>
-      <node ref="R3" pin="1"/>
+    <net code="11" name="DB+">
+      <node ref="R1" pin="1"/>
+      <node ref="U1" pin="4"/>
     </net>
-    <net code="35" name="Net-(D85-Pad2)">
-      <node ref="MX85" pin="2"/>
-      <node ref="D85" pin="2"/>
+    <net code="12" name="DB-">
+      <node ref="U1" pin="3"/>
+      <node ref="R2" pin="2"/>
     </net>
-    <net code="36" name="GND">
-      <node ref="C2" pin="2"/>
-      <node ref="C3" pin="2"/>
-      <node ref="Y1" pin="4"/>
-      <node ref="J2" pin="6"/>
-      <node ref="C5" pin="2"/>
-      <node ref="SW1" pin="1"/>
-      <node ref="U2" pin="2"/>
-      <node ref="C7" pin="2"/>
-      <node ref="R5" pin="1"/>
-      <node ref="C6" pin="2"/>
-      <node ref="C1" pin="2"/>
-      <node ref="U1" pin="5"/>
-      <node ref="U1" pin="43"/>
-      <node ref="C4" pin="2"/>
-      <node ref="U1" pin="35"/>
-      <node ref="U1" pin="23"/>
-      <node ref="J1" pin="5"/>
-      <node ref="Y1" pin="2"/>
-      <node ref="J1" pin="6"/>
-      <node ref="U1" pin="15"/>
-      <node ref="H5" pin="1"/>
+    <net code="13" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
     </net>
-    <net code="37" name="SCLK">
+    <net code="14" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="15" name="VBUS">
+      <node ref="F1" pin="2"/>
+      <node ref="J1" pin="B4"/>
+      <node ref="J1" pin="B9"/>
+      <node ref="J1" pin="A4"/>
+      <node ref="J1" pin="A9"/>
+    </net>
+    <net code="16" name="DA-">
+      <node ref="J1" pin="A7"/>
+      <node ref="U2" pin="3"/>
+      <node ref="J1" pin="B7"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="17" name="Net-(J1-PadA5)">
+      <node ref="R6" pin="1"/>
+      <node ref="J1" pin="A5"/>
+    </net>
+    <net code="18" name="Net-(J1-PadB5)">
+      <node ref="R7" pin="1"/>
+      <node ref="J1" pin="B5"/>
+    </net>
+    <net code="19" name="Net-(J1-PadB8)">
+      <node ref="J1" pin="B8"/>
+    </net>
+    <net code="20" name="Net-(J1-PadA8)">
+      <node ref="J1" pin="A8"/>
+    </net>
+    <net code="21" name="DA+">
+      <node ref="U2" pin="4"/>
+      <node ref="J1" pin="A6"/>
+      <node ref="J1" pin="B6"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2"/>
+      <node ref="MX58" pin="2"/>
+    </net>
+    <net code="23" name="COL3">
+      <node ref="U1" pin="41"/>
+      <node ref="MX49" pin="1"/>
+      <node ref="MX19" pin="1"/>
+      <node ref="MX34" pin="1"/>
+      <node ref="MX64" pin="1"/>
+      <node ref="MX4" pin="1"/>
+    </net>
+    <net code="24" name="LEDPIN">
+      <node ref="R3" pin="2"/>
+      <node ref="U1" pin="36"/>
+    </net>
+    <net code="25" name="COL1">
+      <node ref="MX2" pin="1"/>
+      <node ref="U1" pin="32"/>
+      <node ref="MX62" pin="1"/>
+      <node ref="MX32" pin="1"/>
+      <node ref="MX77" pin="1"/>
+      <node ref="MX47" pin="1"/>
+      <node ref="MX17" pin="1"/>
+    </net>
+    <net code="26" name="SCLK">
       <node ref="J2" pin="3"/>
       <node ref="U1" pin="9"/>
     </net>
-    <net code="38" name="MOSI">
-      <node ref="J2" pin="4"/>
+    <net code="27" name="MOSI">
       <node ref="U1" pin="10"/>
+      <node ref="J2" pin="4"/>
     </net>
-    <net code="39" name="Net-(D73-Pad2)">
-      <node ref="D73" pin="2"/>
-      <node ref="MX73" pin="2"/>
+    <net code="28" name="COL2">
+      <node ref="MX33" pin="1"/>
+      <node ref="MX48" pin="1"/>
+      <node ref="MX18" pin="1"/>
+      <node ref="MX63" pin="1"/>
+      <node ref="MX3" pin="1"/>
+      <node ref="U1" pin="31"/>
+      <node ref="MX78" pin="1"/>
     </net>
-    <net code="40" name="COL0">
-      <node ref="U1" pin="29"/>
-      <node ref="MX46" pin="1"/>
-      <node ref="MX61" pin="1"/>
-      <node ref="MX1" pin="1"/>
-      <node ref="MX76" pin="1"/>
-      <node ref="MX16" pin="1"/>
-      <node ref="MX31" pin="1"/>
-    </net>
-    <net code="41" name="ROW5">
-      <node ref="D85" pin="1"/>
-      <node ref="D76" pin="1"/>
-      <node ref="D84" pin="1"/>
-      <node ref="D83" pin="1"/>
-      <node ref="D80" pin="1"/>
-      <node ref="D82" pin="1"/>
-      <node ref="D79" pin="1"/>
-      <node ref="D77" pin="1"/>
-      <node ref="D81" pin="1"/>
-      <node ref="U1" pin="30"/>
-      <node ref="D78" pin="1"/>
-    </net>
-    <net code="42" name="COL1">
-      <node ref="U1" pin="32"/>
-      <node ref="MX17" pin="1"/>
-      <node ref="MX77" pin="1"/>
-      <node ref="MX32" pin="1"/>
-      <node ref="MX62" pin="1"/>
-      <node ref="MX47" pin="1"/>
-      <node ref="MX2" pin="1"/>
-    </net>
-    <net code="43" name="LEDPIN">
-      <node ref="U1" pin="36"/>
-      <node ref="R3" pin="2"/>
-    </net>
-    <net code="44" name="ROW1">
-      <node ref="D24" pin="1"/>
-      <node ref="D17" pin="1"/>
-      <node ref="D19" pin="1"/>
-      <node ref="D30" pin="1"/>
-      <node ref="D23" pin="1"/>
-      <node ref="D25" pin="1"/>
-      <node ref="D18" pin="1"/>
-      <node ref="U1" pin="37"/>
-      <node ref="D20" pin="1"/>
-      <node ref="D27" pin="1"/>
-      <node ref="D28" pin="1"/>
-      <node ref="D16" pin="1"/>
-      <node ref="D22" pin="1"/>
-      <node ref="D21" pin="1"/>
-      <node ref="D26" pin="1"/>
-      <node ref="D29" pin="1"/>
-    </net>
-    <net code="45" name="ROW0">
-      <node ref="D14" pin="1"/>
-      <node ref="D12" pin="1"/>
-      <node ref="D10" pin="1"/>
-      <node ref="D13" pin="1"/>
-      <node ref="D11" pin="1"/>
-      <node ref="U1" pin="38"/>
-      <node ref="D9" pin="1"/>
-      <node ref="D7" pin="1"/>
-      <node ref="D5" pin="1"/>
-      <node ref="D2" pin="1"/>
-      <node ref="D3" pin="1"/>
-      <node ref="D6" pin="1"/>
-      <node ref="D1" pin="1"/>
-      <node ref="D8" pin="1"/>
-      <node ref="D15" pin="1"/>
-      <node ref="D4" pin="1"/>
-    </net>
-    <net code="46" name="ROW2">
-      <node ref="D41" pin="1"/>
-      <node ref="D39" pin="1"/>
-      <node ref="D38" pin="1"/>
-      <node ref="D37" pin="1"/>
-      <node ref="D40" pin="1"/>
-      <node ref="D36" pin="1"/>
-      <node ref="D44" pin="1"/>
-      <node ref="D45" pin="1"/>
-      <node ref="D31" pin="1"/>
-      <node ref="D42" pin="1"/>
-      <node ref="U1" pin="39"/>
-      <node ref="D32" pin="1"/>
-      <node ref="D35" pin="1"/>
-      <node ref="D33" pin="1"/>
-      <node ref="D34" pin="1"/>
-      <node ref="D43" pin="1"/>
-    </net>
-    <net code="47" name="ROW3">
-      <node ref="D56" pin="1"/>
-      <node ref="D57" pin="1"/>
-      <node ref="D60" pin="1"/>
-      <node ref="D48" pin="1"/>
-      <node ref="D53" pin="1"/>
-      <node ref="D52" pin="1"/>
-      <node ref="D51" pin="1"/>
-      <node ref="U1" pin="40"/>
-      <node ref="D46" pin="1"/>
-      <node ref="D47" pin="1"/>
-      <node ref="D59" pin="1"/>
-      <node ref="D55" pin="1"/>
-      <node ref="D50" pin="1"/>
-      <node ref="D49" pin="1"/>
-      <node ref="D58" pin="1"/>
-      <node ref="D54" pin="1"/>
-    </net>
-    <net code="48" name="ROW4">
-      <node ref="D73" pin="1"/>
-      <node ref="U1" pin="8"/>
-      <node ref="D72" pin="1"/>
-      <node ref="D65" pin="1"/>
-      <node ref="D62" pin="1"/>
-      <node ref="D61" pin="1"/>
-      <node ref="D64" pin="1"/>
-      <node ref="D67" pin="1"/>
-      <node ref="D66" pin="1"/>
-      <node ref="D63" pin="1"/>
-      <node ref="D68" pin="1"/>
-      <node ref="D69" pin="1"/>
-      <node ref="D74" pin="1"/>
-      <node ref="D75" pin="1"/>
-      <node ref="D71" pin="1"/>
-      <node ref="D70" pin="1"/>
-    </net>
-    <net code="49" name="MISO">
+    <net code="29" name="MISO">
       <node ref="J2" pin="1"/>
       <node ref="U1" pin="11"/>
     </net>
-    <net code="50" name="Net-(D37-Pad2)">
+    <net code="30" name="RESET">
+      <node ref="SW1" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U1" pin="13"/>
+      <node ref="J2" pin="5"/>
+    </net>
+    <net code="31" name="COL5">
+      <node ref="MX6" pin="1"/>
+      <node ref="MX66" pin="1"/>
+      <node ref="MX36" pin="1"/>
+      <node ref="MX21" pin="1"/>
+      <node ref="U1" pin="12"/>
+      <node ref="MX79" pin="1"/>
+      <node ref="MX51" pin="1"/>
+    </net>
+    <net code="32" name="COL4">
+      <node ref="MX5" pin="1"/>
+      <node ref="U1" pin="1"/>
+      <node ref="MX20" pin="1"/>
+      <node ref="MX65" pin="1"/>
+      <node ref="MX35" pin="1"/>
+      <node ref="MX50" pin="1"/>
+    </net>
+    <net code="33" name="COL6">
+      <node ref="MX7" pin="1"/>
+      <node ref="MX37" pin="1"/>
+      <node ref="MX22" pin="1"/>
+      <node ref="MX52" pin="1"/>
+      <node ref="U1" pin="18"/>
+      <node ref="MX67" pin="1"/>
+    </net>
+    <net code="34" name="COL7">
+      <node ref="MX8" pin="1"/>
+      <node ref="MX68" pin="1"/>
+      <node ref="MX38" pin="1"/>
+      <node ref="MX23" pin="1"/>
+      <node ref="U1" pin="19"/>
+      <node ref="MX53" pin="1"/>
+    </net>
+    <net code="35" name="COL8">
+      <node ref="MX69" pin="1"/>
+      <node ref="MX54" pin="1"/>
+      <node ref="U1" pin="20"/>
+      <node ref="MX24" pin="1"/>
+      <node ref="MX9" pin="1"/>
+      <node ref="MX39" pin="1"/>
+    </net>
+    <net code="36" name="COL9">
+      <node ref="U1" pin="21"/>
+      <node ref="MX25" pin="1"/>
+      <node ref="MX70" pin="1"/>
+      <node ref="MX10" pin="1"/>
+      <node ref="MX40" pin="1"/>
+      <node ref="MX80" pin="1"/>
+      <node ref="MX55" pin="1"/>
+    </net>
+    <net code="37" name="COL10">
+      <node ref="MX81" pin="1"/>
+      <node ref="U1" pin="22"/>
+      <node ref="MX11" pin="1"/>
+      <node ref="MX41" pin="1"/>
+      <node ref="MX26" pin="1"/>
+      <node ref="MX56" pin="1"/>
+      <node ref="MX71" pin="1"/>
+    </net>
+    <net code="38" name="COL11">
+      <node ref="MX12" pin="1"/>
+      <node ref="MX27" pin="1"/>
+      <node ref="MX82" pin="1"/>
+      <node ref="MX57" pin="1"/>
+      <node ref="MX42" pin="1"/>
+      <node ref="U1" pin="25"/>
+      <node ref="MX72" pin="1"/>
+    </net>
+    <net code="39" name="COL12">
+      <node ref="MX43" pin="1"/>
+      <node ref="MX28" pin="1"/>
+      <node ref="MX83" pin="1"/>
+      <node ref="MX73" pin="1"/>
+      <node ref="MX58" pin="1"/>
+      <node ref="U1" pin="26"/>
+      <node ref="MX13" pin="1"/>
+    </net>
+    <net code="40" name="COL13">
+      <node ref="MX84" pin="1"/>
+      <node ref="MX14" pin="1"/>
+      <node ref="MX74" pin="1"/>
+      <node ref="U1" pin="27"/>
+      <node ref="MX44" pin="1"/>
+      <node ref="MX59" pin="1"/>
+      <node ref="MX29" pin="1"/>
+    </net>
+    <net code="41" name="COL14">
+      <node ref="MX15" pin="1"/>
+      <node ref="MX45" pin="1"/>
+      <node ref="MX85" pin="1"/>
+      <node ref="MX75" pin="1"/>
+      <node ref="MX30" pin="1"/>
+      <node ref="U1" pin="28"/>
+      <node ref="MX60" pin="1"/>
+    </net>
+    <net code="42" name="COL0">
+      <node ref="MX1" pin="1"/>
+      <node ref="MX76" pin="1"/>
+      <node ref="MX61" pin="1"/>
+      <node ref="MX31" pin="1"/>
+      <node ref="MX46" pin="1"/>
+      <node ref="U1" pin="29"/>
+      <node ref="MX16" pin="1"/>
+    </net>
+    <net code="43" name="Net-(D62-Pad2)">
+      <node ref="MX62" pin="2"/>
+      <node ref="D62" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2"/>
+      <node ref="MX27" pin="2"/>
+    </net>
+    <net code="45" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="MX1" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="MX3" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D4-Pad2)">
+      <node ref="MX4" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="48" name="Net-(D22-Pad2)">
+      <node ref="MX22" pin="2"/>
+      <node ref="D22" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D37-Pad2)">
       <node ref="MX37" pin="2"/>
       <node ref="D37" pin="2"/>
     </net>
-    <net code="51" name="Net-(D67-Pad2)">
-      <node ref="MX67" pin="2"/>
-      <node ref="D67" pin="2"/>
-    </net>
-    <net code="52" name="Net-(D51-Pad2)">
-      <node ref="MX51" pin="2"/>
-      <node ref="D51" pin="2"/>
-    </net>
-    <net code="53" name="Net-(D36-Pad2)">
+    <net code="50" name="Net-(D36-Pad2)">
       <node ref="MX36" pin="2"/>
       <node ref="D36" pin="2"/>
     </net>
-    <net code="54" name="Net-(D79-Pad2)">
-      <node ref="D79" pin="2"/>
-      <node ref="MX79" pin="2"/>
+    <net code="51" name="Net-(D51-Pad2)">
+      <node ref="MX51" pin="2"/>
+      <node ref="D51" pin="2"/>
     </net>
-    <net code="55" name="Net-(D22-Pad2)">
-      <node ref="D22" pin="2"/>
-      <node ref="MX22" pin="2"/>
+    <net code="52" name="Net-(D65-Pad2)">
+      <node ref="MX65" pin="2"/>
+      <node ref="D65" pin="2"/>
     </net>
-    <net code="56" name="Net-(D21-Pad2)">
-      <node ref="D21" pin="2"/>
-      <node ref="MX21" pin="2"/>
-    </net>
-    <net code="57" name="Net-(D66-Pad2)">
+    <net code="53" name="Net-(D66-Pad2)">
       <node ref="D66" pin="2"/>
       <node ref="MX66" pin="2"/>
     </net>
-    <net code="58" name="Net-(D52-Pad2)">
-      <node ref="D52" pin="2"/>
-      <node ref="MX52" pin="2"/>
+    <net code="54" name="Net-(D67-Pad2)">
+      <node ref="D67" pin="2"/>
+      <node ref="MX67" pin="2"/>
+    </net>
+    <net code="55" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2"/>
+      <node ref="MX21" pin="2"/>
+    </net>
+    <net code="56" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="MX23" pin="2"/>
+    </net>
+    <net code="57" name="Net-(D38-Pad2)">
+      <node ref="MX38" pin="2"/>
+      <node ref="D38" pin="2"/>
+    </net>
+    <net code="58" name="Net-(D39-Pad2)">
+      <node ref="MX39" pin="2"/>
+      <node ref="D39" pin="2"/>
     </net>
     <net code="59" name="Net-(D53-Pad2)">
       <node ref="D53" pin="2"/>
       <node ref="MX53" pin="2"/>
     </net>
-    <net code="60" name="Net-(D39-Pad2)">
-      <node ref="D39" pin="2"/>
-      <node ref="MX39" pin="2"/>
-    </net>
-    <net code="61" name="Net-(D38-Pad2)">
-      <node ref="MX38" pin="2"/>
-      <node ref="D38" pin="2"/>
-    </net>
-    <net code="62" name="Net-(D23-Pad2)">
-      <node ref="MX23" pin="2"/>
-      <node ref="D23" pin="2"/>
-    </net>
-    <net code="63" name="Net-(D24-Pad2)">
-      <node ref="D24" pin="2"/>
-      <node ref="MX24" pin="2"/>
-    </net>
-    <net code="64" name="Net-(D64-Pad2)">
-      <node ref="MX64" pin="2"/>
-      <node ref="D64" pin="2"/>
-    </net>
-    <net code="65" name="Net-(D63-Pad2)">
-      <node ref="D63" pin="2"/>
-      <node ref="MX63" pin="2"/>
-    </net>
-    <net code="66" name="Net-(D47-Pad2)">
-      <node ref="D47" pin="2"/>
-      <node ref="MX47" pin="2"/>
-    </net>
-    <net code="67" name="Net-(D48-Pad2)">
-      <node ref="D48" pin="2"/>
-      <node ref="MX48" pin="2"/>
-    </net>
-    <net code="68" name="Net-(D33-Pad2)">
-      <node ref="D33" pin="2"/>
-      <node ref="MX33" pin="2"/>
-    </net>
-    <net code="69" name="Net-(D32-Pad2)">
-      <node ref="MX32" pin="2"/>
-      <node ref="D32" pin="2"/>
-    </net>
-    <net code="70" name="Net-(D17-Pad2)">
-      <node ref="MX17" pin="2"/>
-      <node ref="D17" pin="2"/>
-    </net>
-    <net code="71" name="Net-(D50-Pad2)">
-      <node ref="MX50" pin="2"/>
-      <node ref="D50" pin="2"/>
-    </net>
-    <net code="72" name="Net-(D65-Pad2)">
-      <node ref="MX65" pin="2"/>
-      <node ref="D65" pin="2"/>
-    </net>
-    <net code="73" name="Net-(D49-Pad2)">
+    <net code="60" name="Net-(D49-Pad2)">
       <node ref="MX49" pin="2"/>
       <node ref="D49" pin="2"/>
     </net>
-    <net code="74" name="Net-(D35-Pad2)">
-      <node ref="D35" pin="2"/>
-      <node ref="MX35" pin="2"/>
+    <net code="61" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2"/>
+      <node ref="MX24" pin="2"/>
     </net>
-    <net code="75" name="Net-(D34-Pad2)">
+    <net code="62" name="Net-(D79-Pad2)">
+      <node ref="D79" pin="2"/>
+      <node ref="MX79" pin="2"/>
+    </net>
+    <net code="63" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2"/>
+      <node ref="MX32" pin="2"/>
+    </net>
+    <net code="64" name="Net-(D33-Pad2)">
+      <node ref="MX33" pin="2"/>
+      <node ref="D33" pin="2"/>
+    </net>
+    <net code="65" name="Net-(D48-Pad2)">
+      <node ref="MX48" pin="2"/>
+      <node ref="D48" pin="2"/>
+    </net>
+    <net code="66" name="Net-(D47-Pad2)">
+      <node ref="MX47" pin="2"/>
+      <node ref="D47" pin="2"/>
+    </net>
+    <net code="67" name="Net-(D77-Pad2)">
+      <node ref="MX77" pin="2"/>
+      <node ref="D77" pin="2"/>
+    </net>
+    <net code="68" name="Net-(D78-Pad2)">
+      <node ref="MX78" pin="2"/>
+      <node ref="D78" pin="2"/>
+    </net>
+    <net code="69" name="Net-(D17-Pad2)">
+      <node ref="MX17" pin="2"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="70" name="ROW1">
+      <node ref="D25" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="U1" pin="37"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D17" pin="1"/>
+    </net>
+    <net code="71" name="Net-(D34-Pad2)">
       <node ref="MX34" pin="2"/>
       <node ref="D34" pin="2"/>
     </net>
-    <net code="76" name="Net-(D19-Pad2)">
-      <node ref="MX19" pin="2"/>
+    <net code="72" name="Net-(D35-Pad2)">
+      <node ref="MX35" pin="2"/>
+      <node ref="D35" pin="2"/>
+    </net>
+    <net code="73" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2"/>
+      <node ref="MX50" pin="2"/>
+    </net>
+    <net code="74" name="Net-(D19-Pad2)">
       <node ref="D19" pin="2"/>
+      <node ref="MX19" pin="2"/>
     </net>
-    <net code="77" name="Net-(D60-Pad2)">
-      <node ref="D60" pin="2"/>
-      <node ref="MX60" pin="2"/>
+    <net code="75" name="Net-(D64-Pad2)">
+      <node ref="D64" pin="2"/>
+      <node ref="MX64" pin="2"/>
     </net>
-    <net code="78" name="Net-(D80-Pad2)">
-      <node ref="D80" pin="2"/>
-      <node ref="MX80" pin="2"/>
+    <net code="76" name="Net-(D63-Pad2)">
+      <node ref="MX63" pin="2"/>
+      <node ref="D63" pin="2"/>
+    </net>
+    <net code="77" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2"/>
+      <node ref="MX59" pin="2"/>
+    </net>
+    <net code="78" name="Net-(D73-Pad2)">
+      <node ref="D73" pin="2"/>
+      <node ref="MX73" pin="2"/>
     </net>
     <net code="79" name="Net-(D72-Pad2)">
-      <node ref="MX72" pin="2"/>
       <node ref="D72" pin="2"/>
+      <node ref="MX72" pin="2"/>
     </net>
-    <net code="80" name="Net-(D59-Pad2)">
-      <node ref="MX59" pin="2"/>
-      <node ref="D59" pin="2"/>
+    <net code="80" name="Net-(D80-Pad2)">
+      <node ref="MX80" pin="2"/>
+      <node ref="D80" pin="2"/>
     </net>
-    <net code="81" name="Net-(D43-Pad2)">
-      <node ref="MX43" pin="2"/>
-      <node ref="D43" pin="2"/>
-    </net>
-    <net code="82" name="Net-(D44-Pad2)">
-      <node ref="MX44" pin="2"/>
-      <node ref="D44" pin="2"/>
-    </net>
-    <net code="83" name="Net-(D14-Pad2)">
-      <node ref="MX14" pin="2"/>
-      <node ref="D14" pin="2"/>
-    </net>
-    <net code="84" name="Net-(D70-Pad2)">
-      <node ref="D70" pin="2"/>
+    <net code="81" name="Net-(D70-Pad2)">
       <node ref="MX70" pin="2"/>
+      <node ref="D70" pin="2"/>
     </net>
-    <net code="85" name="Net-(D81-Pad2)">
-      <node ref="D81" pin="2"/>
-      <node ref="MX81" pin="2"/>
+    <net code="82" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2"/>
+      <node ref="MX14" pin="2"/>
     </net>
-    <net code="86" name="Net-(D82-Pad2)">
-      <node ref="MX82" pin="2"/>
-      <node ref="D82" pin="2"/>
+    <net code="83" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2"/>
+      <node ref="MX44" pin="2"/>
     </net>
-    <net code="87" name="Net-(D83-Pad2)">
+    <net code="84" name="Net-(D60-Pad2)">
+      <node ref="MX60" pin="2"/>
+      <node ref="D60" pin="2"/>
+    </net>
+    <net code="85" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2"/>
+      <node ref="MX43" pin="2"/>
+    </net>
+    <net code="86" name="Net-(D83-Pad2)">
       <node ref="MX83" pin="2"/>
       <node ref="D83" pin="2"/>
     </net>
-    <net code="88" name="Net-(D84-Pad2)">
+    <net code="87" name="Net-(D84-Pad2)">
       <node ref="MX84" pin="2"/>
       <node ref="D84" pin="2"/>
     </net>
-    <net code="89" name="Net-(D75-Pad2)">
+    <net code="88" name="ROW5">
+      <node ref="D81" pin="1"/>
+      <node ref="D84" pin="1"/>
+      <node ref="D76" pin="1"/>
+      <node ref="D85" pin="1"/>
+      <node ref="D79" pin="1"/>
+      <node ref="D82" pin="1"/>
+      <node ref="D83" pin="1"/>
+      <node ref="D77" pin="1"/>
+      <node ref="D80" pin="1"/>
+      <node ref="D78" pin="1"/>
+      <node ref="U1" pin="30"/>
+    </net>
+    <net code="89" name="Net-(D82-Pad2)">
+      <node ref="MX82" pin="2"/>
+      <node ref="D82" pin="2"/>
+    </net>
+    <net code="90" name="Net-(D81-Pad2)">
+      <node ref="D81" pin="2"/>
+      <node ref="MX81" pin="2"/>
+    </net>
+    <net code="91" name="Net-(D75-Pad2)">
       <node ref="D75" pin="2"/>
       <node ref="MX75" pin="2"/>
     </net>
-    <net code="90" name="Net-(D74-Pad2)">
-      <node ref="MX74" pin="2"/>
+    <net code="92" name="Net-(D74-Pad2)">
       <node ref="D74" pin="2"/>
+      <node ref="MX74" pin="2"/>
     </net>
-    <net code="91" name="Net-(D41-Pad2)">
+    <net code="93" name="Net-(D41-Pad2)">
       <node ref="MX41" pin="2"/>
       <node ref="D41" pin="2"/>
     </net>
-    <net code="92" name="Net-(D69-Pad2)">
-      <node ref="D69" pin="2"/>
-      <node ref="MX69" pin="2"/>
-    </net>
-    <net code="93" name="Net-(D54-Pad2)">
-      <node ref="MX54" pin="2"/>
-      <node ref="D54" pin="2"/>
-    </net>
-    <net code="94" name="Net-(D55-Pad2)">
-      <node ref="MX55" pin="2"/>
-      <node ref="D55" pin="2"/>
-    </net>
-    <net code="95" name="Net-(D40-Pad2)">
+    <net code="94" name="Net-(D40-Pad2)">
       <node ref="D40" pin="2"/>
       <node ref="MX40" pin="2"/>
     </net>
-    <net code="96" name="Net-(D10-Pad2)">
+    <net code="95" name="Net-(D55-Pad2)">
+      <node ref="MX55" pin="2"/>
+      <node ref="D55" pin="2"/>
+    </net>
+    <net code="96" name="Net-(D52-Pad2)">
+      <node ref="MX52" pin="2"/>
+      <node ref="D52" pin="2"/>
+    </net>
+    <net code="97" name="Net-(D68-Pad2)">
+      <node ref="D68" pin="2"/>
+      <node ref="MX68" pin="2"/>
+    </net>
+    <net code="98" name="Net-(D54-Pad2)">
+      <node ref="MX54" pin="2"/>
+      <node ref="D54" pin="2"/>
+    </net>
+    <net code="99" name="Net-(D10-Pad2)">
       <node ref="D10" pin="2"/>
       <node ref="MX10" pin="2"/>
     </net>
-    <net code="97" name="Net-(D68-Pad2)">
-      <node ref="MX68" pin="2"/>
-      <node ref="D68" pin="2"/>
-    </net>
-    <net code="98" name="Net-(D57-Pad2)">
-      <node ref="MX57" pin="2"/>
-      <node ref="D57" pin="2"/>
-    </net>
-    <net code="99" name="Net-(D71-Pad2)">
-      <node ref="D71" pin="2"/>
-      <node ref="MX71" pin="2"/>
-    </net>
-    <net code="100" name="Net-(D56-Pad2)">
-      <node ref="MX56" pin="2"/>
-      <node ref="D56" pin="2"/>
-    </net>
-    <net code="101" name="Net-(D42-Pad2)">
+    <net code="100" name="Net-(D42-Pad2)">
       <node ref="D42" pin="2"/>
       <node ref="MX42" pin="2"/>
     </net>
-    <net code="102" name="Net-(D11-Pad2)">
-      <node ref="D11" pin="2"/>
+    <net code="101" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2"/>
+      <node ref="MX57" pin="2"/>
+    </net>
+    <net code="102" name="Net-(D56-Pad2)">
+      <node ref="MX56" pin="2"/>
+      <node ref="D56" pin="2"/>
+    </net>
+    <net code="103" name="ROW2">
+      <node ref="D34" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D41" pin="1"/>
+      <node ref="U1" pin="39"/>
+      <node ref="D39" pin="1"/>
+      <node ref="D32" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D37" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D43" pin="1"/>
+      <node ref="D38" pin="1"/>
+      <node ref="D42" pin="1"/>
+    </net>
+    <net code="104" name="Net-(D71-Pad2)">
+      <node ref="MX71" pin="2"/>
+      <node ref="D71" pin="2"/>
+    </net>
+    <net code="105" name="Net-(D76-Pad2)">
+      <node ref="MX76" pin="2"/>
+      <node ref="D76" pin="2"/>
+    </net>
+    <net code="106" name="Net-(D11-Pad2)">
       <node ref="MX11" pin="2"/>
+      <node ref="D11" pin="2"/>
     </net>
-    <net code="103" name="Net-(D30-Pad2)">
-      <node ref="D30" pin="2"/>
-      <node ref="MX30" pin="2"/>
+    <net code="107" name="Net-(D69-Pad2)">
+      <node ref="D69" pin="2"/>
+      <node ref="MX69" pin="2"/>
     </net>
-    <net code="104" name="Net-(D1-Pad2)">
-      <node ref="D1" pin="2"/>
-      <node ref="MX1" pin="2"/>
+    <net code="108" name="ROW4">
+      <node ref="U1" pin="8"/>
+      <node ref="D62" pin="1"/>
+      <node ref="D61" pin="1"/>
+      <node ref="D64" pin="1"/>
+      <node ref="D63" pin="1"/>
+      <node ref="D67" pin="1"/>
+      <node ref="D73" pin="1"/>
+      <node ref="D69" pin="1"/>
+      <node ref="D71" pin="1"/>
+      <node ref="D68" pin="1"/>
+      <node ref="D74" pin="1"/>
+      <node ref="D72" pin="1"/>
+      <node ref="D75" pin="1"/>
+      <node ref="D66" pin="1"/>
+      <node ref="D70" pin="1"/>
+      <node ref="D65" pin="1"/>
     </net>
-    <net code="105" name="Net-(D2-Pad2)">
-      <node ref="D2" pin="2"/>
-      <node ref="MX2" pin="2"/>
+    <net code="109" name="ROW3">
+      <node ref="D58" pin="1"/>
+      <node ref="D48" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D59" pin="1"/>
+      <node ref="D54" pin="1"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D56" pin="1"/>
+      <node ref="D57" pin="1"/>
+      <node ref="D52" pin="1"/>
+      <node ref="D55" pin="1"/>
+      <node ref="D60" pin="1"/>
+      <node ref="D51" pin="1"/>
+      <node ref="D53" pin="1"/>
+      <node ref="D50" pin="1"/>
+      <node ref="U1" pin="40"/>
+      <node ref="D49" pin="1"/>
     </net>
-    <net code="106" name="Net-(D5-Pad2)">
-      <node ref="MX5" pin="2"/>
-      <node ref="D5" pin="2"/>
+    <net code="110" name="ROW0">
+      <node ref="D2" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="U1" pin="38"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D7" pin="1"/>
     </net>
-    <net code="107" name="Net-(D6-Pad2)">
-      <node ref="D6" pin="2"/>
-      <node ref="MX6" pin="2"/>
-    </net>
-    <net code="108" name="Net-(D7-Pad2)">
+    <net code="111" name="Net-(D7-Pad2)">
       <node ref="MX7" pin="2"/>
       <node ref="D7" pin="2"/>
     </net>
-    <net code="109" name="Net-(D9-Pad2)">
-      <node ref="D9" pin="2"/>
+    <net code="112" name="Net-(D9-Pad2)">
       <node ref="MX9" pin="2"/>
+      <node ref="D9" pin="2"/>
     </net>
-    <net code="110" name="Net-(D78-Pad2)">
-      <node ref="D78" pin="2"/>
-      <node ref="MX78" pin="2"/>
+    <net code="113" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="MX6" pin="2"/>
     </net>
-    <net code="111" name="Net-(D77-Pad2)">
-      <node ref="D77" pin="2"/>
-      <node ref="MX77" pin="2"/>
+    <net code="114" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="MX5" pin="2"/>
     </net>
-    <net code="112" name="Net-(D76-Pad2)">
-      <node ref="D76" pin="2"/>
-      <node ref="MX76" pin="2"/>
-    </net>
-    <net code="113" name="Net-(D61-Pad2)">
-      <node ref="MX61" pin="2"/>
-      <node ref="D61" pin="2"/>
-    </net>
-    <net code="114" name="Net-(D16-Pad2)">
-      <node ref="MX16" pin="2"/>
-      <node ref="D16" pin="2"/>
-    </net>
-    <net code="115" name="Net-(D31-Pad2)">
-      <node ref="D31" pin="2"/>
-      <node ref="MX31" pin="2"/>
-    </net>
-    <net code="116" name="Net-(D45-Pad2)">
-      <node ref="D45" pin="2"/>
-      <node ref="MX45" pin="2"/>
-    </net>
-    <net code="117" name="Net-(D15-Pad2)">
-      <node ref="MX15" pin="2"/>
-      <node ref="D15" pin="2"/>
-    </net>
-    <net code="118" name="Net-(D26-Pad2)">
-      <node ref="MX26" pin="2"/>
-      <node ref="D26" pin="2"/>
-    </net>
-    <net code="119" name="Net-(D25-Pad2)">
-      <node ref="D25" pin="2"/>
-      <node ref="MX25" pin="2"/>
-    </net>
-    <net code="120" name="Net-(D27-Pad2)">
-      <node ref="D27" pin="2"/>
-      <node ref="MX27" pin="2"/>
-    </net>
-    <net code="121" name="Net-(D28-Pad2)">
-      <node ref="D28" pin="2"/>
-      <node ref="MX28" pin="2"/>
-    </net>
-    <net code="122" name="Net-(D29-Pad2)">
-      <node ref="D29" pin="2"/>
-      <node ref="MX29" pin="2"/>
-    </net>
-    <net code="123" name="Net-(D12-Pad2)">
-      <node ref="MX12" pin="2"/>
-      <node ref="D12" pin="2"/>
-    </net>
-    <net code="124" name="Net-(D13-Pad2)">
-      <node ref="D13" pin="2"/>
-      <node ref="MX13" pin="2"/>
-    </net>
-    <net code="125" name="Net-(D18-Pad2)">
+    <net code="115" name="Net-(D18-Pad2)">
       <node ref="MX18" pin="2"/>
       <node ref="D18" pin="2"/>
     </net>
-    <net code="126" name="Net-(D20-Pad2)">
-      <node ref="D20" pin="2"/>
-      <node ref="MX20" pin="2"/>
+    <net code="116" name="Net-(D13-Pad2)">
+      <node ref="MX13" pin="2"/>
+      <node ref="D13" pin="2"/>
     </net>
-    <net code="127" name="Net-(D8-Pad2)">
-      <node ref="MX8" pin="2"/>
+    <net code="117" name="Net-(D12-Pad2)">
+      <node ref="MX12" pin="2"/>
+      <node ref="D12" pin="2"/>
+    </net>
+    <net code="118" name="Net-(D61-Pad2)">
+      <node ref="D61" pin="2"/>
+      <node ref="MX61" pin="2"/>
+    </net>
+    <net code="119" name="Net-(D31-Pad2)">
+      <node ref="MX31" pin="2"/>
+      <node ref="D31" pin="2"/>
+    </net>
+    <net code="120" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2"/>
+      <node ref="MX16" pin="2"/>
+    </net>
+    <net code="121" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="MX2" pin="2"/>
+    </net>
+    <net code="122" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2"/>
+      <node ref="MX28" pin="2"/>
+    </net>
+    <net code="123" name="Net-(D30-Pad2)">
+      <node ref="MX30" pin="2"/>
+      <node ref="D30" pin="2"/>
+    </net>
+    <net code="124" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2"/>
+      <node ref="MX29" pin="2"/>
+    </net>
+    <net code="125" name="Net-(D25-Pad2)">
+      <node ref="MX25" pin="2"/>
+      <node ref="D25" pin="2"/>
+    </net>
+    <net code="126" name="Net-(D8-Pad2)">
       <node ref="D8" pin="2"/>
+      <node ref="MX8" pin="2"/>
+    </net>
+    <net code="127" name="Net-(D20-Pad2)">
+      <node ref="MX20" pin="2"/>
+      <node ref="D20" pin="2"/>
+    </net>
+    <net code="128" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2"/>
+      <node ref="MX45" pin="2"/>
+    </net>
+    <net code="129" name="Net-(D15-Pad2)">
+      <node ref="MX15" pin="2"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="130" name="Net-(D26-Pad2)">
+      <node ref="MX26" pin="2"/>
+      <node ref="D26" pin="2"/>
     </net>
   </nets>
 </export>
