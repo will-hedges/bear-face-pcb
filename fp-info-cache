@@ -1,4 +1,4 @@
-16758643216190194
+16760349284850331
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74416,6 +74416,13 @@ bear_face_parts
 0
 4
 4
+bear_face_parts
+ATMEGA32U4-AU
+
+
+0
+44
+44
 bear_face_parts
 D_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
