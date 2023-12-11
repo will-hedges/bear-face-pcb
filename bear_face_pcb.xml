@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>D:\Code\bear_face_pcb\bear_face_pcb.sch</source>
-    <date>11/24/23 1:59:30 PM</date>
+    <date>12/11/23 3:07:16 PM</date>
     <tool>Eeschema (5.1.4)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -28,7 +28,7 @@
     </comp>
     <comp ref="D82">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -46,7 +46,7 @@
     </comp>
     <comp ref="D83">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -56,7 +56,7 @@
       <tstamp>5E06CD3A</tstamp>
     </comp>
     <comp ref="MX83">
-      <value>LEFT</value>
+      <value>←</value>
       <footprint>bear_face_parts:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
@@ -64,7 +64,7 @@
     </comp>
     <comp ref="D84">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -74,14 +74,14 @@
       <tstamp>5E06CD2D</tstamp>
     </comp>
     <comp ref="MX84">
-      <value>DOWN</value>
+      <value>↓</value>
       <footprint>bear_face_parts:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E06CD27</tstamp>
     </comp>
     <comp ref="MX85">
-      <value>RIGHT</value>
+      <value>→</value>
       <footprint>bear_face_parts:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
@@ -89,7 +89,7 @@
     </comp>
     <comp ref="D75">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -107,7 +107,7 @@
     </comp>
     <comp ref="D74">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -117,7 +117,7 @@
       <tstamp>5E06CD06</tstamp>
     </comp>
     <comp ref="MX74">
-      <value>UP</value>
+      <value>↑</value>
       <footprint>bear_face_parts:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
@@ -125,7 +125,7 @@
     </comp>
     <comp ref="D60">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -143,7 +143,7 @@
     </comp>
     <comp ref="D80">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -154,7 +154,7 @@
     </comp>
     <comp ref="D72">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -172,7 +172,7 @@
     </comp>
     <comp ref="D73">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -183,7 +183,7 @@
     </comp>
     <comp ref="D59">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -201,7 +201,7 @@
     </comp>
     <comp ref="D43">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -219,7 +219,7 @@
     </comp>
     <comp ref="D44">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -237,7 +237,7 @@
     </comp>
     <comp ref="D70">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -255,7 +255,7 @@
     </comp>
     <comp ref="D71">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -273,7 +273,7 @@
     </comp>
     <comp ref="D56">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -291,7 +291,7 @@
     </comp>
     <comp ref="D57">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -309,7 +309,7 @@
     </comp>
     <comp ref="D42">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -327,7 +327,7 @@
     </comp>
     <comp ref="D11">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -345,7 +345,7 @@
     </comp>
     <comp ref="D69">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -363,7 +363,7 @@
     </comp>
     <comp ref="D54">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -381,7 +381,7 @@
     </comp>
     <comp ref="D55">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -399,7 +399,7 @@
     </comp>
     <comp ref="D41">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -417,7 +417,7 @@
     </comp>
     <comp ref="D40">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -435,7 +435,7 @@
     </comp>
     <comp ref="D10">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -453,7 +453,7 @@
     </comp>
     <comp ref="D68">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -471,7 +471,7 @@
     </comp>
     <comp ref="D52">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -489,7 +489,7 @@
     </comp>
     <comp ref="D53">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -507,7 +507,7 @@
     </comp>
     <comp ref="D39">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -525,7 +525,7 @@
     </comp>
     <comp ref="D38">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -543,7 +543,7 @@
     </comp>
     <comp ref="D23">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -561,7 +561,7 @@
     </comp>
     <comp ref="D24">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -579,7 +579,7 @@
     </comp>
     <comp ref="D79">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -597,7 +597,7 @@
     </comp>
     <comp ref="D67">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -615,7 +615,7 @@
     </comp>
     <comp ref="D51">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -626,7 +626,7 @@
     </comp>
     <comp ref="D36">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -644,7 +644,7 @@
     </comp>
     <comp ref="D37">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -662,7 +662,7 @@
     </comp>
     <comp ref="D22">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -680,7 +680,7 @@
     </comp>
     <comp ref="D21">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -698,7 +698,7 @@
     </comp>
     <comp ref="D66">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -716,7 +716,7 @@
     </comp>
     <comp ref="D65">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -734,7 +734,7 @@
     </comp>
     <comp ref="D49">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -752,7 +752,7 @@
     </comp>
     <comp ref="D50">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -770,7 +770,7 @@
     </comp>
     <comp ref="D35">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -788,7 +788,7 @@
     </comp>
     <comp ref="D34">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -806,7 +806,7 @@
     </comp>
     <comp ref="D19">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -817,7 +817,7 @@
     </comp>
     <comp ref="D64">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -835,7 +835,7 @@
     </comp>
     <comp ref="D63">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -853,7 +853,7 @@
     </comp>
     <comp ref="D47">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -871,7 +871,7 @@
     </comp>
     <comp ref="D48">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -889,7 +889,7 @@
     </comp>
     <comp ref="D33">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -907,7 +907,7 @@
     </comp>
     <comp ref="D32">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -925,7 +925,7 @@
     </comp>
     <comp ref="D17">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -936,7 +936,7 @@
     </comp>
     <comp ref="D78">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -961,7 +961,7 @@
     </comp>
     <comp ref="D77">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -971,7 +971,7 @@
       <tstamp>5DFA5C56</tstamp>
     </comp>
     <comp ref="MX76">
-      <value>RCTRL</value>
+      <value>LCTRL</value>
       <footprint>bear_face_parts:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
@@ -979,7 +979,7 @@
     </comp>
     <comp ref="D76">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -997,7 +997,7 @@
     </comp>
     <comp ref="D61">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1008,7 +1008,7 @@
     </comp>
     <comp ref="D16">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1026,7 +1026,7 @@
     </comp>
     <comp ref="D31">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1044,7 +1044,7 @@
     </comp>
     <comp ref="D14">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1069,7 +1069,7 @@
     </comp>
     <comp ref="D3">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1087,7 +1087,7 @@
     </comp>
     <comp ref="D2">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1095,55 +1095,6 @@
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E049BC6</tstamp>
-    </comp>
-    <comp ref="H2">
-      <value>Hole</value>
-      <footprint>bear_face_parts:MountingHole_6mm</footprint>
-      <libsource lib="keebio" part="Hole" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E007407</tstamp>
-    </comp>
-    <comp ref="H3">
-      <value>Hole</value>
-      <footprint>bear_face_parts:MountingHole_6mm</footprint>
-      <libsource lib="keebio" part="Hole" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E00740D</tstamp>
-    </comp>
-    <comp ref="H8">
-      <value>Hole</value>
-      <footprint>bear_face_parts:MountingHole_6mm</footprint>
-      <libsource lib="keebio" part="Hole" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E01E2A7</tstamp>
-    </comp>
-    <comp ref="H1">
-      <value>Hole</value>
-      <footprint>bear_face_parts:MountingHole_6mm</footprint>
-      <libsource lib="keebio" part="Hole" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E01E2AD</tstamp>
-    </comp>
-    <comp ref="H6">
-      <value>Hole</value>
-      <footprint>bear_face_parts:MountingHole_6mm</footprint>
-      <libsource lib="keebio" part="Hole" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E04EBA7</tstamp>
-    </comp>
-    <comp ref="H7">
-      <value>Hole</value>
-      <footprint>bear_face_parts:MountingHole_6mm</footprint>
-      <libsource lib="keebio" part="Hole" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E04EBAD</tstamp>
-    </comp>
-    <comp ref="H4">
-      <value>Hole</value>
-      <footprint>bear_face_parts:MountingHole_6mm</footprint>
-      <libsource lib="keebio" part="Hole" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E04EBB9</tstamp>
     </comp>
     <comp ref="MX3">
       <value>F2</value>
@@ -1161,7 +1112,7 @@
     </comp>
     <comp ref="D5">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1186,7 +1137,7 @@
     </comp>
     <comp ref="D6">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1197,7 +1148,7 @@
     </comp>
     <comp ref="D7">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1215,7 +1166,7 @@
     </comp>
     <comp ref="D9">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1233,7 +1184,7 @@
     </comp>
     <comp ref="D12">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1251,7 +1202,7 @@
     </comp>
     <comp ref="D13">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1262,7 +1213,7 @@
     </comp>
     <comp ref="D18">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1280,7 +1231,7 @@
     </comp>
     <comp ref="D4">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1298,7 +1249,7 @@
     </comp>
     <comp ref="D20">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1316,7 +1267,7 @@
     </comp>
     <comp ref="D8">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1334,7 +1285,7 @@
     </comp>
     <comp ref="D45">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1352,7 +1303,7 @@
     </comp>
     <comp ref="D15">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1370,7 +1321,7 @@
     </comp>
     <comp ref="D26">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1388,7 +1339,7 @@
     </comp>
     <comp ref="D25">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1399,7 +1350,7 @@
     </comp>
     <comp ref="D27">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1417,7 +1368,7 @@
     </comp>
     <comp ref="D28">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1435,7 +1386,7 @@
     </comp>
     <comp ref="D29">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1453,7 +1404,7 @@
     </comp>
     <comp ref="D30">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1598,7 +1549,7 @@
     </comp>
     <comp ref="U1">
       <value>ATmega32U4-AU</value>
-      <footprint>Keebio-Parts:ATMEGA32U4-AU</footprint>
+      <footprint>bear_face_parts:ATMEGA32U4-AU</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
       <fields>
         <field name="LCSC">C44854</field>
@@ -1617,7 +1568,7 @@
     </comp>
     <comp ref="D81">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1642,7 +1593,7 @@
     </comp>
     <comp ref="D1">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1660,7 +1611,7 @@
     </comp>
     <comp ref="D62">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1685,7 +1636,7 @@
     </comp>
     <comp ref="D58">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1756,7 +1707,7 @@
     </comp>
     <comp ref="D46">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1774,7 +1725,7 @@
     </comp>
     <comp ref="D85">
       <value>D_Small</value>
-      <footprint>bear_face_parts:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C81598</field>
@@ -1821,6 +1772,55 @@
       <libsource lib="bear_face_pcb" part="Graphic" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E310D8F</tstamp>
+    </comp>
+    <comp ref="H6">
+      <value>Hole</value>
+      <footprint>bear_face_parts:MountingHole_6mm</footprint>
+      <libsource lib="keebio" part="Hole" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E04EBAD</tstamp>
+    </comp>
+    <comp ref="H10">
+      <value>Hole</value>
+      <footprint>bear_face_parts:MountingHole_6mm</footprint>
+      <libsource lib="keebio" part="Hole" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E04EBB9</tstamp>
+    </comp>
+    <comp ref="H9">
+      <value>Hole</value>
+      <footprint>bear_face_parts:MountingHole_6mm</footprint>
+      <libsource lib="keebio" part="Hole" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E01E2A7</tstamp>
+    </comp>
+    <comp ref="H8">
+      <value>Hole</value>
+      <footprint>bear_face_parts:MountingHole_6mm</footprint>
+      <libsource lib="keebio" part="Hole" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E00740D</tstamp>
+    </comp>
+    <comp ref="H7">
+      <value>Hole</value>
+      <footprint>bear_face_parts:MountingHole_6mm</footprint>
+      <libsource lib="keebio" part="Hole" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E007407</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>Hole</value>
+      <footprint>bear_face_parts:MountingHole_6mm</footprint>
+      <libsource lib="keebio" part="Hole" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E01E2AD</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>Hole</value>
+      <footprint>bear_face_parts:MountingHole_6mm</footprint>
+      <libsource lib="keebio" part="Hole" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E04EBA7</tstamp>
     </comp>
   </components>
   <libparts>
