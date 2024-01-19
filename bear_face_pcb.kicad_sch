@@ -9620,7 +9620,7 @@
     (property "Value" "Hole" (at 72.39 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 63.5 29.21 0)
+    (property "Footprint" "bear_face_parts:MountingHole_Header_Pin_Pad" (at 63.5 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 63.5 29.21 0)
