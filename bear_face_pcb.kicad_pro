@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 6.0,
-          "height": 6.0,
-          "width": 6.0
+          "drill": 2.2,
+          "height": 4.4,
+          "width": 4.4
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -566,19 +566,7 @@
       },
       {
         "netclass": "Default",
-        "pattern": "Net-(J1-PadA5)"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "Net-(J1-PadA8)"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "Net-(J1-PadB5)"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "Net-(J1-PadB8)"
+        "pattern": "Net-(J1-Pad4)"
       },
       {
         "netclass": "Default",
@@ -642,7 +630,7 @@
       },
       {
         "netclass": "Power",
-        "pattern": "VBUS"
+        "pattern": "VCC"
       },
       {
         "netclass": "Short diode tracks",
