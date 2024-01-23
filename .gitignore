@@ -1,4 +1,34 @@
-#auto_saved_files#
+# For PCBs designed using KiCad: https://www.kicad.org/
+# Format documentation: https://kicad.org/help/file-formats/
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+*.csv
+
+
 bear_face_silks/cake pasta.pptx
 race 3 base layout.png
 rectangular matrix.xlsx
@@ -12,6 +42,6 @@ stm32f103 datasheet.pdf
 atmega32u4 datasheet.pdf
 bear_face_customers.xlsx
 bear_face_pcb-backups/
-_autosave-bear_face_pcb.kicad_pcb
-_autosave-bear_face_pcb.kicad_sch
-~_autosave-bear_face_pcb.kicad_pcb.lck
+
+
+
