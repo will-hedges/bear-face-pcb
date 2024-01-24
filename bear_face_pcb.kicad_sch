@@ -5044,7 +5044,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 33.02 17.78 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 00000000-0000-0000-0000-00005e007407)
     (property "Reference" "Hm2" (at 37.7444 16.4338 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -5068,7 +5068,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 48.26 17.78 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 00000000-0000-0000-0000-00005e00740d)
     (property "Reference" "Hm3" (at 52.9844 16.4338 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -5587,7 +5587,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 48.26 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 00000000-0000-0000-0000-00005e01e2a7)
     (property "Reference" "Hm7" (at 52.9844 25.3238 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -5611,7 +5611,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 17.78 17.78 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 00000000-0000-0000-0000-00005e01e2ad)
     (property "Reference" "Hm1" (at 22.5044 16.4338 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -6735,7 +6735,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 17.78 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 00000000-0000-0000-0000-00005e04eba7)
     (property "Reference" "Hm5" (at 22.5044 25.3238 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -6759,7 +6759,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 33.02 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 00000000-0000-0000-0000-00005e04ebad)
     (property "Reference" "Hm6" (at 37.7444 25.3238 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -6783,7 +6783,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 63.5 17.78 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 00000000-0000-0000-0000-00005e04ebb9)
     (property "Reference" "Hm4" (at 68.2244 16.4338 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -9842,7 +9842,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 68.58 29.21 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 00000000-0000-0000-0000-0000664a148d)
     (property "Reference" "Hm8" (at 63.5 27.94 0)
       (effects (font (size 1.524 1.524)))
@@ -9867,7 +9867,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 144.78 17.78 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 09646945-7ef7-4935-b9bc-5103ae84448c)
     (property "Reference" "Hc5" (at 152.4 16.51 0)
       (effects (font (size 1.524 1.524)))
@@ -9891,7 +9891,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 83.82 17.78 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 10bb14e0-faf7-4782-b1ab-d66736d2b745)
     (property "Reference" "Hc1" (at 88.5444 16.4338 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -9915,7 +9915,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 114.3 17.78 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 25bdf5c7-640d-43c0-aeb8-4dc0d20e0c38)
     (property "Reference" "Hc3" (at 121.92 19.05 0)
       (effects (font (size 1.524 1.524)))
@@ -9939,7 +9939,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 83.82 35.56 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 2ecde457-5f4b-4977-8b35-8b815b46565d)
     (property "Reference" "Hc11" (at 91.44 34.29 0)
       (effects (font (size 1.524 1.524)))
@@ -9963,7 +9963,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 114.3 35.56 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 2f0e2ba4-d8b1-49f1-84b9-8f78f8383bee)
     (property "Reference" "Hc13" (at 119.0244 34.2138 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -9987,7 +9987,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 99.06 35.56 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 37142a97-cbe0-4f18-bcff-c0d33696bf07)
     (property "Reference" "Hc12" (at 103.7844 34.2138 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -10011,7 +10011,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 83.82 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 430f86d4-afa4-4bb1-8824-8e6b1c7ebb9b)
     (property "Reference" "Hc6" (at 88.5444 25.3238 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -10060,7 +10060,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 144.78 26.67 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 63afbf96-5938-4b66-9a56-093ba95d2323)
     (property "Reference" "Hc10" (at 152.4 25.4 0)
       (effects (font (size 1.524 1.524)))
@@ -10084,7 +10084,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 114.3 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 665751d6-e376-4343-9a22-a020b3f1ae0d)
     (property "Reference" "Hc8" (at 119.0244 25.3238 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -10108,7 +10108,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 129.54 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 69bc76a0-8a4e-43d3-b5a4-f49d64bf6194)
     (property "Reference" "Hc9" (at 134.2644 25.3238 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -10132,7 +10132,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 99.06 26.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 72d89851-de1a-47ad-897d-25bea4eb367d)
     (property "Reference" "Hc7" (at 103.7844 25.3238 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -10156,7 +10156,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 129.54 35.56 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 96cdf4a4-3d1b-4a61-9c45-cc5e3319e382)
     (property "Reference" "Hc14" (at 137.16 34.29 0)
       (effects (font (size 1.524 1.524)))
@@ -10180,7 +10180,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 99.06 17.78 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid b74a706b-3209-4da3-ba58-87b5d86d6d83)
     (property "Reference" "Hc2" (at 103.7844 16.4338 0)
       (effects (font (size 1.524 1.524)) (justify left))
@@ -10204,7 +10204,7 @@
   )
 
   (symbol (lib_id "keebio:Hole") (at 129.54 17.78 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid d64cbcdc-d4bc-4e41-8793-ad6502d9965d)
     (property "Reference" "Hc4" (at 137.16 16.51 0)
       (effects (font (size 1.524 1.524)))
