@@ -48001,8 +48001,8 @@
     )
   )
 
-  (gr_line (start 79.68 70.055857) (end 88.062 70.055857)
-    (stroke (width 0.15) (type solid)) (layer "Cmts.User") (tstamp 2a7e4920-cf37-4a0c-8fe3-8d376ac1c898))
+  (gr_line (start 79.68 68.834) (end 88.062 68.834)
+    (stroke (width 0.15) (type dash)) (layer "Cmts.User") (tstamp 2a7e4920-cf37-4a0c-8fe3-8d376ac1c898))
   (gr_line (start 354.319106 70.059859) (end 66.312 70.060358)
     (stroke (width 0.12) (type solid)) (layer "Edge.Cuts") (tstamp 00000000-0000-0000-0000-00005e0ad9c0))
   (gr_line (start 60.312 91.201) (end 60.312 121.226)
