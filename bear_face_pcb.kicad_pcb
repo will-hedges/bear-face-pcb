@@ -67225,7 +67225,7 @@
 		(layer "Edge.Cuts")
 		(uuid "ba7b12d9-849e-42ff-b0df-267f558ba21a")
 	)
-	(gr_text "bear_face v3.1c\ndesigned by /u/chemicalwill"
+	(gr_text "bear_face v3.2c\ndesigned by /u/chemicalwill"
 		(at 218.312 170.688 0)
 		(layer "B.SilkS")
 		(uuid "bb4903e6-f1eb-47ef-93a0-4eca1bd36387")
